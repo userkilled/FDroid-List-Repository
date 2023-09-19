@@ -121,4 +121,8 @@ https://fdroid.fedilab.app/repo
 11 F0 A6 99 10 A4 28 0E 2C D3 CC C3 14 63 37 D0 06 BE 53 9B 18 E1 A9 FE AC E1 5F F7 57 A9 4F EB
 
 
+## Kali NetHunter
+https://store.nethunter.com/repo
 
+* fingerprint: *
+7E 41 8D 34 C3 AD 4F 3C 37 D7 E6 B0 FA CE 13 33 23 64 45 9C 86 21 34 EB 09 9A 3B DA 2C CF 44 94
