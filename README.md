@@ -98,3 +98,27 @@ https://rfc2822.gitlab.io/fdroid-firefox/fdroid/repo
 
 * fingerprint: *
 8F 99 2B BB A0 34 0E FE 62 99 C7 A4 10 B3 6D 9C 88 89 11 4C A6 C5 80 13 C3 58 7C DA 41 1B 4A ED
+
+
+## Calyx Institute (testing)
+https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo
+
+* fingerprint: *
+C4 4D 58 B4 54 7D E5 09 61 38 CB 0B 34 A1 CC 99 DA B3 B4 27 44 12 ED 75 3F CC BF C1 1D C1 B7 B6
+
+
+## DivestOS
+https://divestos.org/fdroid/official
+
+* fingerprint: *
+E4 BE 8D 6A BF A4 D9 D4 FE EF 03 CD DA 7F F6 2A 73 FD 64 B7 55 66 F6 DD 4E 5E 57 75 50 BE 84 67
+
+
+## Fedilab
+https://fdroid.fedilab.app/repo
+
+* fingerprint: *
+11 F0 A6 99 10 A4 28 0E 2C D3 CC C3 14 63 37 D0 06 BE 53 9B 18 E1 A9 FE AC E1 5F F7 57 A9 4F EB
+
+
+
