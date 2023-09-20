@@ -135,8 +135,15 @@ https://secfirst.org/fdroid/repo
 39 EB 57 05 2F 8D 68 45 14 17 68 19 D1 64 5F 6A 0A 7B D9 43 DB C3 1A B1 01 94 90 06 AC 0B C2 28
 
 
-## Patched Application
+## Patched Applications
 https://thecapslock.gitlab.io/fdroid-patched-apps/fdroid/repo
 
 * fingerprint: *
 31 3D 9E 6E 78 9F F4 E8 E2 D6 87 AA E3 1E EF 57 60 50 00 3E D6 79 63 30 18 21 AC 6D 37 63 E3 AC
+
+
+## Bitwarden
+https://mobileapp.bitwarden.com/fdroid/repo
+
+* fingerprint: *
+BC 54 EA 6F D1 CD 51 75 BC CC C4 7C 56 1C 57 26 E1 C3 ED 7E 68 6B 6D B4 B1 8B AC 84 3A 3E FE 6C
