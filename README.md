@@ -126,3 +126,17 @@ https://store.nethunter.com/repo
 
 * fingerprint: *
 7E 41 8D 34 C3 AD 4F 3C 37 D7 E6 B0 FA CE 13 33 23 64 45 9C 86 21 34 EB 09 9A 3B DA 2C CF 44 94
+
+
+## Umbrella 
+https://secfirst.org/fdroid/repo
+
+* fingerprint: *
+39 EB 57 05 2F 8D 68 45 14 17 68 19 D1 64 5F 6A 0A 7B D9 43 DB C3 1A B1 01 94 90 06 AC 0B C2 28
+
+
+## Patched Application
+https://thecapslock.gitlab.io/fdroid-patched-apps/fdroid/repo
+
+* fingerprint: *
+31 3D 9E 6E 78 9F F4 E8 E2 D6 87 AA E3 1E EF 57 60 50 00 3E D6 79 63 30 18 21 AC 6D 37 63 E3 AC
