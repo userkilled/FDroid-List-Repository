@@ -147,3 +147,38 @@ https://mobileapp.bitwarden.com/fdroid/repo
 
 * fingerprint: *
 BC 54 EA 6F D1 CD 51 75 BC CC C4 7C 56 1C 57 26 E1 C3 ED 7E 68 6B 6D B4 B1 8B AC 84 3A 3E FE 6C
+
+
+## Briar Project
+https://briarproject.org/fdroid/repo
+
+* fingerprint: *
+1F B8 74 BE E7 27 6D 28 EC B2 C9 B0 6E 8A 12 2E C4 BC B4 00 81 61 43 6C E4 74 C2 57 CB F4 9B D6
+
+
+## Wind Offline
+https://guardianproject-wind.s3.amazonaws.com/fdroid/repo
+
+* fingerprint: *
+18 2C F4 64 D2 19 D3 40 DA 44 3C 62 15 51 98 E3 99 FE C1 BC 43 79 30 9B 77 5D D9 FC 97 ED 97 E1
+
+
+## Nanolx
+https://nanolx.org/fdroid/repo
+
+* fingerprint: *
+86 2E D9 F1 3A 39 81 43 2B F8 6F E9 3D 14 59 6B 38 1D 75 BE 83 A1 D6 16 E2 D4 4A 12 65 4A D0 15
+
+
+## Metatrans Apps
+https://fdroid.metatransapps.com/fdroid/repo
+
+* fingerprint: *
+21 40 27 CD 55 30 0B 83 7A 93 B4 37 17 B1 90 DD 48 67 CD B2 0F AA BD 88 53 DE F5 5B D0 FF 6A 0B
+
+
+## Cryptomator
+https://static.cryptomator.org/android/fdroid/repo
+
+* fingerprint: *
+F7 C3 EC 3B 0D 58 8D 3C B5 29 83 E9 EB 1A 74 21 C9 3D 43 39 A2 86 39 8E 71 D7 B6 51 E8 D8 EC DD
