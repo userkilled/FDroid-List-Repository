@@ -182,3 +182,38 @@ https://static.cryptomator.org/android/fdroid/repo
 
 * fingerprint: *
 F7 C3 EC 3B 0D 58 8D 3C B5 29 83 E9 EB 1A 74 21 C9 3D 43 39 A2 86 39 8E 71 D7 B6 51 E8 D8 EC DD
+
+
+## TwinHelix
+https://fdroid.twinhelix.com/fdroid/repo
+
+* fingerprint: *
+7B 03 B0 23 22 09 B2 1B 10 A3 0A 63 89 7D 3C 6B CA 4F 58 FE 29 BC 34 77 E8 E3 D8 CF 8E 30 40 28
+
+
+## Revolt
+https://fdroid.revolt.chat/repo
+
+* fingerprint: *
+0A 9D 2F 61 C8 65 98 01 71 1E 22 17 78 62 F8 4C 81 34 96 6F 42 79 73 03 7A 8F DF AC FF 07 C4 F2
+
+
+## F-Droid Classic
+https://bubu1.eu/fdroidclassic/fdroid/repo
+
+* fingerprint: *
+51 87 CF D9 9F 08 4F FA B2 AD 60 D9 D1 0B 39 20 3B 89 A4 6D D4 86 23 97 FE 1B 1A 4F 3D 46 62 7A
+
+
+## Stack Wallet
+https://fdroid.stackwallet.com
+
+* fingerprint: *
+76 4B 42 62 F7 57 50 A5 F6 20 A2 05 CE E2 88 6F 18 63 5F BD A1 8D F4 07 58 F5 A1 A4 5A 95 0F 84
+
+
+## PeterCxy's
+https://fdroid.typeblog.net/
+
+* fingerprint: *
+1A 7E 44 6C 49 1C 80 BC 2F 83 84 4A 26 38 78 87 99 0F 97 F2 F3 79 AE 7B 10 96 79 FE AE 3D BC 8C
