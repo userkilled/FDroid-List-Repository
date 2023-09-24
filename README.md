@@ -217,3 +217,38 @@ https://fdroid.typeblog.net/
 
 * fingerprint: *
 1A 7E 44 6C 49 1C 80 BC 2F 83 84 4A 26 38 78 87 99 0F 97 F2 F3 79 AE 7B 10 96 79 FE AE 3D BC 8C
+
+
+## kaffeemitkoffein.de
+https://kaffeemitkoffein.de/fdroid/repo
+
+* fingerprint: *
+2F 27 5C B8 37 35 FE 79 75 44 9C E8 00 CA 84 07 B5 01 9D 5F 7B 6A BC B3 0F 36 51 C5 20 A3 72 61
+
+
+## nailyk's
+https://releases.nailyk.fr/repo
+
+* fingerprint: *
+05 F2 69 58 DE 41 24 82 FC 86 81 B4 B3 4E EC A3 7F C0 64 DF 98 B8 EF DC 98 EC EB AB 85 84 F0 78
+
+
+## Maxxis
+https://pili.qi0.de/fdroid/repo
+
+* fingerprint: *
+83 16 1D 8D 5E C8 4B A3 26 66 EC E6 2E 40 D5 78 34 2C AD 3B 03 EA EE CA 2E 75 E3 96 12 5F DA A0
+
+
+## rami.io
+https://fdroid.rami.io/fdroid/repo
+
+* fingerprint: *
+25 96 A7 85 39 AA FB 77 98 DC B5 B3 53 EA 24 64 C3 C1 87 8A A5 55 FE 52 4C 66 47 EF F3 0C 81 D9
+
+
+## xarantolus
+https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo
+
+* fingerprint: *
+08 08 98 AE 43 09 AE CE B5 89 15 E4 3A 4B 7C 4A 3E 2C DA 40 C9 17 38 E2 C0 2F 58 33 9A B2 FB D7
