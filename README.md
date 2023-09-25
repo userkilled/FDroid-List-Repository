@@ -252,3 +252,24 @@ https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo
 
 * fingerprint: *
 08 08 98 AE 43 09 AE CE B5 89 15 E4 3A 4B 7C 4A 3E 2C DA 40 C9 17 38 E2 C0 2F 58 33 9A B2 FB D7
+
+
+## Submarine
+https://submarine.strangled.net/fdroid/repo
+
+* fingerprint: *
+3D B2 D0 9F 57 32 45 E0 05 B6 A5 4E B5 EB F6 E6 A3 51 D6 A5 16 1C FE EF F1 44 2C 93 95 97 C3 1B
+
+
+## mobilsicher 
+https://repo.mobilsicher.de/fdroid/repo
+
+* fingerprint: *
+D8 EE 66 0B 38 12 AA 2D F6 8D 8A 97 40 C0 2B 8C 53 15 C3 BB 09 11 E3 C2 23 A5 27 A3 C7 A9 74 95
+
+
+## kuschku.de
+https://repo.kuschku.de/repo
+
+* fingerprint: *
+A0 CB C2 C2 9E 38 ED 95 42 F8 6A 11 88 41 2A 60 C5 A7 56 FC 4D 7A 31 C4 C6 22 24 2D 7A D0 21 F2
