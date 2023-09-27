@@ -273,3 +273,45 @@ https://repo.kuschku.de/repo
 
 * fingerprint: *
 A0 CB C2 C2 9E 38 ED 95 42 F8 6A 11 88 41 2A 60 C5 A7 56 FC 4D 7A 31 C4 C6 22 24 2D 7A D0 21 F2
+
+
+## Julian Andres Klode's
+https://jak-linux.org/fdroid/repo
+
+* fingerprint: *
+C0 0A 81 E4 4B FF 60 65 30 C4 C7 A2 13 7B AC 5F 1C 03 D2 FD EF 6D B3 B8 4C 71 38 6E A9 BF D2 25
+
+
+## haagch
+https://haagch.frickel.club/files/fdroid/repo
+
+* fingerprint: *
+38 7A C9 E5 8C 94 81 A6 B1 A8 DC E5 3A 16 E5 36 45 DA 69 48 22 A8 FE 50 C8 77 EF B5 F4 2E 69 33
+
+
+## Gadgetbridge nightly
+https://freeyourgadget.codeberg.page/fdroid/repo
+
+* fingerprint: *
+CD 38 1E CC C4 65 AB 32 4E 21 BC C3 35 89 56 15 E0 7E 70 EE 11 E9 FD 1D F3 C0 20 C5 19 4F 00 B2
+
+
+## Funkwhale
+https://fdroid.funkwhale.audio/
+
+* fingerprint: *
+10 30 63 BC 71 89 C9 1C E7 27 DB F8 26 6B 07 66 25 18 09 6E 16 86 B6 A0 88 25 39 33 A3 D0 78 8F
+
+
+## Friendiqa
+https://www.ma-nic.de/fdroid/repo
+
+* fingerprint: *
+17 96 61 DB B7 26 35 30 02 FD B7 71 DD 8F CA DC 90 7B A5 68 D4 4D AB A3 88 29 15 97 50 30 74 64
+
+
+## BeoCode 
+https://fdroid.beocode.eu/fdroid/repo
+
+* fingerprint: *
+28 36 0D DE BA 00 92 2B 15 6A 9B 03 B5 C9 6F EA 39 D2 39 F8 8F 1F BF A5 A8 15 72 91 74 9A A0 5A
