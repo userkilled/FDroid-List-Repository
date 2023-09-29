@@ -351,3 +351,45 @@ https://divestos.org/apks/official/fdroid/repo
 
 * fingerprint: *
 E4 BE 8D 6A BF A4 D9 D4 FE EF 03 CD DA 7F F6 2A 73 FD 64 B7 55 66 F6 DD 4E 5E 57 75 50 BE 84 67
+
+
+## Corona Contact Tracing Germany 
+https://bubu1.eu/cctg/fdroid/repo
+
+* fingerprint: *
+F3 F3 0B 6D 21 2D 84 AE A6 04 C3 DF 00 E9 E4 D4 A3 91 94 A3 3B F6 EC 58 DB 53 AF 0A C4 B4 1B EC
+
+
+## MM20
+https://raw.githubusercontent.com/MM2-0/fdroid/main/fdroid/repo
+
+* fingerprint: *
+15 6F BA B9 52 F6 99 64 15 F1 98 F3 F2 96 28 D2 4B 30 E7 25 B0 F0 7A 2B 49 C3 A9 B5 16 1E EE 1A
+
+
+## Lennart Heinrich
+https://fdroid.ltheinrich.de/
+
+* fingerprint: *
+B9 0F C7 69 1E C5 BE 97 7D CB BC B1 8C 39 84 C7 94 CC AF A5 BB 87 12 ED 2D 64 F9 FD 87 03 B6 36
+
+
+## J2ghz's
+https://j2ghz.github.io/repo
+
+* fingerprint: *
+03 9B C4 1C 19 89 76 8B 5E 62 5A 5A 6A A0 CA DF E7 56 03 21 70 D4 9B 4E 44 1F E9 5C 74 1C 09 A2
+
+
+## mtmayrhofer
+https://juwelierkassa.at/fdroid/repo
+
+* fingerprint: *
+93 02 70 24 8A 02 20 2D 51 75 18 47 4D 0C 02 15 07 0A 53 7D E3 68 1D 87 21 D8 4A 9B 16 93 91 5E
+
+
+## Lagrange Pre-Release
+https://skyjake.github.io/fdroid/repo
+
+* fingerprint: *
+46 AE A2 F2 D8 60 47 AD 65 DA 95 51 26 C6 53 2F 79 B0 5A F2 BF EF FC 5C F1 B4 67 A7 9E 68 6F 86
