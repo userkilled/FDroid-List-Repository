@@ -108,13 +108,6 @@ https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo
 C4 4D 58 B4 54 7D E5 09 61 38 CB 0B 34 A1 CC 99 DA B3 B4 27 44 12 ED 75 3F CC BF C1 1D C1 B7 B6
 
 
-## DivestOS
-https://divestos.org/fdroid/official
-
-* fingerprint: *
-E4 BE 8D 6A BF A4 D9 D4 FE EF 03 CD DA 7F F6 2A 73 FD 64 B7 55 66 F6 DD 4E 5E 57 75 50 BE 84 67
-
-
 ## Fedilab
 https://fdroid.fedilab.app/repo
 
