@@ -386,3 +386,31 @@ https://skyjake.github.io/fdroid/repo
 
 * fingerprint: *
 46 AE A2 F2 D8 60 47 AD 65 DA 95 51 26 C6 53 2F 79 B0 5A F2 BF EF FC 5C F1 B4 67 A7 9E 68 6F 86
+
+
+## LUKI e.V.
+https://repo.librechurch.org/fdroid
+
+* fingerprint: *
+28 10 49 CD A5 2E AE 48 3E E3 E3 13 7D A2 32 ED 48 B1 4E FF D6 ED 6D 33 1D 52 22 93 CC 0E 67 C5
+
+
+## lubl
+https://f.lubl.de/repo
+
+* fingerprint: *
+C7 7F F6 04 CD 54 E8 4A 3A BD DF F1 73 01 E5 75 34 51 BA 84 76 EE DF 43 8F F2 55 54 D2 D6 A0 BE
+
+
+## Molly
+https://molly.im/fdroid/repo
+
+* fingerprint: *
+3B 7E 93 B1 FE 32 C6 E3 5A 93 D6 DD FC 5A FB EB 12 39 A7 C6 EA 6A F2 0F F3 3E D5 3C DC 38 B0 4A
+
+
+## Nucleus 
+https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo
+
+* fingerprint: *
+A3 2D E9 12 7A 69 61 C5 BE BF 41 2C 21 28 31 2C DF E7 0F 2D 7A D4 44 09 15 38 43 26 94 B7 76 FF
