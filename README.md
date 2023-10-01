@@ -414,3 +414,38 @@ https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid
 
 * fingerprint: *
 A3 2D E9 12 7A 69 61 C5 BE BF 41 2C 21 28 31 2C DF E7 0F 2D 7A D4 44 09 15 38 43 26 94 B7 76 FF
+
+
+## Rafael Venâncio
+https://raw.githubusercontent.com/rafaelvenancio98/fdroid/master/fdroid/repo
+
+* fingerprint: *
+8B 22 26 37 DC B9 C1 3B 4A C5 2C 8B 9A C8 3C 1F A3 87 F0 3F 46 B6 1B 53 39 B3 AA 96 68 F7 50 CD
+
+
+## obfusk's
+https://obfusk.dev/fdroid/repo
+
+* fingerprint: *
+2A 21 B7 FF C9 3B 87 87 24 B1 99 1C 05 DA E1 13 C7 2B 93 A5 56 C1 93 F4 9B 5D 33 42 88 47 98 B7
+
+
+## PartidoPirata
+https://fdroid.partidopirata.com.ar/fdroid/repo
+
+* fingerprint: *
+3D F6 96 9E A3 A2 18 6D 8A 5D B0 08 84 B3 F4 2F 16 49 31 E8 CF AF D7 CC 48 26 3C AD 13 61 A1 D5
+
+
+## RedReader
+https://redreader.org/fdroid/repo
+
+* fingerprint: *
+29 C6 F7 99 85 41 0F 64 13 20 38 A2 CC 1E 7E 8E 26 4E 40 AB 83 39 9D 60 9C E8 13 D2 FF 41 9B 2E
+
+
+## Rohit's
+https://thedoc.eu.org/fdroid/repo
+
+* fingerprint: *
+B1 35 8F 5B 94 2E 56 76 B2 93 5B 83 F3 9E 3B AA 36 3F 3F DA 9E 53 DB 62 11 35 51 D1 4B 09 A1 73
