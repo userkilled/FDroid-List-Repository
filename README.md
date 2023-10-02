@@ -449,3 +449,33 @@ https://thedoc.eu.org/fdroid/repo
 
 * fingerprint: *
 B1 35 8F 5B 94 2E 56 76 B2 93 5B 83 F3 9E 3B AA 36 3F 3F DA 9E 53 DB 62 11 35 51 D1 4B 09 A1 73
+
+
+## Samurai
+https://repo.samourai.io/fdroid/repo
+
+* fingerprint: *
+53 18 AF A2 80 28 48 55 CF 5D 00 27 AA 54 51 77 69 F4 61 D7 35 98 0B 1F B0 85 4C EA E8 E0 72 A5
+
+
+## Session
+https://fdroid.getsession.org/fdroid/repo
+
+* fingerprint: *
+DB 0E 52 97 EB 65 CC 22 D6 BD 93 C8 69 94 3B DC FC B6 A0 7D C6 9A 48 A0 DD 8C 7B A6 98 EC 04 E6
+
+
+## SilkeVicious
+https://codeberg.org/silkevicious/apkrepo/raw/branch/master/fdroid/repo
+
+* fingerprint: *
+DF DB 0A 58 E7 87 04 CA EB 60 93 89 B8 1A B2 BE 6A 09 06 62 F8 60 63 5D 76 0E 76 AC BC 70 0A F8
+
+
+## Simlar
+https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo
+
+* fingerprint: *
+EE 2C 07 5B AE 1D 41 BB D9 C2 19 5C 4C AE 14 0C 78 9C 9E D2 E0 D6 C6 A5 69 10 8E 81 F6 25 D0 49
+
+
