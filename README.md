@@ -479,3 +479,8 @@ https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo
 EE 2C 07 5B AE 1D 41 BB D9 C2 19 5C 4C AE 14 0C 78 9C 9E D2 E0 D6 C6 A5 69 10 8E 81 F6 25 D0 49
 
 
+## FeministWiki
+https://fdroid.feministwiki.org/fdroid/repo
+
+* fingerprint: *
+4E BB 6C EE C6 D8 A5 B8 4B F4 7C A7 19 36 9E 1A A0 38 D7 7B 3B BD 48 10 1A 15 38 63 2F 5A A4 93
