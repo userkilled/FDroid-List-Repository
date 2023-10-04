@@ -484,3 +484,19 @@ https://fdroid.feministwiki.org/fdroid/repo
 
 * fingerprint: *
 4E BB 6C EE C6 D8 A5 B8 4B F4 7C A7 19 36 9E 1A A0 38 D7 7B 3B BD 48 10 1A 15 38 63 2F 5A A4 93
+
+
+## SpiritCroc's Apps
+https://s2.spiritcroc.de/fdroid/repo
+
+* fingerprint: *
+66 12 AD E7 E9 31 74 A5 89 CF 5B A2 6E D3 AB 28 23 1A 78 96 40 54 6C 8F 30 37 5E F0 45 BC 92 42
+
+
+## SpiritCroc's testing
+https://s2.spiritcroc.de/testing/fdroid/repo
+
+* fingerprint: *
+52 D0 3F 2F AB 78 55 73 BB 29 5C 7A B2 70 69 5E 3A 1B DD 2A DC 6A 6D E8 71 32 50 B3 3F 23 12 25
+
+
