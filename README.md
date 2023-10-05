@@ -500,3 +500,24 @@ https://s2.spiritcroc.de/testing/fdroid/repo
 52 D0 3F 2F AB 78 55 73 BB 29 5C 7A B2 70 69 5E 3A 1B DD 2A DC 6A 6D E8 71 32 50 B3 3F 23 12 25
 
 
+## Unofficial ProtonMail
+https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo
+
+* fingerprint: *
+AA 2C CA 4D 52 9D 30 41 8E CF E6 C3 6C 37 8C 78 5D FF 96 96 DF 98 1A 08 83 A9 53 78 0A 3C A2 21
+
+
+## VideLibri
+https://fdroid.videlibri.de/repo
+
+* fingerprint: *
+38 89 88 E3 A5 3B 6F 91 D1 AE 39 78 4E A4 B5 F1 A1 2B 22 D3 4F 8E 33 63 E5 C7 F7 0A 1C 57 A6 F4
+
+
+## WOZ
+https://fdroid.woz.ch/fdroid/repo
+
+* fingerprint: *
+F1 9B B9 5E 4D D3 B7 49 06 E2 EF 0B A4 1E A6 F3 4A B8 2C 44 F7 8E 1B 95 05 FE 20 7D D5 E6 0C C2
+
+
