@@ -521,3 +521,38 @@ https://fdroid.woz.ch/fdroid/repo
 F1 9B B9 5E 4D D3 B7 49 06 E2 EF 0B A4 1E A6 F3 4A B8 2C 44 F7 8E 1B 95 05 FE 20 7D D5 E6 0C C2
 
 
+## Zevvle 
+https://fdroid.zevvle.com/
+
+* fingerprint: *
+B6 E8 0E 4D B4 00 B5 D1 6A 2C D5 D1 B2 D4 76 D1 75 5D 97 77 CE 13 5E 83 59 D1 66 A7 0B CD 12 A9
+
+
+## CCC
+https://fdroid.gitlab.io/ccc/fdroid/repo
+
+* fingerprint: *
+1F 2E CC 52 D4 A5 C4 95 86 FD DC 0A 3E 57 E2 F4 C9 B5 B3 04 1D B1 EC 45 57 47 A8 43 44 DC A1 0E
+
+
+## Florian Obernberger's
+https://codeberg.org/florian-obernberger/fdroid-repo/raw/branch/main/repo
+
+* fingerprint: *
+5E 91 81 C8 18 BD 1D 28 E8 64 28 21 97 1C 56 94 38 DF 63 2E 67 15 05 FD 6E 9D B6 94 07 22 B5 6F
+
+
+## InvizBox
+https://update.invizbox.com/fdroid/repo
+
+* fingerprint: *
+FF A1 A8 10 B4 86 08 13 5E EF D7 C6 92 F2 30 61 72 FB 57 85 49 C4 11 1A 70 26 63 74 A1 19 D1 89
+
+
+## StorchPs
+https://fdroid.storchp.de/fdroid/repo
+
+* fingerprint: *
+99 98 5A 7E 73 DC B0 B1 6C 9B DD CE 7A 0B 49 96 F8 80 68 AE 7C 77 1E D5 3E 21 7E 69 CD 1F F1 96
+
+
