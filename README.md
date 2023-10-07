@@ -570,3 +570,17 @@ https://fdroidarchive.frostnerd.com
 74 BB 58 0F 26 3E C8 9E 15 C2 07 29 8D EC 86 1B 50 69 51 75 50 FE 0F 1D 85 2F 16 FA 61 1D 2D 26
 
 
+## 2br-2b's
+https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo
+
+* fingerprint: *
+90 B5 B0 DD E2 0A 84 FB 42 CB 96 0F 41 D2 79 B0 D3 BB 86 57 8A 42 E7 73 36 4A 55 34 C0 E8 D2 7A
+
+
+## F-Droid Shizuku Privileged Extension 
+https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo
+
+* fingerprint: *
+64 B2 ED 80 A4 4B 62 AF 47 E6 E8 F8 E9 2D 8C D9 37 1F 97 B9 1D CC B0 17 98 54 82 79 DF 0A F6 9E
+
+
