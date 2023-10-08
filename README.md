@@ -591,3 +591,17 @@ https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo
 64 B2 ED 80 A4 4B 62 AF 47 E6 E8 F8 E9 2D 8C D9 37 1F 97 B9 1D CC B0 17 98 54 82 79 DF 0A F6 9E
 
 
+## Monerujo
+https://f-droid.monerujo.io/fdroid/repo
+
+* fingerprint: *
+A8 2C 68 E1 4A F0 AA 6A 2E C2 0E 6B 27 2E FF 25 E5 A0 38 F3 F6 58 84 31 6E 0F 5E 0D 91 E7 B7 13
+
+
+## onionshare
+https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo
+
+* fingerprint: *
+7E 04 F9 02 94 0A 2A ED AC 30 E4 91 A5 CE 7A DC C7 4A 3F 73 B4 34 59 E4 44 82 22 F3 EE E6 29 EF
+
+
