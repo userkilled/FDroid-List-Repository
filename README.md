@@ -563,6 +563,13 @@ https://gitjournal.io/fdroid/repo
 E2 EE 4A A4 38 0F 0D 3B 3C F8 1E B1 7F 5E 48 F8 27 C3 AA 77 12 2D 9A D3 30 CC 44 16 50 89 45 74
 
 
+## Frostnerd
+https://fdroid.frostnerd.com/
+
+* fingerprint: *
+74 BB 58 0F 26 3E C8 9E 15 C2 07 29 8D EC 86 1B 50 69 51 75 50 FE 0F 1D 85 2F 16 FA 61 1D 2D 26
+
+
 ## Frostnerd Archive
 https://fdroidarchive.frostnerd.com
 
