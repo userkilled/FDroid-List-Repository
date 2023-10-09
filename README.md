@@ -605,3 +605,52 @@ https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo
 7E 04 F9 02 94 0A 2A ED AC 30 E4 91 A5 CE 7A DC C7 4A 3F 73 B4 34 59 E4 44 82 22 F3 EE E6 29 EF
 
 
+## RiotX dev by Krombel
+https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo
+
+* fingerprint: *
+FD 14 6E F3 0F A9 F8 F0 75 BD CD 9F 02 F0 69 D2 20 61 B1 DF 7C C9 0E 90 82 17 50 A7 18 4B F5 3D
+
+
+## RiotX dev by Krombel glay
+https://fdroid.krombel.de/element-dev-gplay/fdroid/repo
+
+* fingerprint: *
+55 64 AB 4D 4B F9 46 1A F7 95 54 49 24 6F 12 D7 E7 92 A8 D6 51 65 EB B2 C0 E9 0E 65 E7 7D 50 95
+
+
+## Riot dev by Krombel
+https://fdroid.krombel.de/riot-dev-fdroid/fdroid/repo
+
+* fingerprint: *
+31 2E 07 B9 44 4D 0D 1B 61 5E BB AA C5 5E A4 E5 A5 4E 12 3C 3B EF CC A5 D1 8B 5E 12 DF C9 5B DC
+
+
+## I2P
+https://eyedeekay.github.io/fdroid/repo
+
+* fingerprint: *
+22 65 8C C6 9F 48 D6 3F 63 C3 D6 4E 20 41 C8 17 14 E2 74 9F 3F 6E 54 45 C8 25 29 7A 00 DD C5 B6
+
+
+## sum7/Conversation-nightly
+https://dev.sum7.eu/sum7/Conversations-nightly/raw/master/fdroid/repo
+
+* fingerprint: *
+C7 E9 50 80 38 F1 8C 95 5B AA C0 F0 4E F5 5E 4E ED B3 1A 9A FB 2E 33 3A D3 9F 1B 68 4F DD 63 09
+
+
+## Culture4Life
+https://lucaapp.gitlab.io/fdroid-repository/fdroid/repo
+
+* fingerprint: *
+4B 6F 21 3E B2 A6 1B 11 04 7C 55 09 D7 95 6A 20 A0 C9 69 AF 60 8B 85 E1 C8 85 4E 9A 88 8D F9 BE
+
+
+## Cake Labs
+https://fdroid.cakelabs.com/
+
+* fingerprint: *
+EA 44 EF AE E0 B6 41 EE 7A 03 2D 39 7D 5D 97 6F 9C 4E 5E 1E D2 6E 11 C7 57 02 D0 64 E5 5F 87 55
+
+
