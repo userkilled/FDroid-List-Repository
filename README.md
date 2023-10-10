@@ -654,3 +654,59 @@ https://fdroid.cakelabs.com/
 EA 44 EF AE E0 B6 41 EE 7A 03 2D 39 7D 5D 97 6F 9C 4E 5E 1E D2 6E 11 C7 57 02 D0 64 E5 5F 87 55
 
 
+## INVISV
+https://fdroid.invisv.com/
+
+* fingerprint: *
+EE 79 92 6D 09 C8 8A 49 D6 CC E9 EE 2D 79 B9 50 AE 26 9F DB 19 24 0F 8D D6 A8 AC 65 8B ED F8 3A
+
+
+## idoéOS
+https://raw.githubusercontent.com/iodeOS/fdroid/master/fdroid/repo
+
+* fingerprint: *
+EC 43 61 0D 9A CC A5 D2 42 6E B2 D5 EB 74 33 19 30 01 4D E7 9D 3C 3A CB C1 7D FE 58 AA 12 60 5F
+
+
+## ltt.rs
+https://ltt.rs/fdroid/repo
+
+* fingerprint: *
+9C 2E 57 C8 5C 27 9E 5E 1A 42 7F 6E 87 92 7F C1 E2 27 8F 62 D6 1D 7F CE FD E9 34 6E 56 8C CF 86
+
+
+## c:geo legacy
+https://fdroid.cgeo.org/legacy
+
+* fingerprint: *
+37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98
+
+
+## Aniyomi
+https://fdroid.aniyomi.org/
+
+* fingerprint: *
+2A 01 E8 0E BB 8B 50 B5 D4 C0 BF 7D F4 5F 12 47 9C 47 5F 34 B3 F3 F5 AA 57 97 5C 7E 1B C0 B9 C3
+
+
+## saunarepo
+https://repo.the-sauna.icu/repo
+
+* fingerprint: *
+44 20 FF D2 35 4D 0E 08 AC B2 F1 F4 78 E0 6A 42 00 B3 CF F5 F5 55 15 B0 8E 83 08 DB D2 B6 EF CE
+
+
+## Timedln
+https://codeberg.org/timedin/fdroid-repo/raw/branch/main/repo
+
+* fingerprint: *
+01 38 34 6C 02 A2 03 25 BF 09 1C 52 BC 76 6C 0B 90 FF 36 DD C7 D4 4C 30 82 F5 A8 B2 14 C9 FC 29
+
+
+## Total Commander
+https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo
+
+* fingerprint: *
+35 76 59 6C EC DD 70 48 8D 61 CF D9 07 99 A4 9B 7F FD 26 A8 1A 8F EF 1B AD EC 88 D0 69 FA 72 C1
+
+
