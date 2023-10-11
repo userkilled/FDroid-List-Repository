@@ -710,3 +710,66 @@ https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo
 35 76 59 6C EC DD 70 48 8D 61 CF D9 07 99 A4 9B 7F FD 26 A8 1A 8F EF 1B AD EC 88 D0 69 FA 72 C1
 
 
+## Zimbelstern's
+https://zimbelstern.eu/fdroid/repo
+
+* fingerprint: *
+28 51 58 DE CE F3 7C B8 DE 7C 5A F1 48 18 AC BF 4A 9B 1F BE 63 11 67 58 EF C2 67 F9 71 CA 23 AA
+
+
+## Efreak
+https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo
+
+* fingerprint: *
+AD F8 1D 67 82 67 B1 F0 30 EC 69 17 48 B3 1D 97 7B A4 F3 E9 DA 55 20 FD 19 06 6A B9 50 3B 99 93
+
+
+## Fcitx 5
+https://f5a.typed.icu/fdroid/repo
+
+* fingerprint: *
+5D 87 CE 1F AD 37 72 42 5C 2A 7E D9 87 A5 75 95 A2 0B 07 54 3B 95 95 A7 FD 2C ED 25 DF F3 CF 12
+
+
+## Five Players
+https://raw.githubusercontent.com/Five-Prayers/fdroid-repo-stable/main/fdroid/repo
+
+* fingerprint: *
+C8 E3 6E 27 BA 66 CB 81 D9 24 9C 55 C6 7A 8E 53 21 AF DB CC F8 1E EB 0D 49 5E 8E 3A 01 FE 16 93
+
+
+## IITC 
+https://iitc.app/fdroid/repo
+
+* fingerprint: *
+B7 89 9F B6 61 89 6B 37 4D 10 03 A3 1B A1 C5 41 39 A9 EF DC 6B 9D 53 A7 0F 51 80 76 8E F1 97 B9
+
+
+## Julian's
+https://julianfairfax.gitlab.io/fdroid-repo/fdroid/repo
+
+* fingerprint: *
+83 AB B5 48 CA A6 F3 11 CE 35 91 DD CA 46 6B 65 21 3F D0 54 13 52 50 27 02 B1 90 8F 0C 84 20 6D
+
+
+## NoNonsenseApps
+https://repo.nononsenseapps.com/fdroid/repo
+
+* fingerprint: *
+5B 70 C7 51 8C 04 B2 51 78 D9 7B F6 60 60 BF 79 93 4B F9 1D FA 70 85 F5 5B 78 56 2C 23 39 87 E6
+
+
+## Novy
+https://fdroid.novy.software/repo
+
+* fingerprint: *
+B6 D1 CE 7F 02 42 DE 73 75 60 D3 30 78 65 32 49 CC 3F 18 12 76 00 AD 72 28 8E 75 D3 9A 9E DE E3
+
+
+## ouchadam's
+https://ouchadam.github.io/fdroid-repository/repo
+
+* fingerprint: *
+56 F3 78 F9 BB 7D 59 BB 3E A7 43 1B 2C BB 31 B3 51 B2 D3 F7 C2 C6 6E 0B 99 CF A8 B0 CE C9 CF CA
+
+
