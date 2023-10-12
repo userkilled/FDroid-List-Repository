@@ -773,3 +773,45 @@ https://ouchadam.github.io/fdroid-repository/repo
 56 F3 78 F9 BB 7D 59 BB 3E A7 43 1B 2C BB 31 B3 51 B2 D3 F7 C2 C6 6E 0B 99 CF A8 B0 CE C9 CF CA
 
 
+## Seeker slsk client
+https://raw.githubusercontent.com/jackbonadies/seekerandroid/fdroid/fdroid/repo
+
+* fingerprint: *
+D9 61 3C 10 6A 63 D6 32 F0 F1 55 97 F4 A9 1C 27 6D 3C 6E D1 52 F1 95 18 C3 A5 57 3B F8 DA 23 75
+
+
+## Hush
+https://git.hush.is/jahway603/sda-fdroid/raw/branch/master/fdroid/repo
+
+* fingerprint: *
+06 96 F6 4F 3E FC BF 91 4D A4 1E 65 A8 A0 EE 0D F8 D7 DD EC 4C E0 90 BA BD 7E 70 03 ED AA C5 8B
+
+
+## Ikas
+https://ikas-mc.github.io/fdroid-repo/fdroid/repo
+
+* fingerprint: *
+A4 F1 C6 0E B4 D3 A8 FD E4 64 4D BA C9 F9 83 4E 3C 06 B6 9E 4E AC F8 A7 FF 54 23 33 95 23 07 1B
+
+
+## dfuchss
+https://dfuchss.github.io/fdroid-repository/repo
+
+* fingerprint: *
+8A 87 24 62 41 B1 79 1F BB 7E B0 E0 74 7F BE 8E 6A 36 59 5F 0D 1D 2A 71 29 9D 38 B3 55 AD 82 5E
+
+
+## Eastcoast Laboratories
+https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo
+
+* fingerprint: *
+33 54 EC 6B C1 9D 1E 2E 36 19 9C 15 96 2A 92 72 74 A0 CB 39 EF 81 0A E6 92 65 9C 1F 92 AD 0E BE
+
+
+## Malnvenshorn
+https://raw.githubusercontent.com/malnvenshorn/fdroid-repository/master/fdroid/repo
+
+* fingerprint: *
+1C 36 CF 8B 9C 2C 9C 7F 59 1D 67 78 0D 08 BA 55 4E A4 9E C1 8F 7D 93 66 8C CD 48 F7 33 74 00 04
+
+
