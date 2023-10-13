@@ -88,11 +88,19 @@ https://fdroid.libretro.com/repo
 3F 05 B2 4D 49 75 15 F3 1F EA B4 21 29 7C 79 B1 95 52 C5 C8 11 86 B3 75 0B 7C 13 1E F4 1D 73 3D
 
 
+## KDE Android
+https://cdn.kde.org/android/stable-releases/fdroid/repo
+
+* fingerprint: *
+13 78 4B A6 C8 0F F4 E2 18 1E 55 C5 6F 96 1E ED 58 44 CE A1 68 70 D3 B3 8D 58 78 0B 85 E1 15 8F
+
+
 ## KDE Android Nightly 
 https://cdn.kde.org/android/fdroid/repo
 
 * fingerprint: *
 B3 EB E1 0A FA 6C 5C 40 03 79 B3 44 73 E8 43 D6 86 C6 1A E6 AD 33 F4 23 C9 8A F9 03 F0 56 52 3F
+
 
 ## Unofficial Firefox Repo
 https://rfc2822.gitlab.io/fdroid-firefox/fdroid/repo
