@@ -815,3 +815,31 @@ https://raw.githubusercontent.com/malnvenshorn/fdroid-repository/master/fdroid/r
 1C 36 CF 8B 9C 2C 9C 7F 59 1D 67 78 0D 08 BA 55 4E A4 9E C1 8F 7D 93 66 8C CD 48 F7 33 74 00 04
 
 
+## nils.cc
+https://raw.githubusercontent.com/nilscc/fdroid/master/fdroid/repo
+
+* fingerprint: *
+57 E4 03 CE A4 70 C1 C6 E3 44 F8 B7 09 A2 FD B7 4E B8 06 B1 78 5C 8C 7C 32 FE F5 B7 02 C9 CB 43
+
+
+## Malila
+https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo
+
+* fingerprint: *
+86 24 6B 29 F1 BC 18 A6 B4 C8 69 7F 54 0E 33 A8 2F 6A 4F E4 E9 C5 82 F0 DF 39 2A 2B C9 96 E3 92
+
+
+## LUKYMAS
+https://raw.githubusercontent.com/lksmasin/fdroidrepo/main/fdroid/repo
+
+* fingerprint: *
+DB 5F 78 48 F2 82 EA EB 2C 80 56 90 E2 95 5D F5 0E 3A 63 AA 51 36 0C 3A 89 08 F1 79 CB 43 5F E8
+
+
+## ZeroNet
+https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo
+
+* fingerprint: *
+00 5E 88 8A 5A 20 3D 40 E2 8F 37 2B 93 9B 8E 59 95 FB 29 08 1E FC 84 5D B9 9A 8D 4C 14 B5 09 E2
+
+
