@@ -620,7 +620,7 @@ https://fdroid.krombel.de/element-dev-fdroid/fdroid/repo
 FD 14 6E F3 0F A9 F8 F0 75 BD CD 9F 02 F0 69 D2 20 61 B1 DF 7C C9 0E 90 82 17 50 A7 18 4B F5 3D
 
 
-## RiotX dev by Krombel glay
+## RiotX dev by Krombel gplay
 https://fdroid.krombel.de/element-dev-gplay/fdroid/repo
 
 * fingerprint: *
