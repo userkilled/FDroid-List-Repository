@@ -851,3 +851,59 @@ https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo
 00 5E 88 8A 5A 20 3D 40 E2 8F 37 2B 93 9B 8E 59 95 FB 29 08 1E FC 84 5D B9 9A 8D 4C 14 B5 09 E2
 
 
+## MangaVolumeTrackerRepo
+https://raw.githubusercontent.com/kbitGit/MangaVolumeTrackerRepo/master/fdroid/repo
+
+* fingerprint: *
+31 3B E0 7A D8 5E E4 BF FF 08 8F 0F 47 A3 B6 72 19 4C 64 0A 20 AD 97 4F 12 64 E9 4D 1F 18 94 BC
+
+
+## Ehviewer-Overhauled Repo
+https://raw.githubusercontent.com/Ehviewer-Overhauled/fdroid-repo/master/fdroid/repo
+
+* fingerprint: *
+7C 64 E6 EF 69 2B BC 46 8B 19 8D 4E E5 18 ED 1E F0 3B C7 C3 B7 F1 CF 80 C5 55 57 0A 1B 42 EC A8
+
+
+## Breezy Weather
+https://breezy-weather.github.io/fdroid-repo/fdroid/repo
+
+* fingerprint: *
+34 80 A7 BB 2A 29 6D 8F 98 CB 90 D2 30 91 99 B5 B9 51 9C 1B 31 97 8D BC D8 77 AD B1 02 AF 35 EE
+
+
+## noobmaster1112
+https://raw.githubusercontent.com/noobmaster1112/fdroid-repo/master/fdroid/repo
+
+* fingerprint: *
+DA 64 D2 2D 67 0F 31 9B 55 58 CA CA 17 D4 12 8C 12 A6 A8 1B FB F6 5A 58 5F 9D 84 07 63 C1 AD 13
+
+
+## Madushan's
+https://raw.githubusercontent.com/madushan1000/fdroid-repo/master/repo
+
+* fingerprint: *
+4F 19 C3 A6 A6 50 D5 25 CE 8F A8 B7 89 DC C8 8C A0 4F 93 CC 46 84 76 C4 01 1C A3 A8 21 04 78 8B
+
+
+## andrekir
+https://raw.githubusercontent.com/andrekir/fdroid/main/repo
+
+* fingerprint: *
+75 4F 0D B9 65 CD AB C7 08 EE 1D 56 A5 B6 33 D4 71 85 D4 83 11 8C 1C 8C EF 21 E8 20 7A D8 50 18
+
+
+## candyman1
+https://raw.githubusercontent.com/candyman1/fdroidRepo1/master/repo
+
+* fingerprint: *
+70 F2 FB CD C3 38 27 00 45 BB 0C 5F DA F5 1E 67 24 37 24 48 9B 59 AC 4A 6D 4C 67 96 F3 A2 30 5C
+
+
+## lucasew's
+https://raw.githubusercontent.com/lucasew/fdroid-repo/master/fdroid/repo
+
+* fingerprint: *
+0F 95 04 BD 68 42 14 2E C7 13 2D E9 77 18 63 F6 2B B0 61 B9 16 EC F3 5C 48 D8 87 C5 01 E3 4A 0E
+
+
