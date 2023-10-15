@@ -907,3 +907,52 @@ https://raw.githubusercontent.com/lucasew/fdroid-repo/master/fdroid/repo
 0F 95 04 BD 68 42 14 2E C7 13 2D E9 77 18 63 F6 2B B0 61 B9 16 EC F3 5C 48 D8 87 C5 01 E3 4A 0E
 
 
+## sample repo for repo manker
+https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo
+
+* fingerprint: *
+A5 AC 2C 13 91 C1 F3 0A C6 96 98 AD 3B C9 54 C0 AA 4E 00 9B 28 72 2B F8 3B 96 8C 6D 1E 4F 85 D6
+
+
+## Inex repo
+https://raw.githubusercontent.com/inexcode/fdroid-repo/master
+
+* fingerprint: *
+18 AF F4 52 7D C7 42 E7 4D 6D 7F 76 4C 73 44 A2 D6 90 50 1A 79 56 61 93 17 00 38 69 B0 64 C8 B7
+
+
+## liyuqihxc
+https://raw.githubusercontent.com/liyuqihxc/fdroid_repo/master
+
+* fingerprint: *
+35 51 66 42 12 4D 65 C2 69 DC C2 17 69 42 D8 CE D9 2B 18 44 8D D8 B1 E2 E8 35 A9 CC F0 C8 CF B5
+
+
+## jOS repo
+https://raw.githubusercontent.com/jf916/jf916.github.io/master/fdroid/repo
+
+* fingerprint: *
+23 DC 9F A2 EC 42 3C 43 1B FD AC F7 4C 9E 85 4F 4D 90 67 53 1C 34 1A A6 2C 05 D7 BF D8 D5 AC 25
+
+
+## fgo english
+https://raw.githubusercontent.com/soredake/fgo_en_fdroid_repo/main/repo
+
+* fingerprint: *
+96 E2 F6 1C D9 66 B2 B6 2D 5E 17 D7 B6 63 87 88 CA 10 BA 77 2C 28 D4 8A 4C A1 A0 E9 EA C5 9B FF
+
+
+## SteamGifts Beta
+https://raw.githubusercontent.com/vaginessa/fdroid-1/gh-pages/repo
+
+* fingerprint: *
+C4 16 F1 57 C1 AA DE BE 62 E5 33 C3 ED BB B2 02 CA 8F 71 26 FF 0A 39 27 E6 0C 1C DE 96 2C 81 8D
+
+
+## Knocky Repo
+https://raw.githubusercontent.com/dasmikko/knocky-fdroid-repo/master/fdroid/repo
+
+* fingerprint: *
+04 9E B3 3E 56 3D F6 FC 7E 4A CB 56 E4 80 72 9F 58 C8 1E 70 04 80 DF B3 B2 10 D3 E6 BA 5A 87 6B
+
+
