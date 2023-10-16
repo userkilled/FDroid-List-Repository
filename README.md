@@ -956,3 +956,10 @@ https://raw.githubusercontent.com/dasmikko/knocky-fdroid-repo/master/fdroid/repo
 04 9E B3 3E 56 3D F6 FC 7E 4A CB 56 E4 80 72 9F 58 C8 1E 70 04 80 DF B3 B2 10 D3 E6 BA 5A 87 6B
 
 
+## Vineel Sai's
+https://raw.githubusercontent.com/vineelsai26/repo/main/fdroid/repo
+
+* fingerprint: *
+5D 0A 26 CF DE 21 2D 5F 57 34 F1 8A 43 26 19 C8 BF 78 9B 7A E3 F7 56 30 16 8E 33 A3 B9 94 6D 87
+
+
