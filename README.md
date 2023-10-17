@@ -963,3 +963,29 @@ https://raw.githubusercontent.com/vineelsai26/repo/main/fdroid/repo
 5D 0A 26 CF DE 21 2D 5F 57 34 F1 8A 43 26 19 C8 BF 78 9B 7A E3 F7 56 30 16 8E 33 A3 B9 94 6D 87
 
 
+## ggtyler
+https://fdroid.ggtyler.dev/
+
+* fingerprint: *
+12 D4 F6 47 71 0D BB 0F AF DE 0F BE 9C 21 27 EC B5 3C FE 0E 8B 1C B2 DE 56 B7 04 FC E3 30 A0 F8
+
+
+## Cromite
+https://uazo.codeberg.page/cromite-static/@pages/fdroid/repo
+
+* fingerprint: *
+49 F3 7E 74 DE E4 83 DC A2 B9 91 33 4F B5 A0 20 07 87 43 0D 0B 5F 9A 78 3D D5 F1 36 95 E9 51 7B
+
+
+## Mysu
+http://rk63tc3isr7so7ubl6q7kdxzzws7a7t6s467lbtw2ru3cwy6zu6w4jad.onion/fdroid/repo
+
+* fingerprint: *
+0C 72 C5 40 E5 84 10 30 FA E3 23 29 A1 BC 87 47 DC AC 52 36 E4 D1 AA ED B6 77 35 CA 7B 7D D3 D6
+
+
+## ANONERO
+http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/fdroid/repo
+
+* fingerprint: *
+C5 70 5F F7 24 53 8F 69 25 B6 09 35 17 F5 3C 6C 6B B6 CF 82 51 8E D4 0E B4 B8 CB BB 87 DC 0D 1D
