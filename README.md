@@ -996,3 +996,10 @@ https://app.futo.org/fdroid/repo
 
 * fingerprint: *
 39 D4 78 69 D2 9C BF CE 46 91 D9 F7 E6 94 6A 7B 6D 7E 6F F4 88 34 97 E6 E6 75 74 4E CD FA 6D 6D
+
+
+## Gary Kim's
+https://f-droid.garykim.dev/fdroid/repo
+
+* fingerprint: *
+D3 FF AF 80 54 8C A4 74 DC 9B 2D DD CD FC AC 91 23 F0 6D FF 27 3A AF D5 E0 2C 24 36 AD 2A 9E 2C
