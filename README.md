@@ -989,3 +989,10 @@ http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/fdroid/rep
 
 * fingerprint: *
 C5 70 5F F7 24 53 8F 69 25 B6 09 35 17 F5 3C 6C 6B B6 CF 82 51 8E D4 0E B4 B8 CB BB 87 DC 0D 1D
+
+
+## FUTO
+https://app.futo.org/fdroid/repo
+
+* fingerprint: *
+39 D4 78 69 D2 9C BF CE 46 91 D9 F7 E6 94 6A 7B 6D 7E 6F F4 88 34 97 E6 E6 75 74 4E CD FA 6D 6D
