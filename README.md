@@ -718,6 +718,13 @@ https://raw.githubusercontent.com/chrisgch/tca/master/fdroid/repo
 35 76 59 6C EC DD 70 48 8D 61 CF D9 07 99 A4 9B 7F FD 26 A8 1A 8F EF 1B AD EC 88 D0 69 FA 72 C1
 
 
+## Total Commander Beta
+https://raw.githubusercontent.com/chrisgch/tcabeta/master/fdroid/repo
+
+* fingerprint: *
+7F 1E 1D C0 3B 47 BE 5A E0 C4 D9 77 B9 3B 41 37 FA 11 49 EA B8 A5 62 CA 0E BC 27 64 84 41 13 DE
+
+
 ## Zimbelstern's
 https://zimbelstern.eu/fdroid/repo
 
