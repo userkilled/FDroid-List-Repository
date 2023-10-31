@@ -1010,3 +1010,10 @@ https://f-droid.garykim.dev/fdroid/repo
 
 * fingerprint: *
 D3 FF AF 80 54 8C A4 74 DC 9B 2D DD CD FC AC 91 23 F0 6D FF 27 3A AF D5 E0 2C 24 36 AD 2A 9E 2C
+
+
+## Threema F-Droid
+https://releases.threema.ch/fdroid/repo
+
+* fingerprint: *
+57 34 E7 53 89 9B 25 77 5D 90 FE 85 36 2A 49 86 6E 05 AC 4F 83 C0 5B EF 5A 92 88 0D 29 10 63 9E
