@@ -956,13 +956,6 @@ https://raw.githubusercontent.com/vaginessa/fdroid-1/gh-pages/repo
 C4 16 F1 57 C1 AA DE BE 62 E5 33 C3 ED BB B2 02 CA 8F 71 26 FF 0A 39 27 E6 0C 1C DE 96 2C 81 8D
 
 
-## Knocky Repo
-https://raw.githubusercontent.com/dasmikko/knocky-fdroid-repo/master/fdroid/repo
-
-* fingerprint: *
-04 9E B3 3E 56 3D F6 FC 7E 4A CB 56 E4 80 72 9F 58 C8 1E 70 04 80 DF B3 B2 10 D3 E6 BA 5A 87 6B
-
-
 ## Vineel Sai's
 https://raw.githubusercontent.com/vineelsai26/repo/main/fdroid/repo
 
