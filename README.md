@@ -1010,3 +1010,9 @@ https://releases.threema.ch/fdroid/repo
 
 * fingerprint: *
 57 34 E7 53 89 9B 25 77 5D 90 FE 85 36 2A 49 86 6E 05 AC 4F 83 C0 5B EF 5A 92 88 0D 29 10 63 9E
+
+## essentialAPK
+https://raw.githubusercontent.com/vaginessa/essential-repo/master/fdroid/repo
+
+* fingerprint: *
+F3 A2 C9 0A 3D 56 18 46 23 42 4E 0B 1E 4C 19 CD 18 57 9A 86 F4 D2 CD 6F 24 D8 02 C9 F7 7E 27 BC
