@@ -1045,3 +1045,10 @@ https://raw.githubusercontent.com/RaminAfhami993/fdroid/master/repo
 
 * fingerprint: *
 70 37 7D 8B 34 35 D5 09 AD CC 98 78 40 AF 4E 19 07 E6 EE C1 5E E2 7C 66 F9 FB BE 7C 8A ED 56 E6
+
+
+## IgorKey
+https://raw.githubusercontent.com/IgorKey/fdroid/master/fdroid/repo
+
+* fingerprint: *
+C2 F6 08 75 78 70 0A E3 FB 9F 5C 91 0A 74 50 73 30 C3 E3 D3 8D 91 D9 7E 78 0E 15 63 66 D2 F8 E9
