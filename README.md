@@ -1052,3 +1052,10 @@ https://raw.githubusercontent.com/IgorKey/fdroid/master/fdroid/repo
 
 * fingerprint: *
 C2 F6 08 75 78 70 0A E3 FB 9F 5C 91 0A 74 50 73 30 C3 E3 D3 8D 91 D9 7E 78 0E 15 63 66 D2 F8 E9
+
+
+## Cloudburst's fdroid repository
+https://c10udburst.github.io/fdroid/repo/
+
+* fingerprint: *
+0E 2D 24 9A B2 54 5E C5 2D CF 67 AB 43 46 4F B2 F7 B1 1E EC 71 F6 D8 89 11 08 FD D8 03 4A 58 A5
