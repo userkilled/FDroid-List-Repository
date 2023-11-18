@@ -1011,8 +1011,37 @@ https://releases.threema.ch/fdroid/repo
 * fingerprint: *
 57 34 E7 53 89 9B 25 77 5D 90 FE 85 36 2A 49 86 6E 05 AC 4F 83 C0 5B EF 5A 92 88 0D 29 10 63 9E
 
+
 ## essentialAPK
 https://raw.githubusercontent.com/vaginessa/essential-repo/master/fdroid/repo
 
 * fingerprint: *
 F3 A2 C9 0A 3D 56 18 46 23 42 4E 0B 1E 4C 19 CD 18 57 9A 86 F4 D2 CD 6F 24 D8 02 C9 F7 7E 27 BC
+
+
+## FullCodeApps
+https://raw.githubusercontent.com/ThatFinnDev/fullcodesfdroid/main/repo
+
+* fingerprint: *
+D5 BF 94 98 AE B3 22 FE E6 9C 04 2C B4 64 5D 74 10 2D 53 47 3E E3 AC E3 94 ED 5B BD 19 AC 31 6E
+
+
+## NovySoft
+https://raw.githubusercontent.com/NovySoft/fdroid-repo/main/repo
+
+* fingerprint: *
+B6 D1 CE 7F 02 42 DE 73 75 60 D3 30 78 65 32 49 CC 3F 18 12 76 00 AD 72 28 8E 75 D3 9A 9E DE E3
+
+
+## SmartOfficeSchool
+https://raw.githubusercontent.com/smartofficeschool/fdroid/master/fdroid/repo
+
+* fingerprint: *
+7A 9D D5 1A 70 1C 74 85 D6 71 FB 50 29 A8 3C 3A 3A 2B 81 C7 54 F4 B0 77 AD 1C A1 2C 6F E8 0E E1
+
+
+## RamonAfhami993
+https://raw.githubusercontent.com/RaminAfhami993/fdroid/master/repo
+
+* fingerprint: *
+70 37 7D 8B 34 35 D5 09 AD CC 98 78 40 AF 4E 19 07 E6 EE C1 5E E2 7C 66 F9 FB BE 7C 8A ED 56 E6
