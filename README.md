@@ -1054,8 +1054,29 @@ https://raw.githubusercontent.com/IgorKey/fdroid/master/fdroid/repo
 C2 F6 08 75 78 70 0A E3 FB 9F 5C 91 0A 74 50 73 30 C3 E3 D3 8D 91 D9 7E 78 0E 15 63 66 D2 F8 E9
 
 
-## Cloudburst's fdroid repository
+## C10udburst's fdroid repository
 https://c10udburst.github.io/fdroid/repo/
 
 * fingerprint: *
 0E 2D 24 9A B2 54 5E C5 2D CF 67 AB 43 46 4F B2 F7 B1 1E EC 71 F6 D8 89 11 08 FD D8 03 4A 58 A5
+
+
+## Ohidur's
+https://raw.githubusercontent.com/ohidurbappy/fdroid/main/fdroid/repo
+
+* fingerprint: *
+9B 0B B9 84 7C C7 B7 D0 E9 EC 6B A1 C7 A0 CA 8C B8 C8 F1 A8 02 B0 5E C4 49 91 90 C3 9A A4 BA AC
+
+
+## Ilingu
+https://raw.githubusercontent.com/Ilingu/fdroid/main/repo
+
+* fingerprint: *
+B5 C0 C8 25 BB B9 C0 3A 81 19 16 9C D9 97 D0 03 F4 72 EA 5B 7E BA 19 E1 80 CD EE 0D 79 8A 17 25
+
+
+## Huizengek's
+https://raw.githubusercontent.com/25huizengek1/fdroid-repo/master/fdroid/repo
+
+* fingerprint: *
+A9 F4 73 0F 35 85 8B 40 CD 7E D8 6E 46 03 06 44 12 0F B5 DF BC 1B 33 66 D0 5C E3 8A 7B DB 5C 79
