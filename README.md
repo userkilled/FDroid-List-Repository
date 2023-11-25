@@ -774,8 +774,10 @@ https://repo.nononsenseapps.com/fdroid/repo
 5B 70 C7 51 8C 04 B2 51 78 D9 7B F6 60 60 BF 79 93 4B F9 1D FA 70 85 F5 5B 78 56 2C 23 39 87 E6
 
 
-## Novy
+## NovySoft
 https://fdroid.novy.software/repo
+
+(site link)
 
 * fingerprint: *
 B6 D1 CE 7F 02 42 DE 73 75 60 D3 30 78 65 32 49 CC 3F 18 12 76 00 AD 72 28 8E 75 D3 9A 9E DE E3
@@ -935,13 +937,6 @@ https://raw.githubusercontent.com/liyuqihxc/fdroid_repo/master
 35 51 66 42 12 4D 65 C2 69 DC C2 17 69 42 D8 CE D9 2B 18 44 8D D8 B1 E2 E8 35 A9 CC F0 C8 CF B5
 
 
-## jOS repo
-https://raw.githubusercontent.com/jf916/jf916.github.io/master/fdroid/repo
-
-* fingerprint: *
-23 DC 9F A2 EC 42 3C 43 1B FD AC F7 4C 9E 85 4F 4D 90 67 53 1C 34 1A A6 2C 05 D7 BF D8 D5 AC 25
-
-
 ## fgo english
 https://raw.githubusercontent.com/soredake/fgo_en_fdroid_repo/main/repo
 
@@ -1026,8 +1021,10 @@ https://raw.githubusercontent.com/ThatFinnDev/fullcodesfdroid/main/repo
 D5 BF 94 98 AE B3 22 FE E6 9C 04 2C B4 64 5D 74 10 2D 53 47 3E E3 AC E3 94 ED 5B BD 19 AC 31 6E
 
 
-## NovySoft
+## NovySoft 
 https://raw.githubusercontent.com/NovySoft/fdroid-repo/main/repo
+
+(github link)
 
 * fingerprint: *
 B6 D1 CE 7F 02 42 DE 73 75 60 D3 30 78 65 32 49 CC 3F 18 12 76 00 AD 72 28 8E 75 D3 9A 9E DE E3
@@ -1080,3 +1077,10 @@ https://raw.githubusercontent.com/25huizengek1/fdroid-repo/master/fdroid/repo
 
 * fingerprint: *
 A9 F4 73 0F 35 85 8B 40 CD 7E D8 6E 46 03 06 44 12 0F B5 DF BC 1B 33 66 D0 5C E3 8A 7B DB 5C 79
+
+
+## NovySoft Archive
+http://fdroid.novy.software/archive
+
+* fingerprint: *
+B6 D1 CE 7F 02 42 DE 73 75 60 D3 30 78 65 32 49 CC 3F 18 12 76 00 AD 72 28 8E 75 D3 9A 9E DE E3
