@@ -1084,3 +1084,12 @@ http://fdroid.novy.software/archive
 
 * fingerprint: *
 B6 D1 CE 7F 02 42 DE 73 75 60 D3 30 78 65 32 49 CC 3F 18 12 76 00 AD 72 28 8E 75 D3 9A 9E DE E3
+
+
+## Zom Android Nightly
+https://raw.githubusercontent.com/zom/zom-android-nightly/master/fdroid/repo
+
+* fingerprint: *
+65 9E 1F D2 84 54 9F 70 D1 3F B0 2C 62 01 00 E2 7E EE A3 42 05 58 CC E6 2B 0F 5D 4C F2 B7 7D 84
+
+
