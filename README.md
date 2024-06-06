@@ -102,13 +102,6 @@ https://cdn.kde.org/android/fdroid/repo
 B3 EB E1 0A FA 6C 5C 40 03 79 B3 44 73 E8 43 D6 86 C6 1A E6 AD 33 F4 23 C9 8A F9 03 F0 56 52 3F
 
 
-## Unofficial Firefox Repo
-https://rfc2822.gitlab.io/fdroid-firefox/fdroid/repo
-
-* fingerprint: *
-8F 99 2B BB A0 34 0E FE 62 99 C7 A4 10 B3 6D 9C 88 89 11 4C A6 C5 80 13 C3 58 7C DA 41 1B 4A ED
-
-
 ## Calyx Institute (testing)
 https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo
 
