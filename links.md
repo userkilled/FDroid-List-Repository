@@ -54,10 +54,6 @@ https://cdn.kde.org/android/stable-releases/fdroid/repo?fingerprint=13784BA6C80F
 ```
 https://cdn.kde.org/android/fdroid/repo?fingerprint=B3EBE10AFA6C5C400379B34473E843D686C61AE6AD33F423C98AF903F056523F
 ```
-# Firefox (Unofficial)
-```
-https://rfc2822.gitlab.io/fdroid-firefox/fdroid/repo?fingerprint=8F992BBBA0340EFE6299C7A410B36D9C8889114CA6C58013C3587CDA411B4AED
-```
 # Calyx Institute (testing)
 ```
 https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo?fingerprint=C44D58B4547DE5096138CB0B34A1CC99DAB3B4274412ED753FCCBFC11DC1B7B6
