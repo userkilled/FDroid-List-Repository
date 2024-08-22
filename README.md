@@ -952,7 +952,7 @@ https://fdroid.ggtyler.dev/
 
 
 ## Cromite
-https://uazo.codeberg.page/cromite-static/@pages/fdroid/repo
+https://www.cromite.org/fdroid/repo
 
 * fingerprint: *
 49 F3 7E 74 DE E4 83 DC A2 B9 91 33 4F B5 A0 20 07 87 43 0D 0B 5F 9A 78 3D D5 F1 36 95 E9 51 7B
