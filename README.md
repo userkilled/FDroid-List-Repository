@@ -355,7 +355,7 @@ F3 F3 0B 6D 21 2D 84 AE A6 04 C3 DF 00 E9 E4 D4 A3 91 94 A3 3B F6 EC 58 DB 53 AF
 
 
 ## MM20
-https://raw.githubusercontent.com/MM2-0/fdroid/main/fdroid/repo
+https://fdroid.mm20.de/repo
 
 * fingerprint: *
 15 6F BA B9 52 F6 99 64 15 F1 98 F3 F2 96 28 D2 4B 30 E7 25 B0 F0 7A 2B 49 C3 A9 B5 16 1E EE 1A
