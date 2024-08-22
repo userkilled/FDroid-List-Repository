@@ -529,13 +529,6 @@ https://fdroid.zevvle.com/
 B6 E8 0E 4D B4 00 B5 D1 6A 2C D5 D1 B2 D4 76 D1 75 5D 97 77 CE 13 5E 83 59 D1 66 A7 0B CD 12 A9
 
 
-## CCC
-https://fdroid.gitlab.io/ccc/fdroid/repo
-
-* fingerprint: *
-1F 2E CC 52 D4 A5 C4 95 86 FD DC 0A 3E 57 E2 F4 C9 B5 B3 04 1D B1 EC 45 57 47 A8 43 44 DC A1 0E
-
-
 ## Florian Obernberger's
 https://codeberg.org/florian-obernberger/fdroid-repo/raw/branch/main/repo
 
