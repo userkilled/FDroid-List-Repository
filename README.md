@@ -769,13 +769,6 @@ https://ikas-mc.github.io/fdroid-repo/fdroid/repo
 A4 F1 C6 0E B4 D3 A8 FD E4 64 4D BA C9 F9 83 4E 3C 06 B6 9E 4E AC F8 A7 FF 54 23 33 95 23 07 1B
 
 
-## dfuchss
-https://dfuchss.github.io/fdroid-repository/repo
-
-* fingerprint: *
-8A 87 24 62 41 B1 79 1F BB 7E B0 E0 74 7F BE 8E 6A 36 59 5F 0D 1D 2A 71 29 9D 38 B3 55 AD 82 5E
-
-
 ## Eastcoast Laboratories
 https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo
 
