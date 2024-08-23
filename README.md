@@ -648,13 +648,6 @@ https://fdroid.cakelabs.com/
 EA 44 EF AE E0 B6 41 EE 7A 03 2D 39 7D 5D 97 6F 9C 4E 5E 1E D2 6E 11 C7 57 02 D0 64 E5 5F 87 55
 
 
-## INVISV
-https://fdroid.invisv.com/
-
-* fingerprint: *
-EE 79 92 6D 09 C8 8A 49 D6 CC E9 EE 2D 79 B9 50 AE 26 9F DB 19 24 0F 8D D6 A8 AC 65 8B ED F8 3A
-
-
 ## idoéOS
 https://raw.githubusercontent.com/iodeOS/fdroid/master/fdroid/repo
 
