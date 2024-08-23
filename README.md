@@ -452,13 +452,6 @@ https://thedoc.eu.org/fdroid/repo
 B1 35 8F 5B 94 2E 56 76 B2 93 5B 83 F3 9E 3B AA 36 3F 3F DA 9E 53 DB 62 11 35 51 D1 4B 09 A1 73
 
 
-## Samurai
-https://repo.samourai.io/fdroid/repo
-
-* fingerprint: *
-53 18 AF A2 80 28 48 55 CF 5D 00 27 AA 54 51 77 69 F4 61 D7 35 98 0B 1F B0 85 4C EA E8 E0 72 A5
-
-
 ## Session
 https://fdroid.getsession.org/fdroid/repo
 
