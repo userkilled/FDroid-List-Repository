@@ -704,13 +704,6 @@ https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo
 AD F8 1D 67 82 67 B1 F0 30 EC 69 17 48 B3 1D 97 7B A4 F3 E9 DA 55 20 FD 19 06 6A B9 50 3B 99 93
 
 
-## Fcitx 5
-https://f5a.typed.icu/fdroid/repo
-
-* fingerprint: *
-5D 87 CE 1F AD 37 72 42 5C 2A 7E D9 87 A5 75 95 A2 0B 07 54 3B 95 95 A7 FD 2C ED 25 DF F3 CF 12
-
-
 ## Five Players
 https://raw.githubusercontent.com/Five-Prayers/fdroid-repo-stable/main/fdroid/repo
 
