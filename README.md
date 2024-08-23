@@ -235,13 +235,6 @@ https://pili.qi0.de/fdroid/repo
 83 16 1D 8D 5E C8 4B A3 26 66 EC E6 2E 40 D5 78 34 2C AD 3B 03 EA EE CA 2E 75 E3 96 12 5F DA A0
 
 
-## rami.io
-https://fdroid.rami.io/fdroid/repo
-
-* fingerprint: *
-25 96 A7 85 39 AA FB 77 98 DC B5 B3 53 EA 24 64 C3 C1 87 8A A5 55 FE 52 4C 66 47 EF F3 0C 81 D9
-
-
 ## xarantolus
 https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo
 
