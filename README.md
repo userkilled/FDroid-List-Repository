@@ -284,7 +284,7 @@ https://freeyourgadget.codeberg.page/fdroid/repo
 CD 38 1E CC C4 65 AB 32 4E 21 BC C3 35 89 56 15 E0 7E 70 EE 11 E9 FD 1D F3 C0 20 C5 19 4F 00 B2
 
 
-status server 502  ## Funkwhale
+## Funkwhale (status server 502)
 https://fdroid.funkwhale.audio/
 
 * fingerprint: *
