@@ -909,7 +909,7 @@ https://raw.githubusercontent.com/vineelsai26/repo/main/fdroid/repo
 5D 0A 26 CF DE 21 2D 5F 57 34 F1 8A 43 26 19 C8 BF 78 9B 7A E3 F7 56 30 16 8E 33 A3 B9 94 6D 87
 
 
-## ggtyler
+repo shutdown  ## ggtyler
 https://fdroid.ggtyler.dev/
 
 * fingerprint: *
