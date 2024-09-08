@@ -1044,3 +1044,8 @@ https://raw.githubusercontent.com/zom/zom-android-nightly/master/fdroid/repo
 65 9E 1F D2 84 54 9F 70 D1 3F B0 2C 62 01 00 E2 7E EE A3 42 05 58 CC E6 2B 0F 5D 4C F2 B7 7D 84
 
 
+## Pixelfed
+https://fdroid.pixelfed.net/fdroid/repo
+
+* fingerprint: *
+FA E6 C2 29 23 48 F0 BF 91 03 97 A0 89 16 CC F4 B2 60 1B 01 03 27 76 8B 31 49 51 CD 30 0D CA 6E
