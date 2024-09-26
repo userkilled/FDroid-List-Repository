@@ -1056,3 +1056,24 @@ https://raw.githubusercontent.com/zaneschepke/fdroid/main/fdroid/repo
 
 * fingerprint: *
 08 90 C5 D4 4C 01 09 E3 66 80 1C 39 84 03 25 E8 10 E2 1B 27 0B 9D 2A EC 53 CE 0D 6C 5F C8 49 DB
+
+
+## FlClash
+https://chen08209.github.io/FlClash-fdroid-repo/repo
+
+* fingerprint: *
+78 9D 6D 32 66 87 12 EF 76 72 F9 E5 8D EE B1 5F BD 6D CE EC 5A E7 A4 37 1E A7 2F 2A AE 8A 12 FD
+
+
+## s3tupw1zard
+https://s3tupw1zard.github.io/fdroid/repo
+
+* fingerprint: *
+30 C8 B3 32 15 CD FD A5 C7 8B CB 3D 1B 7E 4B 0F 8F 05 06 97 82 0D 7B E3 20 E2 9D 61 A7 2E CC 60
+
+
+## s3tupw1zard archive
+https://s3tupw1zard.github.io/fdroid/archive
+
+* fingerprint: *
+30 C8 B3 32 15 CD FD A5 C7 8B CB 3D 1B 7E 4B 0F 8F 05 06 97 82 0D 7B E3 20 E2 9D 61 A7 2E CC 60
