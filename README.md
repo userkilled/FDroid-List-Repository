@@ -1077,3 +1077,26 @@ https://s3tupw1zard.github.io/fdroid/archive
 
 * fingerprint: *
 30 C8 B3 32 15 CD FD A5 C7 8B CB 3D 1B 7E 4B 0F 8F 05 06 97 82 0D 7B E3 20 E2 9D 61 A7 2E CC 60
+
+
+## Lobanokivan11
+https://raw.githubusercontent.com/Lobanokivan11/Fdroid-repo-unite/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+65 64 AA CE 5E A3 B8 D6 58 53 30 C2 52 CB 5F 91 E3 66 A7 FA 93 32 74 2E A6 7C 4B 6F 4E 17 FD 6B
+
+
+## Fcitx5 for Android  (restored)
+https://f5a.torus.icu/fdroid/repo
+
+* fingerprint: *
+5D 87 CE 1F AD 37 72 42 5C 2A 7E D9 87 A5 75 95 A2 0B 07 54 3B 95 95 A7 FD 2C ED 25 DF F3 CF 12
+
+
+## Gabbolx 
+https://raw.githubusercontent.com/Gabboxl/fdroids/master/fdroid/repo
+
+* fingerprint: *
+0E FE A0 B2 9F DB E6 D8 CB FF 4D F3 03 10 D7 6E 1A F9 87 D3 A0 6A FF A8 D7 8B A0 4E 2D EC 0B 79
+
+
