@@ -151,6 +151,13 @@ https://briarproject.org/fdroid/repo
 1F B8 74 BE E7 27 6D 28 EC B2 C9 B0 6E 8A 12 2E C4 BC B4 00 81 61 43 6C E4 74 C2 57 CB F4 9B D6
 
 
+## Briar Project Archive
+https://briarproject.org/fdroid/archive
+
+* fingerprint: *
+1F B8 74 BE E7 27 6D 28 EC B2 C9 B0 6E 8A 12 2E C4 BC B4 00 81 61 43 6C E4 74 C2 57 CB F4 9B D6
+
+
 ## Wind Offline
 https://guardianproject-wind.s3.amazonaws.com/fdroid/repo
 
