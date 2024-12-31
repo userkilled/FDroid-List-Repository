@@ -333,14 +333,14 @@ https://fdroid.koyu.space/fdroid/repo
 0A CF 19 C0 AC EA 75 59 34 E0 06 76 D5 2E B2 F9 D6 8F 30 0C 05 2A 56 5B 45 9F E2 F5 E9 8D 23 7E
 
 
-## DivestOS Unofficial
+## DivestOS Unofficial ( [end support](https://divestos.org/pages/news#end) )
 https://divestos.org/apks/unofficial/fdroid/repo
 
 * fingerprint: *
 A1 8C DB 92 F4 0E BF BB F7 78 A5 4F D1 2D BD 74 D9 0F 14 90 CB 9E F2 CC 6C 7E 68 2D D5 56 85 5D
 
 
-## DivestOS Official
+## DivestOS Official ( [end support](https://divestos.org/pages/news#end) )
 https://divestos.org/apks/official/fdroid/repo
 
 * fingerprint: *
