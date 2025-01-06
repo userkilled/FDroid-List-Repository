@@ -1128,8 +1128,22 @@ https://bazsalanszky.codeberg.page/fdroid/repo
 1E 6F F4 AA 77 64 A2 7E 25 D0 E7 48 02 F6 A2 6B 5C 5A 00 C7 D1 CF 08 E8 51 22 0E 14 57 6E F9 FE
 
 
-## Zaneschepke
+## Zane Schepke
 https://raw.githubusercontent.com/zaneschepke/fdroid/main/fdroid/repo
 
 * fingerprint: *
 08 90 C5 D4 4C 01 09 E3 66 80 1C 39 84 03 25 E8 10 E2 1B 27 0B 9D 2A EC 53 CE 0D 6C 5F C8 49 DB
+
+
+## Warren Bank
+http://warren-bank.github.io/fdroid/repo
+
+* fingerprint: *
+E9 91 BE 73 E9 C4 A5 30 2B 84 4D BF 90 15 1D 9E 59 9F BA 21 2A CC D1 A9 70 80 2A 74 C9 90 30 78
+
+
+## Warren Bank Archive
+http://warren-bank.github.io/fdroid/archive
+
+* fingerprint: *
+E9 91 BE 73 E9 C4 A5 30 2B 84 4D BF 90 15 1D 9E 59 9F BA 21 2A CC D1 A9 70 80 2A 74 C9 90 30 78
