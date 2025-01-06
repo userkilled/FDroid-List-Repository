@@ -951,7 +951,7 @@ https://app.futo.org/fdroid/repo
 39 D4 78 69 D2 9C BF CE 46 91 D9 F7 E6 94 6A 7B 6D 7E 6F F4 88 34 97 E6 E6 75 74 4E CD FA 6D 6D
 
 
-## Gary Kim's
+ (not found) ## Gary Kim's 
 https://f-droid.garykim.dev/fdroid/repo
 
 * fingerprint: *
