@@ -1058,13 +1058,6 @@ https://fdroid.pixelfed.net/fdroid/repo
 FA E6 C2 29 23 48 F0 BF 91 03 97 A0 89 16 CC F4 B2 60 1B 01 03 27 76 8B 31 49 51 CD 30 0D CA 6E
 
 
-## Zane Apps
-https://raw.githubusercontent.com/zaneschepke/fdroid/main/fdroid/repo
-
-* fingerprint: *
-08 90 C5 D4 4C 01 09 E3 66 80 1C 39 84 03 25 E8 10 E2 1B 27 0B 9D 2A EC 53 CE 0D 6C 5F C8 49 DB
-
-
 ## FlClash
 https://chen08209.github.io/FlClash-fdroid-repo/repo
 
