@@ -1107,3 +1107,36 @@ https://raw.githubusercontent.com/Gabboxl/fdroids/master/fdroid/repo
 0E FE A0 B2 9F DB E6 D8 CB FF 4D F3 03 10 D7 6E 1A F9 87 D3 A0 6A FF A8 D7 8B A0 4E 2D EC 0B 79
 
 
+## Cheogram
+https://cheogram.com/fdroid/repo
+
+* fingerprint: *
+CC F5 2D C9 11 63 F1 6A BA 9E 5B 15 0D 81 6C 36 97 B2 C9 7D A0 56 71 3B AC 1E C4 26 EC 7E FE B2
+
+
+## Cheogram Pre-Release
+https://cheogram.com/fdroid/pre-release/fdroid/repo
+
+* fingerprint: *
+CC F5 2D C9 11 63 F1 6A BA 9E 5B 15 0D 81 6C 36 97 B2 C9 7D A0 56 71 3B AC 1E C4 26 EC 7E FE B2
+
+
+## Coppernic
+http://fdroid.coppernic.fr/common/fdroid/repo
+
+* fingerprint: *
+73 24 15 96 B5 B3 9B E1 52 3A 3F F5 94 8A 84 64 2E 08 3E 4F 12 28 D0 C3 86 9E 37 CA B9 C5 E7 74
+
+
+## Eternity (Invinity for Lemmy) nightly builds
+https://bazsalanszky.codeberg.page/fdroid/repo
+
+* fingerprint: *
+1E 6F F4 AA 77 64 A2 7E 25 D0 E7 48 02 F6 A2 6B 5C 5A 00 C7 D1 CF 08 E8 51 22 0E 14 57 6E F9 FE
+
+
+## Zaneschepke
+https://raw.githubusercontent.com/zaneschepke/fdroid/main/fdroid/repo
+
+* fingerprint: *
+08 90 C5 D4 4C 01 09 E3 66 80 1C 39 84 03 25 E8 10 E2 1B 27 0B 9D 2A EC 53 CE 0D 6C 5F C8 49 DB
