@@ -256,7 +256,7 @@ https://submarine.strangled.net/fdroid/repo
 3D B2 D0 9F 57 32 45 E0 05 B6 A5 4E B5 EB F6 E6 A3 51 D6 A5 16 1C FE EF F1 44 2C 93 95 97 C3 1B
 
 
-## mobilsicher 
+off repo ## mobilsicher (Dieses Projekt wurde am 31.12.2024 beendet.)
 https://repo.mobilsicher.de/fdroid/repo
 
 * fingerprint: *
