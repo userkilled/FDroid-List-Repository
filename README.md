@@ -1150,7 +1150,7 @@ E9 91 BE 73 E9 C4 A5 30 2B 84 4D BF 90 15 1D 9E 59 9F BA 21 2A CC D1 A9 70 80 2A
 
 
 ## IronFox OSS
-https://froid.ironfoxoss.org/fdroid/repo
+https://fdroid.ironfoxoss.org/fdroid/repo
 
 * fingerprint: *
 C5 E2 91 B5 A5 71 F9 C8 CD 9A 97 99 C2 C9 4E 02 EC 97 03 94 88 93 F2 CA 75 6D 67 B9 42 04 F9 04
