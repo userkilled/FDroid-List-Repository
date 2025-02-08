@@ -917,7 +917,7 @@ https://raw.githubusercontent.com/liyuqihxc/fdroid_repo/master
 
 
 ## fgo english
-https://raw.githubusercontent.com/soredake/fgo_en_fdroid_repo/main/repo
+https://raw.githubusercontent.com/alienchristxv3/fgo_en_fdroid_repo/main/repo
 
 * fingerprint: *
 96 E2 F6 1C D9 66 B2 B6 2D 5E 17 D7 B6 63 87 88 CA 10 BA 77 2C 28 D4 8A 4C A1 A0 E9 EA C5 9B FF
