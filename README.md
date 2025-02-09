@@ -1350,3 +1350,12 @@ https://fdroid.escola.ch/fdroid/repo
 
 * fingerprint: *
 CF 2A 05 21 E1 40 30 99 0E 3F 7E 33 CE 83 91 EA 83 63 37 CB C6 B7 B0 4C CF 7E 2F FB B0 BB 30 9B
+
+
+## Rosy Crow
+https://rosy-crow.app/fdroid/repo
+
+* fingerprint: *
+39 13 F7 41 76 6E 05 4E 5F 09 BE B0 05 71 81 74 E7 50 7E FA 3D 75 EF 89 0D F4 64 DF 5B 63 FA 84
+
+
