@@ -120,7 +120,14 @@ https://fdroid.fedilab.app/repo
 https://store.nethunter.com/repo
 
 * fingerprint: *
-7E 41 8D 34 C3 AD 4F 3C 37 D7 E6 B0 FA CE 13 33 23 64 45 9C 86 21 34 EB 09 9A 3B DA 2C CF 44 94
+FE 7A 23 DF C0 03 A1 CF 2D 2A DD 24 69 B9 C0 C4 9B 20 6B A5 DC 9E DD 65 63 B3 B7 EB 6A 8F 5F AB
+
+
+## Kali NetHunter Archive
+https://store.nethunter.com/archive
+
+* fingerprint: *
+FE 7A 23 DF C0 03 A1 CF 2D 2A DD 24 69 B9 C0 C4 9B 20 6B A5 DC 9E DD 65 63 B3 B7 EB 6A 8F 5F AB
 
 
 ## Umbrella 
@@ -326,7 +333,7 @@ https://jhass.github.io/insporation/fdroid/repo
 EC 79 2A 58 B3 9D F9 FB B4 66 FB 10 0E 30 E3 84 2F 22 9F DB C6 E2 8D 32 C4 17 F6 A5 B3 0E CC AE
 
 
-## koyu.space
+ not found ## koyu.space
 https://fdroid.koyu.space/fdroid/repo
 
 * fingerprint: *
@@ -951,13 +958,6 @@ https://www.cromite.org/fdroid/repo
 49 F3 7E 74 DE E4 83 DC A2 B9 91 33 4F B5 A0 20 07 87 43 0D 0B 5F 9A 78 3D D5 F1 36 95 E9 51 7B
 
 
-not found ## Mysu
-http://rk63tc3isr7so7ubl6q7kdxzzws7a7t6s467lbtw2ru3cwy6zu6w4jad.onion/fdroid/repo
-
-* fingerprint: *
-0C 72 C5 40 E5 84 10 30 FA E3 23 29 A1 BC 87 47 DC AC 52 36 E4 D1 AA ED B6 77 35 CA 7B 7D D3 D6
-
-
 ## ANONERO
 http://anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/fdroid/repo
 
@@ -1359,3 +1359,8 @@ https://rosy-crow.app/fdroid/repo
 39 13 F7 41 76 6E 05 4E 5F 09 BE B0 05 71 81 74 E7 50 7E FA 3D 75 EF 89 0D F4 64 DF 5B 63 FA 84
 
 
+## PurpleI2P
+https://fdroid.i2pd.xyz/fdroid/repo
+
+* fingerprint: *
+2B 95 64 B0 89 5E EA C0 39 E8 54 C6 B0 65 29 1B 01 E6 A9 CA 02 93 9C ED D0 D3 5C F4 4B EE 78 E0
