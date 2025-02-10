@@ -340,28 +340,14 @@ https://fdroid.koyu.space/fdroid/repo
 0A CF 19 C0 AC EA 75 59 34 E0 06 76 D5 2E B2 F9 D6 8F 30 0C 05 2A 56 5B 45 9F E2 F5 E9 8D 23 7E
 
 
-## DivestOS Unofficial ( [end support](https://divestos.org/pages/news#end) )
-https://divestos.org/apks/unofficial/fdroid/repo
-
-* fingerprint: *
-A1 8C DB 92 F4 0E BF BB F7 78 A5 4F D1 2D BD 74 D9 0F 14 90 CB 9E F2 CC 6C 7E 68 2D D5 56 85 5D
-
-
-## DivestOS Official ( [end support](https://divestos.org/pages/news#end) )
-https://divestos.org/apks/official/fdroid/repo
-
-* fingerprint: *
-E4 BE 8D 6A BF A4 D9 D4 FE EF 03 CD DA 7F F6 2A 73 FD 64 B7 55 66 F6 DD 4E 5E 57 75 50 BE 84 67
-
-
-## DivestOS(mirror) Official Arhive ( [end support](https://divestos.org/pages/news#end) )
+## DivestOS Official Arhive(mirror) ( [end support](https://divestos.org/pages/news#end) )
 https://cdimage.debian.org/mirror/divestos.org/divestos-apks/official/fdroid/archive
 
 * fingerprint: *
 E4 BE 8D 6A BF A4 D9 D4 FE EF 03 CD DA 7F F6 2A 73 FD 64 B7 55 66 F6 DD 4E 5E 57 75 50 BE 84 67
 
 
-## DivestOS(mirror) Official ( [end support](https://divestos.org/pages/news#end) )
+## DivestOS Official(mirror) ( [end support](https://divestos.org/pages/news#end) )
 https://cdimage.debian.org/mirror/divestos.org/divestos-apks/official/fdroid/repo
 
 * fingerprint: *
