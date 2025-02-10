@@ -1100,13 +1100,6 @@ https://s3tupw1zard.github.io/fdroid/archive
 30 C8 B3 32 15 CD FD A5 C7 8B CB 3D 1B 7E 4B 0F 8F 05 06 97 82 0D 7B E3 20 E2 9D 61 A7 2E CC 60
 
 
-## Lobanokivan11
-https://raw.githubusercontent.com/Lobanokivan11/Fdroid-repo-unite/refs/heads/main/fdroid/repo
-
-* fingerprint: *
-65 64 AA CE 5E A3 B8 D6 58 53 30 C2 52 CB 5F 91 E3 66 A7 FA 93 32 74 2E A6 7C 4B 6F 4E 17 FD 6B
-
-
 ## Fcitx5 for Android  (restored)
 https://f5a.torus.icu/fdroid/repo
 
