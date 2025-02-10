@@ -669,8 +669,22 @@ https://ltt.rs/fdroid/repo
 9C 2E 57 C8 5C 27 9E 5E 1A 42 7F 6E 87 92 7F C1 E2 27 8F 62 D6 1D 7F CE FD E9 34 6E 56 8C CF 86
 
 
+## c:geo
+https://fdroid.cgeo.org/
+
+* fingerprint: *
+37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98
+
+
 ## c:geo legacy
 https://fdroid.cgeo.org/legacy
+
+* fingerprint: *
+37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98
+
+
+## c:geo nightly
+https://fdroid.cgeo.org/nightly
 
 * fingerprint: *
 37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98
