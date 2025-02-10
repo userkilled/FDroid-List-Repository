@@ -298,7 +298,7 @@ https://freeyourgadget.codeberg.page/fdroid/repo
 CD 38 1E CC C4 65 AB 32 4E 21 BC C3 35 89 56 15 E0 7E 70 EE 11 E9 FD 1D F3 C0 20 C5 19 4F 00 B2
 
 
-## Funkwhale (status server 502)
+## Funkwhale
 https://fdroid.funkwhale.audio/
 
 * fingerprint: *
@@ -648,7 +648,7 @@ https://lucaapp.gitlab.io/fdroid-repository/fdroid/repo
 4B 6F 21 3E B2 A6 1B 11 04 7C 55 09 D7 95 6A 20 A0 C9 69 AF 60 8B 85 E1 C8 85 4E 9A 88 8D F9 BE
 
 
-## Cake Labs
+## Cake Labs  (not load site)
 https://fdroid.cakelabs.com/
 
 * fingerprint: *
