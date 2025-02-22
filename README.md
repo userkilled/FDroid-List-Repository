@@ -1,6 +1,10 @@
  # FDroid-List-Repository
 List Know Repository for FDroid (F-Droid)
 
+### Thanks: 
+[NeoStore](https://github.com/NeoApplications/Neo-Store), [F-Droid](https://f-droid.org/), and Search engine. and especially for those who host and maintain these repositories.
+
+
 [Simple links repos](https://github.com/userkilled/FDroid-List-Repository/blob/main/links.md)
 
 
@@ -1357,3 +1361,13 @@ https://fdroid.i2pd.xyz/fdroid/repo
 
 * fingerprint: *
 2B 95 64 B0 89 5E EA C0 39 E8 54 C6 B0 65 29 1B 01 E6 A9 CA 02 93 9C ED D0 D3 5C F4 4B EE 78 E0
+
+
+## Tagesshau
+https://fdroid.tagesschau.de/repo
+
+* fingerprint: *
+D7 E4 04 32 34 FC B5 EA AC B1 F4 D4 37 59 A0 BF 2E D4 12 DC 71 8B 8F BB 07 44 40 78 C6 E0 07 0C
+
+
+
