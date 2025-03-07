@@ -1370,4 +1370,9 @@ https://fdroid.tagesschau.de/repo
 D7 E4 04 32 34 FC B5 EA AC B1 F4 D4 37 59 A0 BF 2E D4 12 DC 71 8B 8F BB 07 44 40 78 C6 E0 07 0C
 
 
+## Unofficial Tasker Repo
+https://raw.githubusercontent.com/oxcl/fdroid-repo-tasker/refs/heads/main/direct-purchase/fdroid/repo
+
+* fingerprint: *
+36 3C 64 A0 FD A3 1F A5 B1 FA CE BD DA 0A 59 2D 70 09 18 BB 9B 8B FB 6A 31 D9 4C 6D BC 03 95 6E
 
