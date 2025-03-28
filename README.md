@@ -1376,3 +1376,32 @@ https://raw.githubusercontent.com/oxcl/fdroid-repo-tasker/refs/heads/main/direct
 * fingerprint: *
 36 3C 64 A0 FD A3 1F A5 B1 FA CE BD DA 0A 59 2D 70 09 18 BB 9B 8B FB 6A 31 D9 4C 6D BC 03 95 6E
 
+
+## jkulzer
+https://raw.githubusercontent.com/jkulzer/fdroid-repo/refs/heads/main/repo
+
+* fingerprint: *
+8B 4F E7 EF 21 A5 3C 1C 52 DD 00 2E BF 43 5A CF C1 17 4E 25 1A 39 F3 29 8E CF 2A 3C 24 76 8D E0
+
+
+## Malnvenshorn
+https://raw.githubusercontent.com/malnvenshorn/fdroid-repository/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+1C 36 CF 8B 9C 2C 9C 7F 59 1D 67 78 0D 08 BA 55 4E A4 9E C1 8F 7D 93 66 8C CD 48 F7 33 74 00 04
+
+
+## GK
+https://raw.githubusercontent.com/gopi487krishna/fdroidgk/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+3F 5D 1E D7 D1 1C 11 6A E7 A0 A4 3B 53 25 1C 0F 95 BD 20 FE E8 C7 FC 38 64 95 CF 9E 12 CF 0D 47
+
+
+## Cesar
+https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo
+
+* fingerprint: *
+34 98 77 6C AE D6 BF A0 D7 F4 61 89 64 A9 FF EF 12 CD F0 23 11 D4 FA 87 82 97 5D A8 25 AD E3 DC
+
+
