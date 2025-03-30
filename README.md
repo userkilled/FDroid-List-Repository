@@ -1494,3 +1494,11 @@ http://lab.ene5ai.fr/repo
 
 * fingerprint: *
 19 A0 96 D4 59 02 A4 7F 73 9E AC 37 E9 D8 CD 9F 4A EC 0F 83 E2 81 21 DD F9 B7 FF 1E D0 D1 6C 08
+
+
+## RWTH Aachen University (FDroid Basic)
+https://app.rwth-aachen.de/fdroid/repo
+
+* fingerprint: *
+AC D7 C5 54 DE D6 B9 A8 0B F4 3F 7D 76 6E E7 5C 07 DE BB 89 E8 3A B5 57 99 B9 42 34 AC 05 04 4C
+
