@@ -1502,3 +1502,11 @@ https://app.rwth-aachen.de/fdroid/repo
 * fingerprint: *
 AC D7 C5 54 DE D6 B9 A8 0B F4 3F 7D 76 6E E7 5C 07 DE BB 89 E8 3A B5 57 99 B9 42 34 AC 05 04 4C
 
+
+## LibRetro Archive
+https://fdroid.libretro.com/archive
+
+* fingerprint: *
+3F 05 B2 4D 49 75 15 F3 1F EA B4 21 29 7C 79 B1 95 52 C5 C8 11 86 B3 75 0B 7C 13 1E F4 1D 73 3D
+
+
