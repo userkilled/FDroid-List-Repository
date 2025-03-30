@@ -1258,7 +1258,7 @@ https://reticulum.betweentheborders.com/fdroid/archive
 FF 27 01 A9 12 47 06 23 CE CD C3 BB 60 35 17 47 21 EC 97 1A 50 EF 3E CD 26 35 B2 D0 61 38 F6 02
 
 
-## Bohemia Automation
+## Bohemia Automation (FDroid Basic)
 https://pub.bma.ai/fdroid/repo
 
 * fingerprint: *
@@ -1295,6 +1295,13 @@ https://fdroid.fab-access.org/fdroid/repo
 
 ## Podverse
 https://files.podverse.fm/fdroid/repo
+
+* fingerprint: *
+0F C2 A5 27 DD C4 C0 33 AD 32 24 7F BE 87 0A B4 D2 D9 B1 0F 84 D2 2B 75 2B B9 3C 80 0B 8A 06 89
+
+
+## Podverse Archive
+https://files.podverse.fm/fdroid/archive
 
 * fingerprint: *
 0F C2 A5 27 DD C4 C0 33 AD 32 24 7F BE 87 0A B4 D2 D9 B1 0F 84 D2 2B 75 2B B9 3C 80 0B 8A 06 89
@@ -1417,3 +1424,73 @@ http://fdroid.armax.ru/fdroid/archive
 
 * fingerprint: *
 C6 79 28 D1 DD 52 E7 F5 4D DE 6C 1F 56 7F 95 CF FB 44 1C CA ED AF 63 2C 10 44 A6 3E 5C 4B 28 69
+
+
+## MIMIS
+https://appstore.mifugo.go.tz/fdroid/repo
+
+* fingerprint: *
+99 AD 86 26 9A 2B E9 58 EF FE 3F 98 7C 57 EE 14 CD 15 0E 67 81 EF ED CB E3 59 BE 15 6F 43 35 3F
+
+
+## chayleaf's
+https://pavluk.org/fdroid/repo
+
+* fingerprint: *
+3A 07 91 8A 06 26 B5 B1 C3 8D 4A 5E 7B BA 95 AF 0A 24 B7 52 C8 DD 8F 32 AD F8 79 04 5B 6E A3 B3
+
+
+## GSM Signal Monitor
+https://getsignal.app/fdroid/repo
+
+* fingerprint: *
+26 75 33 D5 0A A1 DF C2 EF A9 58 B6 CB C6 E5 F4 25 ED 4E 51 B4 18 1E 6B F9 FB B5 40 52 7C AB E1
+
+
+## Pano Scrobbler
+https://kawaiiDango.github.io/pano-scrobbler/fdroid/repo
+
+* fingerprint: *
+99 54 EC AB 27 F9 FC E8 29 0A C7 5A 33 F3 DF E9 FE 5F 6F 5B 8E 6F 33 AD 7F 98 30 7A C4 D4 87 BA
+
+
+## i2p dev
+https://eyedeekay.github.io/fdroid-dev/repo
+
+* fingerprint: *
+22 65 8C C6 9F 48 D6 3F 63 C3 D6 4E 20 41 C8 17 14 E2 74 9F 3F 6E 54 45 C8 25 29 7A 00 DD C5 B6
+
+
+## ludikovsky
+https://fdroid.ludikovsky.name/
+
+* fingerprint: *
+61 08 C2 37 72 DB 14 31 D1 3D E9 6E AA 47 5A A9 C0 D5 27 2D EF CA CC B1 B1 B4 0F 07 70 5B 03 F7
+
+
+## Alt-Droid FOSS
+https://raw.githubusercontent.com/alt-droid/alt-droid-foss/fdroid/repo
+
+* fingerprint: *
+83 2B 76 C9 4C 8C 4C C8 DF CD 58 10 FF E0 38 39 59 25 2F 97 6A 06 FF A1 95 71 C3 B4 B9 9B 61 5B
+
+
+## microG Archive
+https://microg.org/fdroid/archive
+
+* fingerprint: *
+9B D0 67 27 E6 27 96 C0 13 0E B6 DA B3 9B 73 15 74 51 58 2C BD 13 8E 86 C4 68 AC C3 95 D1 41 65
+
+
+## WinOmega Archive
+https://www.winomega.com/fdroid/repo
+
+* fingerprint: *
+62 93 36 40 83 81 F7 97 39 64 CD F4 9D 14 6C C5 2F 97 D0 86 56 D9 9E 4C 0C 75 58 B1 AC 60 9C 42
+
+
+## ENE5AI
+http://lab.ene5ai.fr/repo
+
+* fingerprint: *
+19 A0 96 D4 59 02 A4 7F 73 9E AC 37 E9 D8 CD 9F 4A EC 0F 83 E2 81 21 DD F9 B7 FF 1E D0 D1 6C 08
