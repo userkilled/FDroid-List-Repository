@@ -1237,7 +1237,7 @@ https://selfprivacy.org/fdroid/repo
 95 17 88 E8 F0 A3 C8 2D DB D8 D3 C3 BE 69 83 55 F1 1B C9 3A DA 91 7C 19 73 68 04 AB 3F AA E8 00
 
 
-## Near Share
+## Near Share (status 404, not found)
 https://nearshare.shortdev.de/fdroid/repo/
 
 * fingerprint: *
