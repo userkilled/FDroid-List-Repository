@@ -1363,7 +1363,7 @@ https://fdroid.i2pd.xyz/fdroid/repo
 2B 95 64 B0 89 5E EA C0 39 E8 54 C6 B0 65 29 1B 01 E6 A9 CA 02 93 9C ED D0 D3 5C F4 4B EE 78 E0
 
 
-## Tagesshau
+## Tagesshau (FDroid Basic)
 https://fdroid.tagesschau.de/repo
 
 * fingerprint: *
@@ -1405,3 +1405,15 @@ https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo
 34 98 77 6C AE D6 BF A0 D7 F4 61 89 64 A9 FF EF 12 CD F0 23 11 D4 FA 87 82 97 5D A8 25 AD E3 DC
 
 
+## Armax.ru (FDroid 0.101)
+http://fdroid.armax.ru/fdroid/repo
+
+* fingerprint: *
+C6 79 28 D1 DD 52 E7 F5 4D DE 6C 1F 56 7F 95 CF FB 44 1C CA ED AF 63 2C 10 44 A6 3E 5C 4B 28 69
+
+
+## Armax.ru Archive (FDroid 0.101)
+http://fdroid.armax.ru/fdroid/archive
+
+* fingerprint: *
+C6 79 28 D1 DD 52 E7 F5 4D DE 6C 1F 56 7F 95 CF FB 44 1C CA ED AF 63 2C 10 44 A6 3E 5C 4B 28 69
