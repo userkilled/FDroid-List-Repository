@@ -267,7 +267,7 @@ https://submarine.strangled.net/fdroid/repo
 3D B2 D0 9F 57 32 45 E0 05 B6 A5 4E B5 EB F6 E6 A3 51 D6 A5 16 1C FE EF F1 44 2C 93 95 97 C3 1B
 
 
-off repo ## mobilsicher (Dieses Projekt wurde am 31.12.2024 beendet.)
+## mobilsicher (off repo)(Dieses Projekt wurde am 31.12.2024 beendet.)
 https://repo.mobilsicher.de/fdroid/repo
 
 * fingerprint: *
@@ -337,7 +337,7 @@ https://jhass.github.io/insporation/fdroid/repo
 EC 79 2A 58 B3 9D F9 FB B4 66 FB 10 0E 30 E3 84 2F 22 9F DB C6 E2 8D 32 C4 17 F6 A5 B3 0E CC AE
 
 
- not found ## koyu.space
+ ## koyu.space (not found)
 https://fdroid.koyu.space/fdroid/repo
 
 * fingerprint: *
