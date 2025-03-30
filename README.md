@@ -1237,11 +1237,11 @@ https://selfprivacy.org/fdroid/repo
 95 17 88 E8 F0 A3 C8 2D DB D8 D3 C3 BE 69 83 55 F1 1B C9 3A DA 91 7C 19 73 68 04 AB 3F AA E8 00
 
 
-## Near Share (status 404, not found)
-https://nearshare.shortdev.de/fdroid/repo/
+## Near Share
+https://fdroid.nearshare.shortdev.de/fdroid/repo
 
 * fingerprint: *
-99 73 15 42 1B 1C 97 D9 05 0E 2D 12 18 D8 3B DF EB 6E 51 4B EF 53 76 43 F8 9D 78 8E F2 F6 CD 4C
+AA A9 71 65 96 4D 10 41 55 DF FB 6F 9B 3F 02 F5 14 33 5E 89 A7 3D 0C 9D 8B 42 34 B2 9A 51 DB 73
 
 
 ## Between the Borders F-Droid Repo 
