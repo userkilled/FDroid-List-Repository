@@ -906,7 +906,7 @@ https://raw.githubusercontent.com/lucasew/fdroid-repo/master/fdroid/repo
 0F 95 04 BD 68 42 14 2E C7 13 2D E9 77 18 63 F6 2B B0 61 B9 16 EC F3 5C 48 D8 87 C5 01 E3 4A 0E
 
 
-## sample repo for repo manker
+## sample repo
 https://raw.githubusercontent.com/PaulMayero/repomaker-fdroid/master/fdroid/repo
 
 * fingerprint: *
@@ -1335,7 +1335,7 @@ https://raw.githubusercontent.com/FSlawiet/fdroid/main/fdroid/repo
 34 3A 52 2C 19 BD 00 C7 A9 9C 7F 9F 92 95 6D 2F 06 F2 6D E0 F2 AA E2 1E 1F 48 EB CE 3F A7 14 17
 
 
-## Lea's
+## Lea's (not found)
 https://droid.lea.pet/
 
 * fingerprint: *
