@@ -57,7 +57,7 @@ https://repo.netsyms.com/fdroid/repo
 25 81 BA 7B 32 D3 AB 44 31 80 C4 08 7C AB 6A 7E 8F B2 58 D3 A6 E9 88 70 EC B3 C6 75 E4 D6 44 89
 
 
-## Bromite
+## Bromite ([end support](https://github.com/userkilled/FDroid-List-Repository/issues/6#issue-2957102352))
 https://fdroid.bromite.org/fdroid/repo
 
 * fingerprint: *
