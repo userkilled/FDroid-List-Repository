@@ -533,7 +533,7 @@ https://fdroid.woz.ch/fdroid/repo
 F1 9B B9 5E 4D D3 B7 49 06 E2 EF 0B A4 1E A6 F3 4A B8 2C 44 F7 8E 1B 95 05 FE 20 7D D5 E6 0C C2
 
 
-## Zevvle 
+## Zevvle (not found)
 https://fdroid.zevvle.com/
 
 * fingerprint: *
@@ -694,7 +694,7 @@ https://fdroid.cgeo.org/nightly
 37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98
 
 
-## Aniyomi
+## Aniyomi  (not load)
 https://fdroid.aniyomi.org/
 
 * fingerprint: *
