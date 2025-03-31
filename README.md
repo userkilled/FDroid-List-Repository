@@ -1286,7 +1286,7 @@ https://f-droid.c3nav.de/fdroid/repo
 C1 EC 2D 06 2F 67 A4 3F 87 CC F9 5B 80 96 63 02 85 E1 B2 57 7D C8 03 A0 82 65 39 DF 6F B4 C9 5D
 
 
-## FabAccess F-Droid Repo (error ssl)
+## FabAccess F-Droid Repo
 https://fdroid.fab-access.org/fdroid/repo
 
 * fingerprint: *
