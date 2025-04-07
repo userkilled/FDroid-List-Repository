@@ -1517,3 +1517,10 @@ https://haagch.frickel.club/files/fdroid/repo
 38 7A C9 E5 8C 94 81 A6 B1 A8 DC E5 3A 16 E5 36 45 DA 69 48 22 A8 FE 50 C8 77 EF B5 F4 2E 69 33
 
 
+## Monfluo
+https://fdroid.monfluo.org/fdroid/repo
+
+* fingerprint: *
+A2 BD 68 1C B3 63 DF FD 88 32 98 6D C0 F6 F1 00 0F 4F F9 A1 F3 6E 94 00 B5 91 4E CB 03 25 2D E5
+
+
