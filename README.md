@@ -1405,13 +1405,6 @@ https://raw.githubusercontent.com/gopi487krishna/fdroidgk/refs/heads/main/fdroid
 3F 5D 1E D7 D1 1C 11 6A E7 A0 A4 3B 53 25 1C 0F 95 BD 20 FE E8 C7 FC 38 64 95 CF 9E 12 CF 0D 47
 
 
-## Cesar
-https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/main/fdroid/repo
-
-* fingerprint: *
-34 98 77 6C AE D6 BF A0 D7 F4 61 89 64 A9 FF EF 12 CD F0 23 11 D4 FA 87 82 97 5D A8 25 AD E3 DC
-
-
 ## Armax.ru (FDroid 0.101)
 http://fdroid.armax.ru/fdroid/repo
 
