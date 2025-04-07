@@ -1538,3 +1538,10 @@ https://fdroid.emersion.fr/goguma-nightly/repo
 AC C8 CF ED DF 58 C5 90 D0 21 FC F3 75 34 A5 4F 59 19 E0 26 D7 A8 33 3A A0 1C 1A BB 3D 34 E6 8D
 
 
+## provokateurin/nextcloud-neon-nightly
+https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+A4 68 0F 31 4E 0B 73 F7 30 90 94 A9 C3 25 49 FD FF 11 CC D2 71 C5 CF C7 70 FF 58 D2 75 FD 9B 80
+
+
