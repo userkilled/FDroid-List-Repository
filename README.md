@@ -1573,3 +1573,36 @@ https://raw.githubusercontent.com/cesaryuan/LSPosed-Modules-F-Droid/refs/heads/m
 D7 5D 70 9F BC 3A 39 8D 18 6C 84 9D 5E F3 27 C6 32 17 8F B7 36 8E 1C 7F 42 C9 DD 19 25 8B FA E4
 
 
+## Unofficial Tachiyomi Extension F-Droid Repo
+https://raw.githubusercontent.com/Efreak/tachiyomi-extensions.old/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+65 F5 EF 1A 9A E6 FD 77 39 FF B6 2E 7C 70 21 77 51 98 50 17 80 31 2B E1 B7 82 D4 CA 9F E0 79 57
+
+
+## Unofficial Tachiyomi Extension F-Droid Repo Archive
+https://raw.githubusercontent.com/Efreak/tachiyomi-extensions.old/refs/heads/master/fdroid/archive
+
+* fingerprint: *
+65 F5 EF 1A 9A E6 FD 77 39 FF B6 2E 7C 70 21 77 51 98 50 17 80 31 2B E1 B7 82 D4 CA 9F E0 79 57
+
+
+## Seeker Android app
+https://raw.githubusercontent.com/efreak/seeker-fdroid/main/fdroid/repo
+
+* fingerprint: *
+5B A6 D3 12 D0 45 4F 36 CF 8C BF AB 06 AF 95 D6 F5 A3 B5 FD 44 E9 DA F1 AE A0 96 A3 9F 3F D7 43
+
+
+## Unofficial Anime/Manga F-Droid Repo
+https://raw.githubusercontent.com/Efreak/nontachi-fdroid/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+65 F5 EF 1A 9A E6 FD 77 39 FF B6 2E 7C 70 21 77 51 98 50 17 80 31 2B E1 B7 82 D4 CA 9F E0 79 57
+
+
+## Unofficial Anime/Manga F-Droid Repo Archive
+https://raw.githubusercontent.com/Efreak/nontachi-fdroid/refs/heads/master/fdroid/archive
+
+* fingerprint: *
+65 F5 EF 1A 9A E6 FD 77 39 FF B6 2E 7C 70 21 77 51 98 50 17 80 31 2B E1 B7 82 D4 CA 9F E0 79 57
