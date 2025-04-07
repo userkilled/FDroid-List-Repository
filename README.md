@@ -1545,3 +1545,31 @@ https://raw.githubusercontent.com/provokateurin/nextcloud-neon-nightly/refs/head
 A4 68 0F 31 4E 0B 73 F7 30 90 94 A9 C3 25 49 FD FF 11 CC D2 71 C5 CF C7 70 FF 58 D2 75 FD 9B 80
 
 
+## Cesar
+https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+34 98 77 6C AE D6 BF A0 D7 F4 61 89 64 A9 FF EF 12 CD F0 23 11 D4 FA 87 82 97 5D A8 25 AD E3 DC
+
+
+## Cesar Archive
+https://raw.githubusercontent.com/cesaryuan/Cesar-FDroid-Repo/refs/heads/main/fdroid/archive
+
+* fingerprint: *
+34 98 77 6C AE D6 BF A0 D7 F4 61 89 64 A9 FF EF 12 CD F0 23 11 D4 FA 87 82 97 5D A8 25 AD E3 DC
+
+
+## LSPosed Module
+https://raw.githubusercontent.com/cesaryuan/LSPosed-Modules-F-Droid/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+D7 5D 70 9F BC 3A 39 8D 18 6C 84 9D 5E F3 27 C6 32 17 8F B7 36 8E 1C 7F 42 C9 DD 19 25 8B FA E4
+
+
+## LSPosed Module Archive
+https://raw.githubusercontent.com/cesaryuan/LSPosed-Modules-F-Droid/refs/heads/main/fdroid/archive
+
+* fingerprint: *
+D7 5D 70 9F BC 3A 39 8D 18 6C 84 9D 5E F3 27 C6 32 17 8F B7 36 8E 1C 7F 42 C9 DD 19 25 8B FA E4
+
+
