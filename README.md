@@ -2,7 +2,7 @@
 List Know Repository for FDroid (F-Droid)
 
 ### Thanks: 
-[NeoStore](https://github.com/NeoApplications/Neo-Store), [F-Droid](https://f-droid.org/), and Search engine. and especially for those who host and maintain these repositories.
+[NeoStore](https://github.com/NeoApplications/Neo-Store), [F-Droid](https://f-droid.org/), other aggregators and Search engine. and especially for those who host and maintain these repositories.
 
 
 [Simple links repos](https://github.com/userkilled/FDroid-List-Repository/blob/main/links.md)
