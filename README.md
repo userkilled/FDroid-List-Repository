@@ -1524,3 +1524,17 @@ https://fdroid.monfluo.org/fdroid/repo
 A2 BD 68 1C B3 63 DF FD 88 32 98 6D C0 F6 F1 00 0F 4F F9 A1 F3 6E 94 00 B5 91 4E CB 03 25 2D E5
 
 
+## SoundCrowd
+https://soundcrowd.github.io/fdroid/repo
+
+* fingerprint: *
+38 69 72 9A A4 C9 49 6C EB 9C A2 59 D5 3C 06 E1 EB 55 C3 6D 49 AF AF 27 45 3F 08 60 79 88 25 08
+
+
+## Goguma (F-Droid Basic)
+https://fdroid.emersion.fr/goguma-nightly/repo
+
+* fingerprint: *
+AC C8 CF ED DF 58 C5 90 D0 21 FC F3 75 34 A5 4F 59 19 E0 26 D7 A8 33 3A A0 1C 1A BB 3D 34 E6 8D
+
+
