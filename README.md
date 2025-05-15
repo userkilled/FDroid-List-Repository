@@ -533,13 +533,6 @@ https://fdroid.woz.ch/fdroid/repo
 F1 9B B9 5E 4D D3 B7 49 06 E2 EF 0B A4 1E A6 F3 4A B8 2C 44 F7 8E 1B 95 05 FE 20 7D D5 E6 0C C2
 
 
-## Zevvle (not found)
-https://fdroid.zevvle.com/
-
-* fingerprint: *
-B6 E8 0E 4D B4 00 B5 D1 6A 2C D5 D1 B2 D4 76 D1 75 5D 97 77 CE 13 5E 83 59 D1 66 A7 0B CD 12 A9
-
-
 ## Florian Obernberger's
 https://codeberg.org/florian-obernberger/fdroid-repo/raw/branch/main/repo
 
@@ -652,7 +645,7 @@ https://lucaapp.gitlab.io/fdroid-repository/fdroid/repo
 4B 6F 21 3E B2 A6 1B 11 04 7C 55 09 D7 95 6A 20 A0 C9 69 AF 60 8B 85 E1 C8 85 4E 9A 88 8D F9 BE
 
 
-## Cake Labs  (not load site)
+## Cake Labs
 https://fdroid.cakelabs.com/
 
 * fingerprint: *
@@ -976,8 +969,8 @@ https://app.futo.org/fdroid/repo
 39 D4 78 69 D2 9C BF CE 46 91 D9 F7 E6 94 6A 7B 6D 7E 6F F4 88 34 97 E6 E6 75 74 4E CD FA 6D 6D
 
 
- ## Gary Kim's  (not found)
- https://f-droid.garykim.dev/fdroid/repo
+## Gary Kim's  (not found)
+https://f-droid.garykim.dev/fdroid/repo
 
 * fingerprint: *
 D3 FF AF 80 54 8C A4 74 DC 9B 2D DD CD FC AC 91 23 F0 6D FF 27 3A AF D5 E0 2C 24 36 AD 2A 9E 2C
