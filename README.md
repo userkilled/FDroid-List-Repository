@@ -302,7 +302,7 @@ https://freeyourgadget.codeberg.page/fdroid/repo
 CD 38 1E CC C4 65 AB 32 4E 21 BC C3 35 89 56 15 E0 7E 70 EE 11 E9 FD 1D F3 C0 20 C5 19 4F 00 B2
 
 
-## Funkwhale
+## Funkwhale (502 bad gateway)
 https://fdroid.funkwhale.audio/
 
 * fingerprint: *
@@ -1592,3 +1592,10 @@ https://raw.githubusercontent.com/Efreak/nontachi-fdroid/refs/heads/master/fdroi
 
 * fingerprint: *
 65 F5 EF 1A 9A E6 FD 77 39 FF B6 2E 7C 70 21 77 51 98 50 17 80 31 2B E1 B7 82 D4 CA 9F E0 79 57
+
+
+## KaplanBedwars
+https://raw.githubusercontent.com/KaplanBedwars/fdroid-repo/refs/heads/main/repo
+
+* fingerprint: *
+0F AB F9 F0 CA 44 9C 29 AC 3F B6 9D 6E 13 17 CD 6C B4 5B AF 83 B1 24 C2 5A FC 2F D1 0D 0F 31 B8
