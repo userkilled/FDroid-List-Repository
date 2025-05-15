@@ -1,8 +1,8 @@
- # FDroid-List-Repository
+# FDroid-List-Repository
 List Know Repository for FDroid (F-Droid)
 
 ### Thanks: 
-[NeoStore](https://github.com/NeoApplications/Neo-Store), [F-Droid](https://f-droid.org/), other aggregators and Search engine. and especially for those who host and maintain these repositories.
+[NeoStore](https://github.com/NeoApplications/Neo-Store), [F-Droid](https://f-droid.org/), [F-Droid Forum](https://forum.f-droid.org/t/known-repositories/721), other aggregators and Search engine. and especially for those who host and maintain these repositories.
 
 
 [Simple links repos](https://github.com/userkilled/FDroid-List-Repository/blob/main/links.md)
@@ -1517,7 +1517,7 @@ https://soundcrowd.github.io/fdroid/repo
 38 69 72 9A A4 C9 49 6C EB 9C A2 59 D5 3C 06 E1 EB 55 C3 6D 49 AF AF 27 45 3F 08 60 79 88 25 08
 
 
-## Goguma (F-Droid Basic)
+## Goguma
 https://fdroid.emersion.fr/goguma-nightly/repo
 
 * fingerprint: *
@@ -1599,3 +1599,23 @@ https://raw.githubusercontent.com/KaplanBedwars/fdroid-repo/refs/heads/main/repo
 
 * fingerprint: *
 0F AB F9 F0 CA 44 9C 29 AC 3F B6 9D 6E 13 17 CD 6C B4 5B AF 83 B1 24 C2 5A FC 2F D1 0D 0F 31 B8
+
+
+## FFUpdater
+https://raw.githubusercontent.com/Tobi823/ffupdaterrepo/master/fdroid/repo
+
+* fingerprint: *
+6E 4E 6A 59 7D 28 9C B2 D4 D4 F0 E4 B7 92 E1 4C CE 07 0B DA 6C 47 AF 49 18 B3 42 FA 51 F2 DC 89
+
+
+## gsantner [F-Droid 0.100.1]
+https://gsantner.gitlab.io/fdroid/repo
+
+* fingerprint: *
+7C 2E BF F9 92 47 C4 BA 36 43 F0 CE 5C 02 94 C8 B2 25 58 3F 70 EC 70 0B A8 F4 6E 8F D9 73 AB B6
+
+
+## pfalcon [F-Droid 0.42]
+http://master.dl.sourceforge.net/project/fdroid-staging/repo
+
+
