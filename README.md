@@ -794,7 +794,7 @@ https://git.hush.is/jahway603/sda-fdroid/raw/branch/master/fdroid/repo
 06 96 F6 4F 3E FC BF 91 4D A4 1E 65 A8 A0 EE 0D F8 D7 DD EC 4C E0 90 BA BD 7E 70 03 ED AA C5 8B
 
 
-## Ikas
+## Ikas (not found)
 https://ikas-mc.github.io/fdroid-repo/fdroid/repo
 
 * fingerprint: *
@@ -1342,7 +1342,7 @@ https://litetex.github.io/fdroid-pages/fdroid/repo
 EE C5 F4 8F FD 81 4F 86 B6 F8 89 1E D4 A2 3D 96 EB A5 8E 77 81 05 95 9E AB 04 8A 71 33 55 22 14
 
 
-## Escola Android App Repo
+## Escola Android App Repo (error ssl)
 https://fdroid.escola.ch/fdroid/repo
 
 * fingerprint: *
