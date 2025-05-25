@@ -794,13 +794,6 @@ https://git.hush.is/jahway603/sda-fdroid/raw/branch/master/fdroid/repo
 06 96 F6 4F 3E FC BF 91 4D A4 1E 65 A8 A0 EE 0D F8 D7 DD EC 4C E0 90 BA BD 7E 70 03 ED AA C5 8B
 
 
-## Ikas (not found)
-https://ikas-mc.github.io/fdroid-repo/fdroid/repo
-
-* fingerprint: *
-A4 F1 C6 0E B4 D3 A8 FD E4 64 4D BA C9 F9 83 4E 3C 06 B6 9E 4E AC F8 A7 FF 54 23 33 95 23 07 1B
-
-
 ## Eastcoast Laboratories
 https://raw.githubusercontent.com/Eastcoast-Laboratories/FDroid-Repository/master/fdroid/repo
 
