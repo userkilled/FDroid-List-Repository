@@ -1608,7 +1608,11 @@ https://gsantner.gitlab.io/fdroid/repo
 7C 2E BF F9 92 47 C4 BA 36 43 F0 CE 5C 02 94 C8 B2 25 58 3F 70 EC 70 0B A8 F4 6E 8F D9 73 AB B6
 
 
-## pfalcon [F-Droid 0.42]
+## pfalcon [F-Droid 0.45]
 http://master.dl.sourceforge.net/project/fdroid-staging/repo
+
+## derpy [F-Droid 0.45]
+http://derpy.ru/fdroid/repo
+
 
 
