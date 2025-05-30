@@ -1622,3 +1622,9 @@ https://apkrep.creativaxion.org/fdroid/repo
 * fingerprint: *
 44 3D A0 A3 16 DF B8 6B FD 05 D0 12 39 51 85 5E 7C D8 72 49 69 FA D6 6D 6E 62 EB 80 12 99 74 4A
 
+
+## LDS
+https://fdroid.lds.online/repo
+
+* fingerprint: *
+E3 CC 8B 93 FF 73 60 BB D7 A5 76 20 F4 9C 64 32 F3 E0 DF 48 13 03 1E 28 EF 27 0B F7 31 8F BD 08
