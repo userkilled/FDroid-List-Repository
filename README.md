@@ -1628,3 +1628,26 @@ https://fdroid.lds.online/repo
 
 * fingerprint: *
 E3 CC 8B 93 FF 73 60 BB D7 A5 76 20 F4 9C 64 32 F3 E0 DF 48 13 03 1E 28 EF 27 0B F7 31 8F BD 08
+
+
+## IPB [F-Droid 0.105]
+https://fdroid.ipb.pt/repo/
+
+* fingerprint: *
+3D 13 44 69 FD 54 33 96 9B FF 52 CB 2D 32 33 B1 8E DC E3 16 08 8E AF F3 5E 2F A7 8A 82 6C C9 24
+
+
+## IPB archive [F-Droid 0.105]
+https://fdroid.ipb.pt/archive/
+
+* fingerprint: *
+3D 13 44 69 FD 54 33 96 9B FF 52 CB 2D 32 33 B1 8E DC E3 16 08 8E AF F3 5E 2F A7 8A 82 6C C9 24
+
+
+## ChDF Ts
+https://fdroid.repo.chdft.net/fdroid/repo
+
+* fingerprint: *
+9A E6 CF 7A 60 6B B0 21 5E 0A 08 2D B4 81 B9 A3 B6 82 E5 DC A2 BD 0A 08 A0 FB 2A B4 F8 B7 FF 15
+
+
