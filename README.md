@@ -316,6 +316,13 @@ https://www.ma-nic.de/fdroid/repo
 17 96 61 DB B7 26 35 30 02 FD B7 71 DD 8F CA DC 90 7B A5 68 D4 4D AB A3 88 29 15 97 50 30 74 64
 
 
+## Friendiqa archive
+https://www.ma-nic.de/fdroid/archive
+
+* fingerprint: *
+17 96 61 DB B7 26 35 30 02 FD B7 71 DD 8F CA DC 90 7B A5 68 D4 4D AB A3 88 29 15 97 50 30 74 64
+
+
 ## BeoCode (not found)
 https://fdroid.beocode.eu/fdroid/repo
 
