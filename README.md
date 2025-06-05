@@ -1658,3 +1658,10 @@ https://fdroid.repo.chdft.net/fdroid/repo
 9A E6 CF 7A 60 6B B0 21 5E 0A 08 2D B4 81 B9 A3 B6 82 E5 DC A2 BD 0A 08 A0 FB 2A B4 F8 B7 FF 15
 
 
+## DARC-e-V
+https://raw.githubusercontent.com/DARC-e-V/fdroid-repo/main/fdroid/repo
+
+* fingerprint: *
+FB E5 FD C1 A8 28 86 42 56 81 DC B9 B2 CF DF FD 4F 02 FD 29 98 51 16 FA F0 42 A6 46 DD 69 2E 37
+
+
