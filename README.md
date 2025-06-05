@@ -1665,3 +1665,10 @@ https://raw.githubusercontent.com/DARC-e-V/fdroid-repo/main/fdroid/repo
 FB E5 FD C1 A8 28 86 42 56 81 DC B9 B2 CF DF FD 4F 02 FD 29 98 51 16 FA F0 42 A6 46 DD 69 2E 37
 
 
+## wcbing
+https://packages.wcbing.top/fdroid/repo
+
+* fingerprint: *
+16 C6 D8 B3 8F 1C CF 0F 2B 6B E2 A9 52 C8 4D 62 A0 61 BC FB E8 40 83 8D 47 4A 34 CD D0 5C 28 C9
+
+
