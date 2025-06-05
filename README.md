@@ -1672,3 +1672,10 @@ https://packages.wcbing.top/fdroid/repo
 16 C6 D8 B3 8F 1C CF 0F 2B 6B E2 A9 52 C8 4D 62 A0 61 BC FB E8 40 83 8D 47 4A 34 CD D0 5C 28 C9
 
 
+## Unofficial repository of official Firefox build
+http://firefox-fdroid.endor.at/fdroid/repo
+
+* fingerprint: *
+E1 6F 52 50 2A B9 F2 87 04 96 65 49 E7 48 19 27 CB 7D B7 D0 15 14 4E 0F 88 14 2A 90 8D 42 CE B9
+
+
