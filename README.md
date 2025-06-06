@@ -344,13 +344,6 @@ https://jhass.github.io/insporation/fdroid/repo
 EC 79 2A 58 B3 9D F9 FB B4 66 FB 10 0E 30 E3 84 2F 22 9F DB C6 E2 8D 32 C4 17 F6 A5 B3 0E CC AE
 
 
- ## koyu.space (not found)
-https://fdroid.koyu.space/fdroid/repo
-
-* fingerprint: *
-0A CF 19 C0 AC EA 75 59 34 E0 06 76 D5 2E B2 F9 D6 8F 30 0C 05 2A 56 5B 45 9F E2 F5 E9 8D 23 7E
-
-
 ## DivestOS Official Arhive(mirror) ( [end support](https://divestos.org/pages/news#end) )
 https://cdimage.debian.org/mirror/divestos.org/divestos-apks/official/fdroid/archive
 
@@ -680,7 +673,7 @@ https://fdroid.cgeo.org/
 37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98
 
 
-## c:geo legacy
+## c:geo legacy (404 not found)
 https://fdroid.cgeo.org/legacy
 
 * fingerprint: *
@@ -691,7 +684,7 @@ https://fdroid.cgeo.org/legacy
 https://fdroid.cgeo.org/nightly
 
 * fingerprint: *
-37 0B B4 D5 50 C3 91 D5 DC CB 6C 81 FD 82 FD A4 89 29 64 76 4E 08 5A 09 B7 E0 75 E9 BA D5 ED 98
+58 AC 10 2C 3D 6F 16 D0 F4 38 64 15 D7 5B C0 EB 64 46 8C 38 17 41 0E A0 A4 DA 28 91 2E 82 6F 08
 
 
 ## Aniyomi  (not load)
