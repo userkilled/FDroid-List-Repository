@@ -1707,3 +1707,10 @@ https://files.drifty.win/repo
 8F 62 ED 9D 86 2D 0D 31 52 BF C6 0D DD B9 C2 D1 24 AB 04 5B B7 3C 1D BD 27 30 6C 3C 95 AD A4 82
 
 
+## APEX
+https://exporl.med.kuleuven.be/fdroid/repo
+
+* fingerprint: *
+A1 AA EB 3F 35 9F 3C 41 57 55 B0 8F F5 03 ED 2F 4B 77 D2 5D 34 9A 25 AB 78 32 89 A9 47 05 1A 59
+
+
