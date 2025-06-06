@@ -1693,3 +1693,17 @@ http://repo.fasheng.info/fdroid/archive
 38 A4 0A DD BF 11 95 B7 84 82 86 C7 18 3B 58 64 E3 EE 39 DB 8A 4A 1C F4 81 8D 4E 4A FD 8E EE F4
 
 
+## G1 Libre Currency
+https://f-droid.duniter.org/fdroid/repo
+
+* fingerprint: *
+09 0E BB 8A F7 29 8B B3 A5 F8 7A 2E B3 5F 16 F5 89 F4 16 90 49 8F C6 D5 FC E9 59 84 5F D5 A9 1D
+
+
+## drifty
+https://files.drifty.win/repo
+
+* fingerprint: *
+8F 62 ED 9D 86 2D 0D 31 52 BF C6 0D DD B9 C2 D1 24 AB 04 5B B7 3C 1D BD 27 30 6C 3C 95 AD A4 82
+
+
