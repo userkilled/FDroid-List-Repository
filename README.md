@@ -1679,3 +1679,17 @@ http://firefox-fdroid.endor.at/fdroid/repo
 E1 6F 52 50 2A B9 F2 87 04 96 65 49 E7 48 19 27 CB 7D B7 D0 15 14 4E 0F 88 14 2A 90 8D 42 CE B9
 
 
+## fasheng
+http://repo.fasheng.info/fdroid/repo
+
+* fingerprint: *
+38 A4 0A DD BF 11 95 B7 84 82 86 C7 18 3B 58 64 E3 EE 39 DB 8A 4A 1C F4 81 8D 4E 4A FD 8E EE F4
+
+
+## fasheng archive
+http://repo.fasheng.info/fdroid/archive
+
+* fingerprint: *
+38 A4 0A DD BF 11 95 B7 84 82 86 C7 18 3B 58 64 E3 EE 39 DB 8A 4A 1C F4 81 8D 4E 4A FD 8E EE F4
+
+
