@@ -1609,7 +1609,7 @@ https://raw.githubusercontent.com/Tobi823/ffupdaterrepo/master/fdroid/repo
 
 
 ## gsantner [F-Droid 0.100.1]
-https://gsantner.gitlab.io/fdroid/repo
+http://gsantner.gitlab.io/fdroid/repo
 
 * fingerprint: *
 7C 2E BF F9 92 47 C4 BA 36 43 F0 CE 5C 02 94 C8 B2 25 58 3F 70 EC 70 0B A8 F4 6E 8F D9 73 AB B6
