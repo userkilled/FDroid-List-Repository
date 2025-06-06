@@ -1714,3 +1714,31 @@ https://exporl.med.kuleuven.be/fdroid/repo
 A1 AA EB 3F 35 9F 3C 41 57 55 B0 8F F5 03 ED 2F 4B 77 D2 5D 34 9A 25 AB 78 32 89 A9 47 05 1A 59
 
 
+## SHIFT
+https://fdroid.shiftphones.com/fdroid/repo
+
+* fingerprint: *
+93 8F C0 EC F9 C8 62 41 D7 3F 5B C2 65 6E 19 31 35 76 2B 34 50 36 88 96 CC 80 3E BB D0 36 0A B8
+
+
+## SHIFT Archive
+https://fdroid.shiftphones.com/fdroid/archive
+
+* fingerprint: *
+93 8F C0 EC F9 C8 62 41 D7 3F 5B C2 65 6E 19 31 35 76 2B 34 50 36 88 96 CC 80 3E BB D0 36 0A B8
+
+
+## KotiKone
+https://kotikone.xyz/fdroid/repo
+
+* fingerprint: *
+A5 EC FA 65 C5 F3 35 F3 9C 72 FF 29 AE 88 02 70 B6 40 E1 E9 7A A3 75 38 00 A7 83 A7 4F 07 80 48
+
+
+## KotiKone archive
+https://kotikone.xyz/fdroid/archive
+
+* fingerprint: *
+A5 EC FA 65 C5 F3 35 F3 9C 72 FF 29 AE 88 02 70 B6 40 E1 E9 7A A3 75 38 00 A7 83 A7 4F 07 80 48
+
+
