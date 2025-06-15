@@ -1735,3 +1735,10 @@ https://kotikone.xyz/fdroid/archive
 A5 EC FA 65 C5 F3 35 F3 9C 72 FF 29 AE 88 02 70 B6 40 E1 E9 7A A3 75 38 00 A7 83 A7 4F 07 80 48
 
 
+## 8VIM
+https://raw.githubusercontent.com/8VIM/fdroid/main/fdroid/repo
+
+* fingerprint: *
+62 C7 6C ED 86 93 8B 6F 6A 4C 0E 5F 69 92 EB 17 0A 76 74 87 32 51 71 D7 44 54 EC D9 24 C6 40 8D
+
+
