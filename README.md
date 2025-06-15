@@ -1782,3 +1782,10 @@ https://raw.githubusercontent.com/koyuspace/f-droid/refs/heads/master/fdroid/rep
 
 * fingerprint: *
 0A CF 19 C0 AC EA 75 59 34 E0 06 76 D5 2E B2 F9 D6 8F 30 0C 05 2A 56 5B 45 9F E2 F5 E9 8D 23 7E
+
+
+## Frank's
+https://tlan16.github.io/fdroid/repo
+
+* fingerprint: *
+DD 68 9F 80 39 0D F7 49 3E 22 45 26 1A 3E D6 E6 CE 85 5E E2 E2 FE 74 E9 95 A7 2D 94 93 9A 69 65
