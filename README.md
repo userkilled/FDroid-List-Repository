@@ -1763,3 +1763,22 @@ https://cutting-apps.axpos.org/repo
 45 3C B3 80 A3 19 0D BA 84 70 ED 9E 6F 93 3C 1B 8C 21 01 FB 87 A1 DC BE DF ED 23 D1 44 A8 69 B8
 
 
+## Zeus
+https://fdroid.zeusln.app/
+
+* fingerprint: *
+5E 52 B6 3C 8A 92 70 B4 83 4D EC 15 97 45 CE 3D C6 28 8E 09 29 7C 5E 49 07 C6 83 AC 41 2F E7 F5
+
+
+## Chimbori Apps
+https://apps.chimbori.com
+
+* fingerprint: *
+EC 37 BC 8C 44 32 B6 CA F0 7D 8E FB 4B 6A EE 42 BB 5A 39 96 BA 24 54 39 75 41 62 81 5D A5 20 04
+
+
+## koyu.space (github mirror, end support)
+https://raw.githubusercontent.com/koyuspace/f-droid/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+0A CF 19 C0 AC EA 75 59 34 E0 06 76 D5 2E B2 F9 D6 8F 30 0C 05 2A 56 5B 45 9F E2 F5 E9 8D 23 7E
