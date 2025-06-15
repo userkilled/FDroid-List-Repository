@@ -1742,3 +1742,24 @@ https://raw.githubusercontent.com/8VIM/fdroid/main/fdroid/repo
 62 C7 6C ED 86 93 8B 6F 6A 4C 0E 5F 69 92 EB 17 0A 76 74 87 32 51 71 D7 44 54 EC D9 24 C6 40 8D
 
 
+## WmeLuna
+https://wmeluna.com/fdroid/repo
+
+* fingerprint: *
+6A A4 9A 34 AF 76 72 B6 24 E6 43 96 5B D9 52 4E B9 62 20 60 A4 E4 DE 8F 12 F4 8E 3B 62 38 34 27
+
+
+## AXP.OS Stable
+https://apps.axpos.org/repo
+
+* fingerprint: *
+56 9A 3F A3 E6 03 D6 8F 21 4A 46 8F B8 A3 68 FF BE 5F 28 1F 57 C6 CD 4B 83 60 57 31 8B C3 77 98
+
+
+## AXP.OS Cutting Edge
+https://cutting-apps.axpos.org/repo
+
+* fingerprint: *
+45 3C B3 80 A3 19 0D BA 84 70 ED 9E 6F 93 3C 1B 8C 21 01 FB 87 A1 DC BE DF ED 23 D1 44 A8 69 B8
+
+
