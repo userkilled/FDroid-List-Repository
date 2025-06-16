@@ -1789,3 +1789,75 @@ https://tlan16.github.io/fdroid/repo
 
 * fingerprint: *
 DD 68 9F 80 39 0D F7 49 3E 22 45 26 1A 3E D6 E6 CE 85 5E E2 E2 FE 74 E9 95 A7 2D 94 93 9A 69 65
+
+
+## Martens
+https://www.hekkelman.net/~maarten/fdroid/repo
+
+* fingerprint: *
+BE 9B 23 24 75 C4 5A 62 2E A4 5C 71 A1 22 2F 7F D3 EC 51 0B C2 89 C5 CA 04 52 14 C8 93 0C 04 44
+
+
+## emacberry
+https://maps.emac.de/fdroid/repo
+
+* fingerprint: *
+57 07 37 67 C5 CF 37 4F 07 59 CD D9 36 85 79 5D 83 CA 02 49 D3 3E 20 5C 9D 0E 58 56 29 53 09 76
+
+
+## Matomo
+https://matomo-fdroid.lw1.at/fdroid/repo
+
+* fingerprint: *
+E1 7D 3E 83 1E BF FB F6 08 31 FC A3 6A 61 57 69 B3 1E 3D 11 68 A1 73 F3 CD 9E A2 FC 29 DF 74 D2
+
+
+## Matomo archive
+https://matomo-fdroid.lw1.at/fdroid/archive
+
+* fingerprint: *
+E1 7D 3E 83 1E BF FB F6 08 31 FC A3 6A 61 57 69 B3 1E 3D 11 68 A1 73 F3 CD 9E A2 FC 29 DF 74 D2
+
+
+## TakeoutFM
+http://takeoutfm.com/fdroid/repo
+
+* fingerprint: *
+D7 8E 5E 7E D4 07 09 E0 6E 64 9C A3 FE 7D 76 F4 7B 9D 0F F1 1B FD BB 98 E2 74 8B 38 C6 14 92 F2
+
+
+## Homy Pangolin & dosowisko.net games
+https://dosowisko.net/fdroid/repo
+
+* fingerprint: *
+6A E6 63 AA D3 12 66 4E E9 F6 86 6B BB 21 4A 5D F0 A4 8A 01 BD 25 42 3A 6E B4 C4 85 4F E2 5B B6
+
+
+## Homy Pangolin & dosowisko.net archive
+https://dosowisko.net/fdroid/archive
+
+* fingerprint: *
+6A E6 63 AA D3 12 66 4E E9 F6 86 6B BB 21 4A 5D F0 A4 8A 01 BD 25 42 3A 6E B4 C4 85 4F E2 5B B6
+
+
+## Jonny's Frickelrepo
+https://platon.bruckbu.de/~jonny/x/fdroid/repo
+
+* fingerprint: *
+0F AD 87 29 C0 1F 08 8E 79 91 21 A4 AB 6B 10 0E 43 D0 00 47 A1 79 3D 0A 09 58 76 4F 57 CA 74 2C
+
+
+## Volla Repository
+https://fdroid.volla.tech/fdroid/repo
+
+* fingerprint: *
+15 10 4B 7E 01 5E 93 85 25 BC D5 B2 58 19 8B 47 35 7E C2 4C C4 3F 87 18 BA 54 DC 3D 98 99 5E E9
+
+
+## Volla Archive
+https://fdroid.volla.tech/fdroid/archive
+
+* fingerprint: *
+15 10 4B 7E 01 5E 93 85 25 BC D5 B2 58 19 8B 47 35 7E C2 4C C4 3F 87 18 BA 54 DC 3D 98 99 5E E9
+
+
