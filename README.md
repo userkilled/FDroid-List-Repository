@@ -1861,3 +1861,15 @@ https://fdroid.volla.tech/fdroid/archive
 15 10 4B 7E 01 5E 93 85 25 BC D5 B2 58 19 8B 47 35 7E C2 4C C4 3F 87 18 BA 54 DC 3D 98 99 5E E9
 
 
+## Leviathan System
+https://frepo.leviathan.systems/repo
+
+* fingerprint: *
+38 FC 86 47 F3 75 6E 81 C4 F9 37 1B FF 6F AA 55 AC 7F B8 67 63 E6 20 30 F7 A1 F0 E9 0B 97 9E 54
+
+
+## Leviathan System Archive
+https://frepo.leviathan.systems/archive
+
+* fingerprint: *
+38 FC 86 47 F3 75 6E 81 C4 F9 37 1B FF 6F AA 55 AC 7F B8 67 63 E6 20 30 F7 A1 F0 E9 0B 97 9E 54
