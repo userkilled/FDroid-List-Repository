@@ -421,6 +421,13 @@ https://f.lubl.de/repo
 C7 7F F6 04 CD 54 E8 4A 3A BD DF F1 73 01 E5 75 34 51 BA 84 76 EE DF 43 8F F2 55 54 D2 D6 A0 BE
 
 
+## lubl archive
+https://f.lubl.de/archive
+
+* fingerprint: *
+C7 7F F6 04 CD 54 E8 4A 3A BD DF F1 73 01 E5 75 34 51 BA 84 76 EE DF 43 8F F2 55 54 D2 D6 A0 BE
+
+
 ## Molly
 https://molly.im/fdroid/repo
 
