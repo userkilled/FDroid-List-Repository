@@ -1711,14 +1711,14 @@ A1 AA EB 3F 35 9F 3C 41 57 55 B0 8F F5 03 ED 2F 4B 77 D2 5D 34 9A 25 AB 78 32 89
 https://fdroid.shiftphones.com/fdroid/repo
 
 * fingerprint: *
-93 8F C0 EC F9 C8 62 41 D7 3F 5B C2 65 6E 19 31 35 76 2B 34 50 36 88 96 CC 80 3E BB D0 36 0A B8
+A7 0D A9 53 BA 12 1E 77 1D B5 5F 29 2E C3 75 73 7B FF 40 4E 7D C9 27 37 5E 10 03 85 3B AF A6 3D 
 
 
 ## SHIFT Archive
 https://fdroid.shiftphones.com/fdroid/archive
 
 * fingerprint: *
-93 8F C0 EC F9 C8 62 41 D7 3F 5B C2 65 6E 19 31 35 76 2B 34 50 36 88 96 CC 80 3E BB D0 36 0A B8
+A7 0D A9 53 BA 12 1E 77 1D B5 5F 29 2E C3 75 73 7B FF 40 4E 7D C9 27 37 5E 10 03 85 3B AF A6 3D 
 
 
 ## KotiKone
