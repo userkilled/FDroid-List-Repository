@@ -1910,3 +1910,10 @@ https://saces.crew.c-base.org/mb/element-multibuild/fdroid/repo
 74 EF 69 33 E1 53 F9 8D AB 9B 5E E4 63 EB B9 EE 56 F4 9C 54 BD 09 60 46 2D 1D 0D 32 CD AB 63 17
 
 
+## Stratum F-Droid repo
+https://authenticatorpro.jmh.me/fdroid/repo
+
+* fingerprint: *
+B9 75 B3 25 E4 F3 94 65 DF 10 34 D6 BC 2C 11 A3 92 6F 60 CC 07 B8 20 C5 1F BE 1C 75 75 55 F2 8A
+
+
