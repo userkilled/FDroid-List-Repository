@@ -1903,3 +1903,10 @@ https://f-droid.radio-quetsch.eu/repo
 DB 0A 21 D8 18 C0 17 C9 AB 9B 98 E8 23 AD 84 FA 47 C9 18 3B 1D FB EC F0 BC BD 23 AC 5C 2F 8F 97
 
 
+## MostlyBroken Element Multibuild Store
+https://saces.crew.c-base.org/mb/element-multibuild/fdroid/repo
+
+* fingerprint: *
+74 EF 69 33 E1 53 F9 8D AB 9B 5E E4 63 EB B9 EE 56 F4 9C 54 BD 09 60 46 2D 1D 0D 32 CD AB 63 17
+
+
