@@ -1880,3 +1880,26 @@ https://frepo.leviathan.systems/archive
 
 * fingerprint: *
 38 FC 86 47 F3 75 6E 81 C4 F9 37 1B FF 6F AA 55 AC 7F B8 67 63 E6 20 30 F7 A1 F0 E9 0B 97 9E 54
+
+
+## Bubble2
+https://bubble2.soldin.de/repo
+
+* fingerprint: *
+9D BC F1 77 10 65 BB 8E B4 EA C4 30 CE FA 86 8D 1F 06 11 19 67 52 B1 1C 6E F7 4B 0E 21 5A F6 99
+
+
+## Jeff's apps
+https://fdroid.j7126.dev/repo
+
+* fingerprint: *
+76 C3 22 1A 22 6A 60 76 58 23 DB 96 D6 F3 DE 77 FB 16 22 79 AE 63 A5 24 EC 4E D4 76 DE D0 77 FE
+
+
+## Radio Quetsch
+https://f-droid.radio-quetsch.eu/repo
+
+* fingerprint: *
+DB 0A 21 D8 18 C0 17 C9 AB 9B 98 E8 23 AD 84 FA 47 C9 18 3B 1D FB EC F0 BC BD 23 AC 5C 2F 8F 97
+
+
