@@ -1314,7 +1314,7 @@ https://alpha.monerujo.io/fdroid/repo
 89 24 D9 22 08 EE CA 6B D9 6E 58 ED 7B 41 F5 8C 75 E9 1D 39 5C 7C 6F 32 F8 0F 56 8D 69 AF 58 B3
 
 
-## koutarou.uy
+## koutarou.uy (not load)
 http://koutarou.uy/fdroid/repo
 
 * fingerprint: *
@@ -1679,14 +1679,14 @@ http://firefox-fdroid.endor.at/fdroid/repo
 E1 6F 52 50 2A B9 F2 87 04 96 65 49 E7 48 19 27 CB 7D B7 D0 15 14 4E 0F 88 14 2A 90 8D 42 CE B9
 
 
-## fasheng (error)
+## fasheng (not load)
 http://repo.fasheng.info/fdroid/repo
 
 * fingerprint: *
 38 A4 0A DD BF 11 95 B7 84 82 86 C7 18 3B 58 64 E3 EE 39 DB 8A 4A 1C F4 81 8D 4E 4A FD 8E EE F4
 
 
-## fasheng archive (error)
+## fasheng archive (not load)
 http://repo.fasheng.info/fdroid/archive
 
 * fingerprint: *
