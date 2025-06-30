@@ -1251,7 +1251,7 @@ https://reticulum.betweentheborders.com/fdroid/archive
 FF 27 01 A9 12 47 06 23 CE CD C3 BB 60 35 17 47 21 EC 97 1A 50 EF 3E CD 26 35 B2 D0 61 38 F6 02
 
 
-## Bohemia Automation (FDroid Basic)
+## Bohemia Automation
 https://pub.bma.ai/fdroid/repo
 
 * fingerprint: *
@@ -1342,7 +1342,7 @@ https://litetex.github.io/fdroid-pages/fdroid/repo
 EE C5 F4 8F FD 81 4F 86 B6 F8 89 1E D4 A2 3D 96 EB A5 8E 77 81 05 95 9E AB 04 8A 71 33 55 22 14
 
 
-## Escola Android App Repo (error ssl)
+## Escola Android App Repo
 https://fdroid.escola.ch/fdroid/repo
 
 * fingerprint: *
@@ -1398,14 +1398,14 @@ https://raw.githubusercontent.com/gopi487krishna/fdroidgk/refs/heads/main/fdroid
 3F 5D 1E D7 D1 1C 11 6A E7 A0 A4 3B 53 25 1C 0F 95 BD 20 FE E8 C7 FC 38 64 95 CF 9E 12 CF 0D 47
 
 
-## Armax.ru (FDroid 0.101)
+## Armax.ru [FDroid 0.101]
 http://fdroid.armax.ru/fdroid/repo
 
 * fingerprint: *
 C6 79 28 D1 DD 52 E7 F5 4D DE 6C 1F 56 7F 95 CF FB 44 1C CA ED AF 63 2C 10 44 A6 3E 5C 4B 28 69
 
 
-## Armax.ru Archive (FDroid 0.101)
+## Armax.ru Archive [FDroid 0.101]
 http://fdroid.armax.ru/fdroid/archive
 
 * fingerprint: *
@@ -1917,7 +1917,7 @@ https://authenticatorpro.jmh.me/fdroid/repo
 B9 75 B3 25 E4 F3 94 65 DF 10 34 D6 BC 2C 11 A3 92 6F 60 CC 07 B8 20 C5 1F BE 1C 75 75 55 F2 8A
 
 
-## Core DS
+## Core DS [Droid-ify]
 http://f-droid.meansofproduction.biz
 
 * fingerprint: *
