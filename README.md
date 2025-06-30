@@ -1869,17 +1869,10 @@ https://fdroid.volla.tech/fdroid/archive
 
 
 ## Leviathan System
-https://frepo.leviathan.systems/repo
+https://fdroid.leviathan.systems/repo/
 
 * fingerprint: *
-38 FC 86 47 F3 75 6E 81 C4 F9 37 1B FF 6F AA 55 AC 7F B8 67 63 E6 20 30 F7 A1 F0 E9 0B 97 9E 54
-
-
-## Leviathan System Archive
-https://frepo.leviathan.systems/archive
-
-* fingerprint: *
-38 FC 86 47 F3 75 6E 81 C4 F9 37 1B FF 6F AA 55 AC 7F B8 67 63 E6 20 30 F7 A1 F0 E9 0B 97 9E 54
+AF 4B 1C 00 8D 54 94 8F D0 38 F0 07 F0 4A CE 48 48 D4 8E DA D0 52 59 91 94 13 2B ED 6C F9 A1 4D
 
 
 ## Bubble2
