@@ -1917,3 +1917,21 @@ http://f-droid.meansofproduction.biz
 85 34 6D D7 EF 18 E7 97 D0 78 4C 8C 8C 10 54 13 3B 5B E0 B6 7E 88 21 AE 1B 4E 46 21 DD 21 DD CA
 
 
+## Brave Browser
+https://brave-browser-apk-release.s3.brave.com/fdroid/repo
+
+* fingerprint: *
+3C 60 DE 13 5A A1 9E C9 49 E9 98 46 9C 90 8F 71 71 88 5C 1E 28 05 F3 9E B4 03 DD B0 F3 7B 4B D2
+
+
+## Brave Browser - Beta
+https://brave-browser-apk-beta.s3.brave.com/fdroid/repo
+
+* fingerprint: *
+C4 67 5F 87 E6 0D 58 CE CB EC D8 84 E4 3C 4A 08 9F 2A 3F DF 58 CA F8 23 60 9B 80 9A C1 F9 0F AE
+
+## Brave Browser - Nightly
+https://brave-browser-apk-nightly.s3.brave.com/fdroid/repo
+
+* fingerprint: *
+17 35 E2 32 3F DE 10 4A 74 F1 6D 31 C0 62 DF 75 C3 0E 79 A7 06 29 2F AB EA 1F 94 E6 AF 06 EE 62
