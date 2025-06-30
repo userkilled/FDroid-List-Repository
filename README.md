@@ -1917,3 +1917,10 @@ https://authenticatorpro.jmh.me/fdroid/repo
 B9 75 B3 25 E4 F3 94 65 DF 10 34 D6 BC 2C 11 A3 92 6F 60 CC 07 B8 20 C5 1F BE 1C 75 75 55 F2 8A
 
 
+## Core DS
+http://f-droid.meansofproduction.biz
+
+* fingerprint: *
+85 34 6D D7 EF 18 E7 97 D0 78 4C 8C 8C 10 54 13 3B 5B E0 B6 7E 88 21 AE 1B 4E 46 21 DD 21 DD CA
+
+
