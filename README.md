@@ -1623,7 +1623,7 @@ http://master.dl.sourceforge.net/project/fdroid-staging/repo
 http://derpy.ru/fdroid/repo
 
 
-## CreativAxion's
+## CreativAxion's (error ssl)
 https://apkrep.creativaxion.org/fdroid/repo
 
 * fingerprint: *
