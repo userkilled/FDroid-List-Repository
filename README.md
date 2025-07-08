@@ -267,6 +267,13 @@ https://submarine.strangled.net/fdroid/repo
 3D B2 D0 9F 57 32 45 E0 05 B6 A5 4E B5 EB F6 E6 A3 51 D6 A5 16 1C FE EF F1 44 2C 93 95 97 C3 1B
 
 
+## Submarine Archive
+https://submarine.strangled.net/fdroid/archive
+
+* fingerprint: *
+3D B2 D0 9F 57 32 45 E0 05 B6 A5 4E B5 EB F6 E6 A3 51 D6 A5 16 1C FE EF F1 44 2C 93 95 97 C3 1B
+
+
 ## mobilsicher (off repo)(Dieses Projekt wurde am 31.12.2024 beendet.)
 https://repo.mobilsicher.de/fdroid/repo
 
@@ -1935,3 +1942,19 @@ https://brave-browser-apk-nightly.s3.brave.com/fdroid/repo
 
 * fingerprint: *
 17 35 E2 32 3F DE 10 4A 74 F1 6D 31 C0 62 DF 75 C3 0E 79 A7 06 29 2F AB EA 1F 94 E6 AF 06 EE 62
+
+
+## czlucius
+https://czlucius.gitlab.io/czlucius-fdroid-repo/fdroid/repo
+
+* fingerprint: *
+00 23 F8 1E E7 8D 11 01 B5 55 E7 D0 8B D2 2B 30 DC 4B C1 69 58 2E 91 A5 97 39 73 56 59 99 10 0B
+
+
+## zencontrol
+https://fdroid.zencontrol.com/fdroid/repo
+
+* fingerprint: *
+CA AE 91 84 37 E2 EA C7 26 36 88 04 1C 25 06 D4 D9 28 02 B8 93 EA AF 7B D7 CA EF 8A EC DD 23 6C
+
+
