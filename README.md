@@ -1958,3 +1958,10 @@ https://fdroid.zencontrol.com/fdroid/repo
 CA AE 91 84 37 E2 EA C7 26 36 88 04 1C 25 06 D4 D9 28 02 B8 93 EA AF 7B D7 CA EF 8A EC DD 23 6C
 
 
+## Dana Wallet
+https://fdroid.silentpayments.dev/fdroid/repo/
+
+* fingerprint: *
+B1 E8 F4 FC 2E 7E BE CF 17 F1 A7 0C E4 74 9B 1D CF 4D 75 AB D2 28 50 EF 31 24 A9 15 DC 9D C6 47
+
+
