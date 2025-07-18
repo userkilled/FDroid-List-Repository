@@ -1965,3 +1965,17 @@ https://fdroid.silentpayments.dev/fdroid/repo/
 B1 E8 F4 FC 2E 7E BE CF 17 F1 A7 0C E4 74 9B 1D CF 4D 75 AB D2 28 50 EF 31 24 A9 15 DC 9D C6 47
 
 
+## Volk_Milit's private F-Droid repo
+https://volkmilit.ru/fdroid/repo
+
+* fingerprint: *
+73 DF 4E 12 1F B3 64 78 DA E9 DC F4 58 23 E9 77 36 F1 86 C1 FE 2B C5 AD D2 FB 84 62 B7 E6 37 9F
+
+
+## lab.d3s.mff.cuni.cz
+https://lab.d3s.mff.cuni.cz:27043/fdroid/repo
+
+* fingerprint: *
+E3 99 EA F1 2F FD 27 75 81 B3 6C D9 47 69 40 7B C3 03 41 BB CC 18 EE CA 3F 92 7F 52 B3 56 73 35
+
+
