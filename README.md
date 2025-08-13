@@ -1979,3 +1979,10 @@ https://lab.d3s.mff.cuni.cz:27043/fdroid/repo
 E3 99 EA F1 2F FD 27 75 81 B3 6C D9 47 69 40 7B C3 03 41 BB CC 18 EE CA 3F 92 7F 52 B3 56 73 35
 
 
+## BambuMan
+https://bambuman.github.io/repo
+
+* fingerprint: *
+54 16 BA F4 BC 27 A4 F0 D5 68 8E D4 B9 C8 63 DE 79 1B A3 46 15 F4 71 F6 B0 24 CB 45 85 FE DE A9
+
+
