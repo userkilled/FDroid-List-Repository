@@ -1986,3 +1986,10 @@ https://bambuman.github.io/repo
 54 16 BA F4 BC 27 A4 F0 D5 68 8E D4 B9 C8 63 DE 79 1B A3 46 15 F4 71 F6 B0 24 CB 45 85 FE DE A9
 
 
+## Lobanokivan11
+https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+6B 1E 40 CB C7 2E EC 9A 7A 15 B8 86 E3 6B B8 1D B6 D9 8C 88 3D B1 63 21 1A FD D9 FF DB 40 59 01
+
+
