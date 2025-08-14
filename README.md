@@ -1993,3 +1993,17 @@ https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdro
 6B 1E 40 CB C7 2E EC 9A 7A 15 B8 86 E3 6B B8 1D B6 D9 8C 88 3D B1 63 21 1A FD D9 FF DB 40 59 01
 
 
+## CharaDreemurr6
+https://raw.githubusercontent.com/CharaDreemurr6/my-fdroid-repository/refs/heads/main/repo
+
+* fingerprint: *
+77 1C EA 41 8C 2D A6 51 83 12 84 78 FC E7 DA 6A 1C B2 CB 0F CD D9 E3 1E 4D 49 B4 E0 56 57 41 83
+
+
+## Eluded-Smartphones
+https://raw.githubusercontent.com/Eluded-Smartphones/fdroid/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+B6 79 C3 C1 8A F1 D4 D5 22 C6 85 BC A0 2F 12 17 2D 27 C9 D4 BF 08 2F 32 FB A7 8A 0D E8 A0 F2 26
+
+
