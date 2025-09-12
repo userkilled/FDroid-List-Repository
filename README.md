@@ -2007,3 +2007,122 @@ https://raw.githubusercontent.com/Eluded-Smartphones/fdroid/refs/heads/master/fd
 B6 79 C3 C1 8A F1 D4 D5 22 C6 85 BC A0 2F 12 17 2D 27 C9 D4 BF 08 2F 32 FB A7 8A 0D E8 A0 F2 26
 
 
+## Xpos587
+https://xpos587.github.io/fdroid/repo
+
+* fingerprint: *
+94 FA 53 EC 8C A6 9F 08 E6 D4 EF 89 E9 9E 7C F1 C0 EB 35 6D DA FD 9F 37 B3 02 C4 08 74 46 F9 22
+
+
+## DCS Repo Unofficial 
+https://raw.githubusercontent.com/DaneChainS/fdroid/main/fdroid/repo
+
+* fingerprint: *
+ED 94 F4 D3 EC 29 78 A2 FC 71 70 A0 7F 25 FD B3 B3 28 04 29 8E 2F F9 FF 00 D9 F6 B7 3C 55 33 66
+
+
+## klas96
+https://klas96.github.io/fdroid/repo
+
+* fingerprint: *
+D9 CB 07 55 A6 F6 CF E2 42 EF 4A 90 07 B2 BC 1E BB 19 11 0B 85 99 63 34 6D EA D8 31 FB 46 D0 D8
+
+
+## FOSS BU
+https://raw.githubusercontent.com/FOSS-Club-BU/fdroid/main/fdroid/repo
+
+* fingerprint: *
+31 6C DC 49 AB 0A 7D 71 27 0E CA 56 49 62 E7 6B 21 BA A3 0B 8B B2 FF 68 03 9B D3 4E CA 0B DB B2
+
+
+## Jfronnys
+https://jfronny.github.io/fdroid/repo
+
+* fingerprint: *
+93 7A D3 7D 4C 66 7B C0 FF D4 8C 4B 26 B3 51 41 BC 36 83 EA 02 82 B0 05 B8 9C BB 70 3A E3 A5 87
+
+
+## SeineEloquenz
+https://seineeloquenz.github.io/fdroid/fdroid/repo
+
+* fingerprint: *
+89 F9 F4 07 5A 3C 1B 99 5C 79 70 A8 9E 79 6A B7 BC 5A 94 0B 98 37 41 1F A3 5C 6C D8 76 59 E1 86
+
+
+## d00ro3m
+https://raw.githubusercontent.com/binsky08/fdroidstoragerepo/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+9C B2 06 74 83 45 7B 94 E4 31 5A FB 45 33 4E B8 63 66 89 9A 5E 05 B2 F1 46 82 23 77 B2 10 8A D0
+
+
+## LUKYMAS
+https://github.com/lksmasin/fdroidrepo/raw/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+DB 5F 78 48 F2 82 EA EB 2C 80 56 90 E2 95 5D F5 0E 3A 63 AA 51 36 0C 3A 89 08 F1 79 CB 43 5F E8
+
+
+## Magamajo
+https://raw.githubusercontent.com/MaximilienNaveau/magamajo/master/fdroid/repo
+
+* fingerprint: *
+D0 4F 9C 30 6C 0C A3 2C C8 9C 5D 4E A8 71 91 63 30 BE 95 C9 1F B0 8F 2A D1 01 A1 1C BF AA C3 1A
+
+
+## Escorial
+https://github.com/ESCORIAL-SAIC/fdroidrepo/raw/refs/heads/main/repo
+
+* fingerprint: *
+26 7E 93 19 13 13 EC 22 58 85 9B CB 0F A9 BB A6 14 8B F2 DB 59 04 DF F4 D1 F5 26 79 E1 1F 22 D7
+
+
+## Kaidan
+https://github.com/jbruechert/kaidan-fdroid/raw/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+56 2D 66 3B 2B 31 8F 01 85 48 9C 01 0E EC 76 1B CD AA DB EC E3 00 59 6D A3 DC EC 67 33 63 4C 8E
+
+
+## jkulzer
+https://github.com/jkulzer/fdroid-repo/raw/refs/heads/main/repo
+
+* fingerprint: *
+8B 4F E7 EF 21 A5 3C 1C 52 DD 00 2E BF 43 5A CF C1 17 4E 25 1A 39 F3 29 8E CF 2A 3C 24 76 8D E0
+
+
+## nry2025
+http://fdroid.nry2025.xyz
+
+* fingerprint: *
+60 4E A2 29 40 3C 2D 66 39 56 76 42 4B 11 CF 0D 7D FC 6E 45 16 8B 9B 29 7B B1 C5 5D 3A 62 0E 03
+
+
+## dennismk016
+https://github.com/dennismk016/fdroid-test-repo/raw/refs/heads/master/repo
+
+* fingerprint: *
+DF 09 23 79 30 BA 8E CA 13 3A E9 3D 91 58 01 4C 95 AD A1 C8 EE A6 00 A7 FE 1F 96 01 2B F0 1B 3A
+
+
+## Monogram Unofficial
+https://nubesurrealista.github.io/Momogram-Fdroid-unofficial/repo
+
+* fingerprint: *
+60 45 C0 6D EE ED 09 E2 83 7A CD 86 EF E2 D7 0C 17 00 6A E0 5F 6F F4 A2 B6 9A 16 1E 87 45 E9 5E
+
+
+## FriskUT
+https://github.com/FriskUT/my-fdroid-repository/raw/refs/heads/main/repo
+
+* fingerprint: *
+77 1C EA 41 8C 2D A6 51 83 12 84 78 FC E7 DA 6A 1C B2 CB 0F CD D9 E3 1E 4D 49 B4 E0 56 57 41 83
+
+
+## alcalyn
+https://github.com/alcalyn/test-fdroid-data2/raw/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+60 6A 02 40 1F 76 D6 4E AC 89 AE 4A F5 8C AE FD 6F 9C 39 82 53 89 BE 4C 27 1E 88 95 9C A9 0C 19
+
+
