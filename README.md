@@ -2126,3 +2126,38 @@ https://github.com/alcalyn/test-fdroid-data2/raw/refs/heads/master/fdroid/repo
 60 6A 02 40 1F 76 D6 4E AC 89 AE 4A F5 8C AE FD 6F 9C 39 82 53 89 BE 4C 27 1E 88 95 9C A9 0C 19
 
 
+## hydrapp Vanilla JS and Forms
+https://pojntfx.github.io/hydrapp/hydrapp-example-vanillajs-forms/apk/main/repo
+
+* fingerprint: *
+A7 B7 F9 33 30 49 01 AC A3 E1 B6 8B 73 3C 8E B7 61 A1 08 FE 74 91 6A 4D 24 30 66 5D B4 65 56 B1
+
+
+## Free Droid Apps
+https://apks.free.gen.in/fdroid/repo
+
+* fingerprint: *
+ED 00 84 B7 3F 14 A0 10 2A 07 E9 DE E6 5E EB 18 D3 42 B1 8C A6 33 A2 D3 D9 72 1B 1A 34 E0 2E F0
+
+
+## herkulessi
+https://fdroid.repo.herkulessi.de/repo
+
+* fingerprint: *
+58 38 0A CC A7 AC 9A 98 10 75 27 AC 5E 35 97 0A DC FC 62 4E CA 4B 92 F8 4C B6 33 56 E3 A2 CC 39
+
+
+## LukeShu
+https://fdroid.lukeshu.com/repo
+
+* fingerprint: *
+B1 5F 97 AA 35 DB 92 C5 30 BE 46 B0 90 F7 26 69 BE E9 57 96 05 8D 47 33 CA 39 0E 56 BA 0E 97 13
+
+
+## GMoker
+https://fdroid.ovh.maby.dev/repo
+
+* fingerprint: *
+33 54 53 DA 64 C8 A4 AA 85 FC B6 B5 D2 68 98 EA 06 DA F9 1F EE FB AB 2D 7C 7F 40 98 A8 B3 BD 61
+
+
