@@ -2161,3 +2161,10 @@ https://fdroid.ovh.maby.dev/repo
 33 54 53 DA 64 C8 A4 AA 85 FC B6 B5 D2 68 98 EA 06 DA F9 1F EE FB AB 2D 7C 7F 40 98 A8 B3 BD 61
 
 
+## Rboard
+https://raw.githubusercontent.com/GboardThemes/Repo/master/repo
+
+* fingerprint: *
+F6 91 02 27 B3 A8 29 4F 9F 07 39 D9 FC 1A 6A 2E B2 7A 04 12 76 DD 0A 1C A5 31 31 8D 68 0B 69 15
+
+
