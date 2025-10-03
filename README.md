@@ -2168,3 +2168,17 @@ https://raw.githubusercontent.com/GboardThemes/Repo/master/repo
 F6 91 02 27 B3 A8 29 4F 9F 07 39 D9 FC 1A 6A 2E B2 7A 04 12 76 DD 0A 1C A5 31 31 8D 68 0B 69 15
 
 
+## IGD-R
+https://zuckuss.igd-r.fraunhofer.de/fdroid/repo
+
+* fingerprint: *
+62 6B D9 1E F1 85 7B D3 D4 EA DB BB 79 47 0C 75 77 09 D9 70 B2 11 B4 81 7D E2 08 BB 4F CD EE E4
+
+
+## MaxTLD Dev
+https://fdroid-dev.maxtld.dev/repo
+
+* fingerprint: *
+87 3F A6 41 05 3D 0A 84 A0 64 6A 92 E8 EC 52 BC 74 5B 6D 89 94 84 FC A7 43 74 04 A0 0D 73 25 BE
+
+
