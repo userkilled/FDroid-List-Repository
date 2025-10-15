@@ -2182,3 +2182,255 @@ https://fdroid-dev.maxtld.dev/repo
 87 3F A6 41 05 3D 0A 84 A0 64 6A 92 E8 EC 52 BC 74 5B 6D 89 94 84 FC A7 43 74 04 A0 0D 73 25 BE
 
 
+## Goliash
+https://fdroid.goliash.net/repo
+
+* fingerprint: *
+2C EF CA CF 39 3D 5A 34 3D C8 A4 2E 9F BE 68 66 DD 08 AA 98 CD 51 19 ED D7 9C 6D DF 2F D4 09 1F
+
+
+## MD
+https://fdroid.matthewdaniel.com/repo
+
+* fingerprint: *
+F5 A7 47 94 7E DC 31 2C 8C 6B 0D AE C3 BF 34 85 9A D9 C7 92 E1 9E 9C 31 9C DB A5 3F 68 42 15 8F
+
+
+## hydraledger nightly
+https://hydraledger-fdroid-nightly.volla.tech/fdroid/repo
+
+* fingerprint: *
+1F A2 49 63 9B 88 39 BB 95 83 1E 40 BC 3F 70 72 46 4B 8C F8 C1 06 19 DC 20 B1 64 76 FD 76 73 9D
+
+
+## vnc
+https://vnc-fdroid.volla.tech/fdroid/repo
+
+* fingerprint: *
+A8 95 23 21 A5 C3 F0 F5 58 C0 34 52 D6 05 54 6C 21 0E 9C 6C EC 06 74 EC 9B 9B BB 8F 48 29 E8 30
+
+
+## VE-Kass
+https://apps.ve-kass.cloud/fdroid/repo
+
+* fingerprint: *
+1B 7D C2 99 94 04 26 4C 78 29 34 70 93 C7 7F 22 1C CF 4A F9 84 0B DD 2A 60 C7 8C 19 91 1B 36 09
+
+
+## holochain archive
+https://holochain-fdroid-nightly.volla.tech/fdroid/archive
+
+* fingerprint: *
+F2 62 C8 63 07 B0 0C 0F 1E 7B 1E 07 EE F9 1E 6D 3D 02 0A AE 33 47 13 15 4C 6F 99 9B 05 03 AD A4
+
+
+## holochain nightly
+https://holochain-fdroid-nightly.volla.tech/fdroid/repo
+
+* fingerprint: *
+F2 62 C8 63 07 B0 0C 0F 1E 7B 1E 07 EE F9 1E 6D 3D 02 0A AE 33 47 13 15 4C 6F 99 9B 05 03 AD A4
+
+
+## holochain
+https://holochain-fdroid.volla.tech/fdroid/repo
+
+* fingerprint: *
+F2 62 C8 63 07 B0 0C 0F 1E 7B 1E 07 EE F9 1E 6D 3D 02 0A AE 33 47 13 15 4C 6F 99 9B 05 03 AD A4
+
+
+## Boso
+https://apk.boso.hr/fdroid/repo
+
+* fingerprint: *
+EE 9A 1C 10 96 B1 C7 47 36 82 79 E2 F8 57 EF 6F 73 2D 11 25 95 E0 1F 23 AB 41 BB A3 89 C5 74 51
+
+
+## safety-e nightly
+https://safety-e-fdroid-nightly.volla.tech/fdroid/repo/
+
+* fingerprint: *
+E9 4B A7 6F 7B 21 C8 1D 93 FF 4F 0B 65 14 9D 0E DE 4D 4B C9 82 B4 7F F2 9A 1B 6C 7E DE B7 89 7C
+
+
+## safety-e
+https://safety-e-fdroid.volla.tech/fdroid/repo
+
+* fingerprint: *
+E9 4B A7 6F 7B 21 C8 1D 93 FF 4F 0B 65 14 9D 0E DE 4D 4B C9 82 B4 7F F2 9A 1B 6C 7E DE B7 89 7C
+
+
+## FDG
+https://fdg-fdroid.volla.tech/fdroid/repo
+
+* fingerprint: *
+A8 95 23 21 A5 C3 F0 F5 58 C0 34 52 D6 05 54 6C 21 0E 9C 6C EC 06 74 EC 9B 9B BB 8F 48 29 E8 30
+
+
+## FDG nightly
+https://fdg-fdroid-nightly.volla.tech/fdroid/repo
+
+* fingerprint: *
+A8 95 23 21 A5 C3 F0 F5 58 C0 34 52 D6 05 54 6C 21 0E 9C 6C EC 06 74 EC 9B 9B BB 8F 48 29 E8 30
+
+
+## peeqsmart 
+https://peeqsmart-fdroid.volla.tech/fdroid/repo
+
+* fingerprint: *
+1F A2 49 63 9B 88 39 BB 95 83 1E 40 BC 3F 70 72 46 4B 8C F8 C1 06 19 DC 20 B1 64 76 FD 76 73 9D
+
+
+## protecturo
+https://protecturo-fdroid.volla.tech/fdroid/repo
+
+* fingerprint: *
+55 A6 FB 4D 20 7C 44 33 D1 8C EA 87 FE ED 53 38 81 F1 02 15 90 59 49 D2 D6 DE F5 5E AC 20 5E 39
+
+
+## volla nightly
+https://fdroid-nightly.volla.tech/fdroid/repo
+
+* fingerprint: *
+27 C5 3F 6E 47 8E 26 F7 51 F4 FE F9 60 EC 06 40 35 2D AA 94 D0 DC F7 5E 14 01 E8 9F 92 86 32 03
+
+
+## roshless
+https://fdroid.roshless.me/repo
+
+* fingerprint: *
+C4 B7 C2 79 CD EF 9C B4 FB F0 F7 6B B0 B8 E0 81 CE 6B F5 80 2F 28 68 BE C5 CF F3 1C 16 CD D5 30
+
+
+## fsenergy
+http://173.211.12.43:8666/fdroid/repo
+
+* fingerprint: *
+46 EA 4F DB 84 D9 E6 B2 E2 F1 07 E0 BF E5 5C 47 76 E2 58 59 97 89 B2 03 41 D4 91 1E 9F BB 32 0B
+
+
+## MWA
+https://fdroid.mwa-gmbh.de/repo
+
+* fingerprint: *
+23 34 DA EF 9F 42 9A D2 F8 00 D4 FF 52 19 42 F7 25 A1 F5 CF 85 3C 84 C4 FA 1C ED 72 A4 A1 D3 9D
+
+
+## Muh   (?-?)
+https://fdr0id.bighek.nl/fdroid/repo
+
+* fingerprint: *
+95 46 FC 65 FD 8F 6E 6E 1D 56 CC 44 E7 49 36 D4 EB 17 4F EC 19 E3 DA 7E FC 2F 35 11 B4 00 F4 51
+
+
+## Fruit's
+https://f-droid.fruit.je/repo
+
+* fingerprint: *
+DA 6A 26 EA 8A 83 A3 EE C3 54 A7 29 24 EF FB 26 E6 79 3E B4 3A 47 96 66 B5 DA 62 4B 67 6C 5C 74
+
+
+## epos2go
+https://fdroid.epos2go.uk
+
+* fingerprint: *
+6F 4D F3 F0 62 24 B4 F2 C9 CE 81 D7 3A 56 CA ED 41 EF EA CF F3 E1 39 0F 04 8B 2A 1B 1D 72 D1 0E
+
+
+## Lain
+https://repo.fuckyougoogle.xyz/repo
+
+* fingerprint: *
+9A 98 F4 3D 52 B2 8D 8E 8C B3 B0 B7 F5 E5 74 9A 58 85 B2 BA 16 77 7A 8E 90 09 13 96 FB 86 CE E4
+
+
+## LynxDev
+https://fdroid.lynxdev.xyz/fdroid/repo
+
+* fingerprint: *
+29 B3 63 DE 2B A1 28 E9 75 B0 3E 1D 9D BD D8 B4 A6 B9 40 52 34 26 C6 B8 92 2A 3A 22 2D 18 78 57
+
+
+## earth defenders toolkit
+http://repo.earthdefenderstoolkit.com
+
+* fingerprint: *
+A0 26 A2 9A 56 60 AD 66 83 4F 8B C7 C4 22 99 A6 ED A6 36 43 8D 50 37 37 81 39 FA B2 F8 F9 9E 31
+
+
+## gianni
+http://fdroid.gianni.app/repo
+
+* fingerprint: *
+FC E7 BB DA 9C 88 14 3D AE 49 BB 68 9A A3 4F 7B 83 CC 99 B7 DE DD 36 50 86 DC 64 10 00 CC 02 59
+
+
+## crpt.de
+https://fdroid.crpt.de/fdroid/repo
+
+* fingerprint: *
+70 86 A3 7F F5 FE 95 0F 67 D5 2D 28 15 8A F7 41 B8 02 F6 F1 6F 8A DC 1F 29 3A 83 35 20 F1 AE 26
+
+
+## tv box apps
+http://tv.nanotele.com
+
+* fingerprint: *
+E0 BD 9D 81 D2 A0 E8 5D AE 7C 5B A3 48 7E F6 CF 33 83 98 F6 16 23 41 30 48 6B 54 7F 78 BE F1 06
+
+
+## Globeranger Track and Trace
+http://app-dist.southcentralus.cloudapp.azure.com/tracktrace/fdroid/repo
+
+* fingerprint: *
+8D D1 9B 0E 03 8E E9 D4 75 6B 27 ED BC 12 32 EF 79 1F 49 C0 1B 2B 8F C0 66 A0 B3 56 86 74 C0 D9
+
+
+## ELWA
+https://appstore.mpeeters.org/fdroid/repo
+
+* fingerprint: *
+54 8F 22 C7 5E 48 44 85 2E A3 EE 55 2E 45 86 3F 66 FD BA 67 F7 76 DC B7 3C 11 36 06 C4 E8 AF B5
+
+
+## demart.org
+https://f-droid.demart.org/repo
+
+* fingerprint: *
+DC B4 50 B5 3D C4 9D CD 5F 34 02 03 3A F1 9B AB 68 A2 0A 1E FF 24 44 A8 1C 8B DE 8D 63 84 02 2F
+
+
+## store.emlenotes.com/repo
+https://store.emlenotes.com/repo
+
+* fingerprint: *
+7B 73 C8 C6 24 A2 73 3C 0D E8 39 CF B4 6F CE 2F 4A 07 82 79 97 3C 51 46 FD AF 9F 3B E3 08 45 7D
+
+
+## LaCanne
+https://fdroid.lacanne.fr/repo
+
+* fingerprint: *
+45 DF 17 3F 81 7B C6 89 FF 10 61 82 C2 F2 E2 D1 99 5A A1 74 56 3E 52 05 1C 7F C6 85 57 96 1C A7
+
+
+## LaCanne archive
+https://fdroid.lacanne.fr/archive
+
+* fingerprint: *
+45 DF 17 3F 81 7B C6 89 FF 10 61 82 C2 F2 E2 D1 99 5A A1 74 56 3E 52 05 1C 7F C6 85 57 96 1C A7
+
+
+## Custom
+https://fdroid.endpoint.live/repo
+
+* fingerprint: *
+AB 4A FE 0A 59 0A 09 D8 10 B1 43 18 E7 1B 8D 08 A2 1F 6A 16 E4 1F 3B 5C 08 A0 D3 F8 D0 7E FA E2
+
+
+## Igor
+http://93.49.205.222/igi-private-fdroid-repo/repo
+
+* fingerprint: *
+43 0F 06 BB C6 FB DF 84 2E 09 52 27 09 06 97 85 27 2F 03 FD 74 46 AB E4 51 53 D1 12 4B 8F 12 6C
+
+
