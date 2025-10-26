@@ -2434,3 +2434,101 @@ http://93.49.205.222/igi-private-fdroid-repo/repo
 43 0F 06 BB C6 FB DF 84 2E 09 52 27 09 06 97 85 27 2F 03 FD 74 46 AB E4 51 53 D1 12 4B 8F 12 6C
 
 
+## SuntimesApps
+https://forrestguice.github.io/SuntimesApps/repo
+
+* fingerprint: *
+94 C2 12 B7 5B CC D6 60 A2 B0 3F 7C 7D 28 53 4F C9 A3 85 69 B3 E9 8A 02 0C E0 5A E6 7E C1 99 68
+
+
+## Trink
+https://raw.githubusercontent.com/wolfskaempf/trink-f-droid/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+F0 7D 32 F1 82 F6 7F E6 50 56 A4 42 80 14 B8 34 D9 1A 13 2C 60 E3 82 0A 4E C4 44 17 AD 65 40 8F
+
+
+## Trink Archive
+https://raw.githubusercontent.com/wolfskaempf/trink-f-droid/refs/heads/master/fdroid/archive
+
+* fingerprint: *
+F0 7D 32 F1 82 F6 7F E6 50 56 A4 42 80 14 B8 34 D9 1A 13 2C 60 E3 82 0A 4E C4 44 17 AD 65 40 8F
+
+
+## MrRare2
+https://raw.githubusercontent.com/MrRare2/fdroid/main/fdroid/repo
+
+* fingerprint: *
+FE 25 40 C0 1E 44 D5 55 20 28 2B 2B DA 0A F6 05 AC A6 F7 AB F4 26 74 85 28 77 E8 39 C2 C3 84 4F
+
+
+## Mosin
+https://fdroid.mosin.ca/repo
+
+* fingerprint: *
+24 E1 CF 5A 68 FD C8 43 B4 51 D7 E8 09 0E F2 4A 0B 1A 91 BC 42 8E FE D1 97 58 D3 E4 E9 5F 44 55
+
+
+## Oops WTF
+http://fdroid.uh-oh.wtf/repo
+
+* fingerprint: *
+0B 65 30 F0 D3 47 04 27 A0 B2 A5 7E BA 32 F7 EA E4 48 FA 9F 6D DA 00 21 A5 F2 E5 44 8C C2 48 07
+
+
+## peeqsmart fdroid nightly
+https://peeqsmart-fdroid-nightly.volla.tech/fdroid/repo
+
+* fingerprint: *
+1F A2 49 63 9B 88 39 BB 95 83 1E 40 BC 3F 70 72 46 4B 8C F8 C1 06 19 DC 20 B1 64 76 FD 76 73 9D
+
+
+## JURU
+https://store.juru.id/repo
+
+* fingerprint: *
+12 95 76 E1 94 62 31 49 E9 FA 7A C8 03 98 30 F8 67 EF 95 04 F4 85 5F 45 5B AD C5 A7 23 99 F8 67
+
+
+## Dépôt de Julien
+https://fdroid.alcalyn.app
+
+* fingerprint: *
+BF 8B E8 3C 08 06 3C 8C 75 74 56 1A 62 42 DA E6 41 66 9F E9 97 BE 0F A9 57 CA 46 EC BE E3 B9 BA
+
+
+## Sebastian
+https://fdroid.sebastian-tobie.de
+
+* fingerprint: *
+E5 3E 63 0D 9A A6 9E 9E E3 4C 68 0F 00 37 C2 8E 78 4C A6 9C 7F 5B 5A D6 DB A1 B2 3B 81 2F 41 D9
+
+
+## GNU Taler Nightly
+https://gitlab.com/gnu-taler/fdroid-repo-nightly/-/raw/master/fdroid/repo
+
+* fingerprint: *
+55 F8 A2 4F 97 FA B7 B0 96 00 16 AF 39 3B 7E 57 E7 A0 B1 3C 2D 2D 36 BA C5 0E 12 05 92 3A 78 43
+
+
+## Magamajo 
+https://raw.githubusercontent.com/MaximilienNaveau/magamajo/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+D0 4F 9C 30 6C 0C A3 2C C8 9C 5D 4E A8 71 91 63 30 BE 95 C9 1F B0 8F 2A D1 01 A1 1C BF AA C3 1A
+
+
+## Felo Store
+https://git.felo.gg/FeloStore/Repo/raw/branch/main/repo
+
+* fingerprint: *
+5C BE F8 C2 57 80 8D 20 B6 56 53 CB C8 96 F0 8F 0A 93 F4 76 59 85 9F CD 9A 6B 75 FC AD DA 61 7D
+
+
+## Localnet
+https://fdroid.localnet.org.pl/repo
+
+* fingerprint: *
+4E 03 2C 02 A8 F3 86 0E 97 C5 CE 6C 97 80 39 CA 43 4B 46 4A 51 BF 52 8E A5 EB FA 1D EF 1C 58 E6
+
+
