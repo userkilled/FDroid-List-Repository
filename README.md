@@ -2532,3 +2532,59 @@ https://fdroid.localnet.org.pl/repo
 4E 03 2C 02 A8 F3 86 0E 97 C5 CE 6C 97 80 39 CA 43 4B 46 4A 51 BF 52 8E A5 EB FA 1D EF 1C 58 E6
 
 
+## Oxygen Media Test
+https://repotest.oxygen-cdn.net
+
+* fingerprint: *
+8F 34 A0 3B D3 95 F2 1F 30 1C ED A6 BD 05 C9 3E 56 47 21 6B 77 1C 41 03 D3 36 DB 19 7A 09 A3 3F
+
+
+## Oxygen Media
+https://repo.oxygen-cdn.net
+
+* fingerprint: *
+8F 34 A0 3B D3 95 F2 1F 30 1C ED A6 BD 05 C9 3E 56 47 21 6B 77 1C 41 03 D3 36 DB 19 7A 09 A3 3F
+
+
+## schmittpaul
+https://raw.githubusercontent.com/schmittpaul/testfdroid/refs/heads/main
+
+* fingerprint: *
+79 3E FD 91 46 74 D9 48 C6 3D 0C B6 49 44 1F CD 65 55 1A B1 36 02 3C 1D 85 F3 6C 85 EB B4 A9 DA
+
+
+## Ember
+https://raw.githubusercontent.com/EmberHeartshine/fdroid/refs/heads/master/repo
+
+* fingerprint: *
+11 57 9B 3C E3 F5 F9 39 8C 9E 12 4E E3 01 74 43 82 B7 72 50 E5 48 F0 D4 ED 90 EA 02 12 A5 46 0F
+
+
+## PushCoin
+https://fdroid.pushcoin.com
+
+* fingerprint: *
+29 36 34 D8 0B 9E 81 E5 27 E8 80 40 54 FD 6E FC EA B7 E6 80 76 11 53 D6 04 18 E5 70 F5 B5 04 DA
+
+
+## Klas96
+https://raw.githubusercontent.com/Klas96/fdroid/refs/heads/master/repo
+
+* fingerprint: *
+D9 CB 07 55 A6 F6 CF E2 42 EF 4A 90 07 B2 BC 1E BB 19 11 0B 85 99 63 34 6D EA D8 31 FB 46 D0 D8
+
+
+## LORIO Store
+https://fdroid.purplepotatoe.com/repo
+
+* fingerprint: *
+7E AD 48 5B C2 A7 1C 65 5E A9 16 1C 5F 0B 2F 6C 84 4A D3 60 1D 09 E3 48 FF DF 05 D4 2E 1E AB 88
+
+
+## LORIO CVR
+https://salpetriere-fdroid.purplepotatoe.com/repo
+
+* fingerprint: *
+6A 84 32 36 DE 70 2B C3 6D C8 50 B3 7F 58 F4 20 62 6C 4C 7F BD 4E FF 5B 08 C0 6D F9 38 92 53 BD
+
+
