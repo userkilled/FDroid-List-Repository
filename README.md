@@ -2588,3 +2588,24 @@ https://salpetriere-fdroid.purplepotatoe.com/repo
 6A 84 32 36 DE 70 2B C3 6D C8 50 B3 7F 58 F4 20 62 6C 4C 7F BD 4E FF 5B 08 C0 6D F9 38 92 53 BD
 
 
+## DTube
+https://repo.dtube.app
+
+* fingerprint: *
+FC 21 81 83 D7 6A 28 56 8F F3 73 88 E6 78 AE 05 68 9A 5A 56 6D 7A BD DC 1D 0E A6 4B E1 F3 30 F1
+
+
+## fschroid
+https://fdroid.flumm.io/fdroid/repo
+
+* fingerprint: *
+BB 39 92 C3 66 58 B0 8B AC 8D 30 AF DB 0F 34 7A 3C C3 F2 1E 33 B5 E8 50 F7 CE B1 A3 D5 10 89 97
+
+
+## xMenu GT90 Printer
+https://fdroid.gt90printer.xmenu.it
+
+* fingerprint: *
+86 4C F7 41 58 25 E2 35 10 88 6C 55 42 E8 21 E1 F3 91 21 27 B2 34 E4 51 AE 81 32 8F 54 CC 45 68
+
+
