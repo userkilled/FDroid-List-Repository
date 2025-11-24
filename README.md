@@ -2609,3 +2609,17 @@ https://fdroid.gt90printer.xmenu.it
 86 4C F7 41 58 25 E2 35 10 88 6C 55 42 E8 21 E1 F3 91 21 27 B2 34 E4 51 AE 81 32 8F 54 CC 45 68
 
 
+## Globeranger Test
+http://fdroid-dist.southcentralus.cloudapp.azure.com/test/fdroid/repo
+
+* fingerprint: *
+C2 BB 2A 59 29 B9 EC 31 D8 C5 D9 C7 3B 13 09 F6 93 60 E5 64 7F 75 E1 95 AB 94 2E FF 9E 0E E3 02
+
+
+## Globeranger Track and Trace
+http://fdroid-dist.southcentralus.cloudapp.azure.com/tracktrace/fdroid/repo
+
+* fingerprint: *
+78 63 16 26 60 BA 2E 7A 28 B9 01 DD 24 29 06 DD 63 2A 34 AF D7 47 59 81 61 61 4A D8 90 7D C6 8B
+
+
