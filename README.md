@@ -2623,3 +2623,24 @@ http://fdroid-dist.southcentralus.cloudapp.azure.com/tracktrace/fdroid/repo
 78 63 16 26 60 BA 2E 7A 28 B9 01 DD 24 29 06 DD 63 2A 34 AF D7 47 59 81 61 61 4A D8 90 7D C6 8B
 
 
+## Rubend
+https://fdroid.rubend.nl/fdroid/repo
+
+* fingerprint: *
+ED D1 53 13 22 DC B6 89 B6 99 AE 86 42 95 22 13 B5 26 2D C6 B7 C3 69 2C 1A 87 32 D8 E3 A0 BE 38
+
+
+## OTT MDM private app store
+http://65.109.51.173:8082
+
+* fingerprint: *
+A1 12 3E C5 8C DC AE D7 57 79 DF CA E5 77 89 15 ED EC ED 35 08 3F 3F 2F 1F AF 6F AC 97 25 6F 29
+
+
+## Gianni archive
+https://fdroid.gianni.app/archive
+
+* fingerprint: *
+FC E7 BB DA 9C 88 14 3D AE 49 BB 68 9A A3 4F 7B 83 CC 99 B7 DE DD 36 50 86 DC 64 10 00 CC 02 59
+
+
