@@ -2644,3 +2644,8 @@ https://fdroid.gianni.app/archive
 FC E7 BB DA 9C 88 14 3D AE 49 BB 68 9A A3 4F 7B 83 CC 99 B7 DE DD 36 50 86 DC 64 10 00 CC 02 59
 
 
+## Discover Fedi
+https://fdroid.discoverfedi.app/repo
+
+* fingerprint: *
+88 82 5A 51 FD E2 6E 86 49 98 D8 86 87 5C 8D 33 AB E8 7D 79 5F DF 3B F5 76 81 D5 83 95 74 C5 E1
