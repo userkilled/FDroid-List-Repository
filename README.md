@@ -1272,6 +1272,13 @@ https://maintainteam.github.io/fdroid-pages/fdroid/repo
 10 99 CC EF C5 9E CB F7 57 33 F5 21 37 A3 9D 67 33 0E 72 1A 8D 1E 82 CB 93 BB 2D F9 DF 07 C2 D4
 
 
+## MaintainTeam Nightly F-Droid Repo
+https://maintainteam-nightly.github.io/fdroid-pages/fdroid/repo
+
+* fingerprint: *
+C3 4D 2E 7D 4C EF 28 D8 3D 0C 62 5D 52 25 43 05 2D 09 1E FB D0 45 53 B3 4D 94 3D 50 17 7C 5C 88
+
+
 ## Foundation Devices 
 https://fdroid.foundationdevices.com/fdroid/repo
 
@@ -2649,3 +2656,19 @@ https://fdroid.discoverfedi.app/repo
 
 * fingerprint: *
 88 82 5A 51 FD E2 6E 86 49 98 D8 86 87 5C 8D 33 AB E8 7D 79 5F DF 3B F5 76 81 D5 83 95 74 C5 E1
+
+
+## CraftByte's F-Droid Repo
+https://apps.v0.si/fdroid/repo
+
+* fingerprint: *
+A0 16 44 AD C7 8D 14 B2 32 A9 79 0B 39 BF 05 63 94 41 AA CB 75 3C 4E 37 A5 93 E9 EB AC 50 49 9F
+
+
+## Mamushi-Droid
+https://secretestsquirrel.gitlab.io/repo-dv/fdroid/repo
+
+* fingerprint: *
+7F C3 4D 15 1D DA 67 20 70 86 03 ED 62 C9 0A 25 CE 9A 8E BA BA 7F B2 B6 99 7F A8 70 DE 4D 67 3A
+
+
