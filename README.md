@@ -2672,3 +2672,17 @@ https://secretestsquirrel.gitlab.io/repo-dv/fdroid/repo
 7F C3 4D 15 1D DA 67 20 70 86 03 ED 62 C9 0A 25 CE 9A 8E BA BA 7F B2 B6 99 7F A8 70 DE 4D 67 3A
 
 
+## motoroidandorolla
+https://gitlab.com/motoroidandorolla/fdroid-repo/-/raw/main/fdroid/repo
+
+* fingerprint: *
+56 1A D8 00 D9 00 CA 8E BF 3A 53 1C 6A 86 0B 5A B8 56 9D 0D 37 6F D1 21 CB CC FC A9 43 4D 7D F7
+
+
+## kbitGitlab
+https://gitlab.com/kbitGitlab/fdroid-repo-gitlab/-/raw/master/fdroid/repo
+
+* fingerprint: *
+31 3B E0 7A D8 5E E4 BF FF 08 8F 0F 47 A3 B6 72 19 4C 64 0A 20 AD 97 4F 12 64 E9 4D 1F 18 94 BC
+
+
