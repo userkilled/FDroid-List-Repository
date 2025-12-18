@@ -2686,3 +2686,31 @@ https://gitlab.com/kbitGitlab/fdroid-repo-gitlab/-/raw/master/fdroid/repo
 31 3B E0 7A D8 5E E4 BF FF 08 8F 0F 47 A3 B6 72 19 4C 64 0A 20 AD 97 4F 12 64 E9 4D 1F 18 94 BC
 
 
+## kudlatyfilozof
+https://gitlab.com/kudlatyfilozof/fdroid/-/raw/master/fdroid/repo
+
+* fingerprint: *
+8E BF 5A FE 6A 80 9A 01 6F 6D 74 90 0B D2 11 0B 17 61 25 6D F5 65 52 A7 34 67 3A 7D 00 A8 11 D2
+
+
+## informatiger
+https://gitlab.com/informatiger/fdroid-repo/-/raw/master/fdroid/repo
+
+* fingerprint: *
+E3 D2 D7 B2 D4 96 19 2F F1 FB 52 98 6F 23 20 29 77 1A 41 ED 50 CF FB 54 E2 C6 8F 2C CD 69 F2 F8
+
+
+## wireva archive
+https://gitlab.com/wireva/fdroid-repo/-/raw/master/fdroid/archive
+
+* fingerprint: *
+6B 6E CD 3C E2 BE 84 AF 68 0C BC 43 D5 15 52 14 9E 7C D5 B4 0E 5B A8 D2 C7 8F 9C AB 8D 05 24 E4
+
+
+## wireva
+https://gitlab.com/wireva/fdroid-repo/-/raw/master/fdroid/repo
+
+* fingerprint: *
+6B 6E CD 3C E2 BE 84 AF 68 0C BC 43 D5 15 52 14 9E 7C D5 B4 0E 5B A8 D2 C7 8F 9C AB 8D 05 24 E4
+
+
