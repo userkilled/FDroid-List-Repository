@@ -2714,3 +2714,17 @@ https://gitlab.com/wireva/fdroid-repo/-/raw/master/fdroid/repo
 6B 6E CD 3C E2 BE 84 AF 68 0C BC 43 D5 15 52 14 9E 7C D5 B4 0E 5B A8 D2 C7 8F 9C AB 8D 05 24 E4
 
 
+## ajwsrepo2
+https://gitlab.com/Austcool-Walker/ajwsrepo2/-/raw/master/fdroid/repo
+
+* fingerprint: *
+6C 76 7C 78 16 74 35 DC C8 81 DE 01 D2 38 97 9D 04 9B BE DA D0 FB D2 C3 0C ED 91 05 FE 89 FD E3
+
+
+## Aprisma
+https://gitlab.com/unnfajar/fdroid-repo/-/raw/master/fdroid/repo
+
+* fingerprint: *
+3C 0D 21 F7 EA A9 0E A7 12 00 D0 9C 1B 48 7F EB EE 2D DC 8E 98 BF 99 A7 92 3A C6 6C FD 88 7B F9
+
+
