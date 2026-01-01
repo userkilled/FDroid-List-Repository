@@ -2742,10 +2742,24 @@ https://gitlab.com/unnfajar/fdroid-repo/-/raw/master/fdroid/repo
 3C 0D 21 F7 EA A9 0E A7 12 00 D0 9C 1B 48 7F EB EE 2D DC 8E 98 BF 99 A7 92 3A C6 6C FD 88 7B F9
 
 
+## Dercosa
+https://fdroid.dercosa.com/repo
+
+* fingerprint: *
+FF FA 75 B2 DF 56 10 AD AD EC 25 77 49 A3 0C 7C 7C 95 05 30 A2 6B 5C 05 A7 EC 68 45 F6 76 65 01
+
+
 ## twonly
 https://releases.twonly.eu/fdroid/repo
 
 * fingerprint: *
 40 BE 66 D4 E3 B2 A3 1A 48 4A 52 70 ED 2F 8A 5F DB E0 AA 1C 98 CE 0C 26 EC 1F 1D 09 B8 9B 3E 9D
+
+
+## XevFun
+https://fdroid.xevfun.com/fdroid/repo
+
+* fingerprint: *
+BC 3C E1 FD 2E 4B 2B 4A 57 91 5D FA DB B6 37 CF CC AC 54 B7 75 43 C8 65 1D ED 01 34 D7 A6 6A DE
 
 
