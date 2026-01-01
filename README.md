@@ -2763,3 +2763,24 @@ https://fdroid.xevfun.com/fdroid/repo
 BC 3C E1 FD 2E 4B 2B 4A 57 91 5D FA DB B6 37 CF CC AC 54 B7 75 43 C8 65 1D ED 01 34 D7 A6 6A DE
 
 
+## Otras Companas
+https://otrascampanas.org/fdroid/repo
+
+* fingerprint: *
+FD 4C DD FB 4A A0 08 EB 63 F2 34 6D 4E 23 49 33 A2 DA 35 06 56 AF 1C B9 02 FF 72 A0 FB AB 66 83
+
+
+## OBTH Public
+https://fdroid.obth.eu/public/repo
+
+* fingerprint: *
+2F C8 DD AB 36 12 06 E2 10 76 26 21 65 F2 A3 B3 1C A0 A2 44 0D C2 2C 8B 5E 15 A4 47 9D D4 39 E3
+
+
+## dwd.tools
+https://fdroid.dwd.tools/fdroid/repo
+
+* fingerprint: *
+0F AB 2A 9C 4E 17 39 DF AE CB 13 A5 FA 95 59 E2 CA D4 E2 7F 17 E0 CD ED 03 9A 44 6A 6F 9C 06 DD
+
+
