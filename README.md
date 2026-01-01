@@ -134,6 +134,20 @@ https://store.nethunter.com/archive
 FE 7A 23 DF C0 03 A1 CF 2D 2A DD 24 69 B9 C0 C4 9B 20 6B A5 DC 9E DD 65 63 B3 B7 EB 6A 8F 5F AB
 
 
+## Kali Nethunter - Staging
+https://staging.nethunter.com/repo
+
+* fingerprint: *
+7E 41 8D 34 C3 AD 4F 3C 37 D7 E6 B0 FA CE 13 33 23 64 45 9C 86 21 34 EB 09 9A 3B DA 2C CF 44 94
+
+
+## Kali Nethunter - Stating Archive 
+http://staging.nethunter.com/archive
+
+* fingerprint: *
+7E 41 8D 34 C3 AD 4F 3C 37 D7 E6 B0 FA CE 13 33 23 64 45 9C 86 21 34 EB 09 9A 3B DA 2C CF 44 94
+
+
 ## Umbrella 
 https://secfirst.org/fdroid/repo
 
@@ -955,7 +969,7 @@ https://fdroid.ggtyler.dev/
 12 D4 F6 47 71 0D BB 0F AF DE 0F BE 9C 21 27 EC B5 3C FE 0E 8B 1C B2 DE 56 B7 04 FC E3 30 A0 F8
 
 
-## Cromite
+## Cromite (502)
 https://www.cromite.org/fdroid/repo
 
 * fingerprint: *
@@ -2726,5 +2740,12 @@ https://gitlab.com/unnfajar/fdroid-repo/-/raw/master/fdroid/repo
 
 * fingerprint: *
 3C 0D 21 F7 EA A9 0E A7 12 00 D0 9C 1B 48 7F EB EE 2D DC 8E 98 BF 99 A7 92 3A C6 6C FD 88 7B F9
+
+
+## twonly
+https://releases.twonly.eu/fdroid/repo
+
+* fingerprint: *
+40 BE 66 D4 E3 B2 A3 1A 48 4A 52 70 ED 2F 8A 5F DB E0 AA 1C 98 CE 0C 26 EC 1F 1D 09 B8 9B 3E 9D
 
 
