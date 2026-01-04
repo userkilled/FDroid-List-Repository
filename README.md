@@ -2784,3 +2784,31 @@ https://fdroid.dwd.tools/fdroid/repo
 0F AB 2A 9C 4E 17 39 DF AE CB 13 A5 FA 95 59 E2 CA D4 E2 7F 17 E0 CD ED 03 9A 44 6A 6F 9C 06 DD
 
 
+## SeineEloquenz
+https://raw.githubusercontent.com/SeineEloquenz/fdroid/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+89 F9 F4 07 5A 3C 1B 99 5C 79 70 A8 9E 79 6A B7 BC 5A 94 0B 98 37 41 1F A3 5C 6C D8 76 59 E1 86
+
+
+## Fury
+https://fury.untamedfury.space/repo
+
+* fingerprint: *
+BD 3D 60 C7 D6 AA 34 20 42 78 62 9B 0F BC EC E7 B6 80 2E 6B C6 7C 5F 11 12 D2 60 D4 21 86 EE E6
+
+
+## sudoxnym
+https://sudoxreboot.github.io/fdroid-repo/repo
+
+* fingerprint: *
+B8 BE 68 CF B8 4C 2C 84 F7 55 B0 92 BF 87 BE 57 7A B7 E4 F8 54 A4 66 12 EE 92 8B A0 E7 E5 66 1F
+
+
+## CharaDreemurrDT
+https://raw.githubusercontent.com/CharaDreemurrDT/my-fdroid-repository/refs/heads/main/repo
+
+* fingerprint: *
+77 1C EA 41 8C 2D A6 51 83 12 84 78 FC E7 DA 6A 1C B2 CB 0F CD D9 E3 1E 4D 49 B4 E0 56 57 41 83
+
+
