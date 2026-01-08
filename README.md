@@ -2812,3 +2812,38 @@ https://raw.githubusercontent.com/CharaDreemurrDT/my-fdroid-repository/refs/head
 77 1C EA 41 8C 2D A6 51 83 12 84 78 FC E7 DA 6A 1C B2 CB 0F CD D9 E3 1E 4D 49 B4 E0 56 57 41 83
 
 
+## ButterPOS APK (entree)
+https://entree.fdroid.butterpos.com/repo
+
+* fingerprint: *
+0B E6 26 0A E6 25 91 CC E6 4F 87 B9 12 3D 24 41 9E 54 2E 28 2B E1 55 BF 68 6A 61 93 E7 E8 3D B6
+
+
+## ButterPOS APK (dessert)
+https://dessert.fdroid.butterpos.com/repo
+
+* fingerprint: *
+CF 8D 6B 37 9F D6 B6 A2 35 3C D9 C2 33 5C DD BF 9D EB 67 25 9C 98 BA 90 4A 56 E2 A9 2C D9 F6 2B
+
+
+## ButterPOS APK (appetizer)
+https://appetizer.fdroid.butterpos.com/repo
+
+* fingerprint: *
+E0 6E 89 FA 7A 33 86 7B 2A 28 03 47 28 4E 76 93 F4 2B F5 91 CE 82 93 23 26 B6 FB C1 5C CC 17 4B
+
+
+## Freefly UXV Controller Beta Repo
+http://freefly-updater.freeflysystems.com/v1_uxv/beta_repo
+
+* fingerprint: *
+9B FE 1C 7F 46 FD 55 B1 11 1C 12 81 9B 4F 43 06 0D 9A F5 26 36 E2 DD 3C 39 A9 CF A1 B1 DA 45 A8
+
+
+## chaos.expert
+https://fdroid.chaos.expert
+
+* fingerprint: *
+68 DD FB 85 07 CA DB A9 71 36 C3 35 6F B7 A6 A1 71 50 89 CC 98 BD 93 95 92 6A 4F 96 76 45 C4 AC
+
+
