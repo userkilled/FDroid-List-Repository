@@ -2795,7 +2795,7 @@ https://raw.githubusercontent.com/SeineEloquenz/fdroid/refs/heads/main/fdroid/re
 https://fury.untamedfury.space/repo
 
 * fingerprint: *
-BD 3D 60 C7 D6 AA 34 20 42 78 62 9B 0F BC EC E7 B6 80 2E 6B C6 7C 5F 11 12 D2 60 D4 21 86 EE E6
+D5 ED 79 60 17 1D 58 32 4A D3 64 A0 90 0E 28 7A 51 F1 95 92 6C B4 FB AF 5E BB E7 E9 5A 81 DC EF 
 
 
 ## sudoxnym
