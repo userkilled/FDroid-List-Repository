@@ -2847,3 +2847,10 @@ https://fdroid.chaos.expert
 68 DD FB 85 07 CA DB A9 71 36 C3 35 6F B7 A6 A1 71 50 89 CC 98 BD 93 95 92 6A 4F 96 76 45 C4 AC
 
 
+## Lobanokivan11
+https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+6B 1E 40 CB C7 2E EC 9A 7A 15 B8 86 E3 6B B8 1D B6 D9 8C 88 3D B1 63 21 1A FD D9 FF DB 40 59 01
+
+
