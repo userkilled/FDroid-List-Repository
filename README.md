@@ -2854,3 +2854,24 @@ https://raw.githubusercontent.com/Lobanokivan11/FDROID-REPO/refs/heads/main/fdro
 6B 1E 40 CB C7 2E EC 9A 7A 15 B8 86 E3 6B B8 1D B6 D9 8C 88 3D B1 63 21 1A FD D9 FF DB 40 59 01
 
 
+## Subfrost
+https://f-droid.subfrost.io/fdroid/repo
+
+* fingerprint: *
+6B 40 42 D2 CA 47 80 02 72 05 5F 3B 42 29 9B B0 91 71 1C 0B CC FA 9B EA 02 F0 56 57 04 6E 4F 21
+
+
+## simonmicro
+https://fdroid.simonmicro.de/repo
+
+* fingerprint: *
+38 AD DB 9E F5 E3 F8 06 D0 13 30 0D C2 E2 F3 8B 41 B1 59 60 10 3B C3 C8 C0 11 EA AE 23 33 5D 9C
+
+
+## Inksea
+https://fdroid.inksea.xyz/repo
+
+* fingerprint: *
+D1 B5 08 56 24 68 94 AF 56 0A B7 FF 48 ED 11 92 0A 21 A9 36 49 49 16 78 DB 84 32 D9 9A D6 E9 A1
+
+
