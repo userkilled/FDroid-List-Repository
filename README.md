@@ -2875,3 +2875,10 @@ https://fdroid.inksea.xyz/repo
 D1 B5 08 56 24 68 94 AF 56 0A B7 FF 48 ED 11 92 0A 21 A9 36 49 49 16 78 DB 84 32 D9 9A D6 E9 A1
 
 
+## KoCoS Mobile Apps [F-Droid Basic]
+http://145.241.187.86:8080/repo
+
+* fingerprint: *
+CD EF AF D2 A6 59 73 D4 35 E4 58 1C DF C6 90 B0 C7 47 E9 50 E8 FE 02 89 E5 22 F8 42 7B A6 28 7F
+
+
