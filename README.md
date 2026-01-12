@@ -969,7 +969,7 @@ https://fdroid.ggtyler.dev/
 12 D4 F6 47 71 0D BB 0F AF DE 0F BE 9C 21 27 EC B5 3C FE 0E 8B 1C B2 DE 56 B7 04 FC E3 30 A0 F8
 
 
-## Cromite (502)
+## Cromite
 https://www.cromite.org/fdroid/repo
 
 * fingerprint: *
@@ -2880,5 +2880,40 @@ http://145.241.187.86:8080/repo
 
 * fingerprint: *
 CD EF AF D2 A6 59 73 D4 35 E4 58 1C DF C6 90 B0 C7 47 E9 50 E8 FE 02 89 E5 22 F8 42 7B A6 28 7F
+
+
+## Third Party - Emesent Stable Repo
+http://freefly-updater.freeflysystems.com/v1_third_party/emesent/stable_repo
+
+* fingerprint: *
+9B FE 1C 7F 46 FD 55 B1 11 1C 12 81 9B 4F 43 06 0D 9A F5 26 36 E2 DD 3C 39 A9 CF A1 B1 DA 45 A8
+
+
+## Third Party - Emesent Beta Repo
+http://freefly-updater.freeflysystems.com/v1_third_party/emesent/beta_repo
+
+* fingerprint: *
+9B FE 1C 7F 46 FD 55 B1 11 1C 12 81 9B 4F 43 06 0D 9A F5 26 36 E2 DD 3C 39 A9 CF A1 B1 DA 45 A8
+
+
+## DevCat
+https://devcat-exe.github.io/devcat-fdroid-repo/repo
+
+* fingerprint: *
+2D F3 93 D8 2A 16 AC DA 06 DD EC AE 78 70 00 17 86 EF 10 77 92 11 51 F2 91 C7 D0 A3 26 AF 12 7E
+
+
+## LyzardKing
+https://raw.githubusercontent.com/LyzardKing/fdroid/main/fdroid/repo
+
+* fingerprint: *
+8B 00 15 5B 08 63 F6 F4 FD D2 A6 03 2D 3E 74 E9 9B 6F E2 DB 0F 06 6B 84 08 74 17 E1 10 F7 51 89
+
+
+## JCH Player
+https://fdroid.snaums.de/fdroid/repo
+
+* fingerprint: *
+AA E0 98 88 A4 1D 82 0E 7F CE 74 37 A8 DE 0C 20 6B 2D BE C2 6E 5B B5 69 58 81 DD 4B AF 20 C3 1C
 
 
