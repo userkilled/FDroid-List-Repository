@@ -2917,3 +2917,17 @@ https://fdroid.snaums.de/fdroid/repo
 AA E0 98 88 A4 1D 82 0E 7F CE 74 37 A8 DE 0C 20 6B 2D BE C2 6E 5B B5 69 58 81 DD 4B AF 20 C3 1C
 
 
+## avCloud
+https://fdroid.accesovehicular.cloud/repo
+
+* fingerprint: *
+7D 2E 3E EC 36 C8 8D 14 59 FB B5 A2 6F EF 51 48 30 57 F9 48 29 D0 08 24 3C E6 76 BA E4 50 11 F7
+
+
+## Apostrophy App Store
+https://store.aphy.app/fdroid/repo
+
+* fingerprint: *
+3F CF 17 05 73 5A 52 1D 9B 3A DA 35 37 1C 22 4B 66 AB D7 5F 78 DD F1 D3 B6 06 6C 93 26 95 FE BC
+
+
