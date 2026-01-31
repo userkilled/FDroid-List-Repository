@@ -2931,3 +2931,24 @@ https://store.aphy.app/fdroid/repo
 3F CF 17 05 73 5A 52 1D 9B 3A DA 35 37 1C 22 4B 66 AB D7 5F 78 DD F1 D3 B6 06 6C 93 26 95 FE BC
 
 
+## gold-cal
+https://raw.githubusercontent.com/gold-cal/fdroid/main/fdroid/repo
+
+* fingerprint: *
+15 B3 C3 B2 E9 23 28 A5 A7 A0 19 08 77 D8 A7 AA 6C 30 4C 44 B3 22 74 3A A7 F4 62 D0 C5 19 49 A9
+
+
+## Evert's
+https://fdroid.lunasqu.ee/fdroid/repo
+
+* fingerprint: *
+EB F7 CC 6C E9 E0 7E 31 17 81 40 65 C1 C0 1F 83 34 9E AD 20 52 A2 FF D1 83 17 68 1B 50 E5 D0 43
+
+
+## Basso Play Store
+http://fdroid.basso.com.au/fdroid/repo
+
+* fingerprint: *
+3B 2A D0 07 F2 D3 D0 A1 B2 B7 62 39 C4 75 87 1D D5 03 25 26 C8 2E C9 8C 9B FC BF C8 52 20 AC 96
+
+
