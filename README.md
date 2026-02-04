@@ -92,6 +92,13 @@ https://fdroid.libretro.com/repo
 3F 05 B2 4D 49 75 15 F3 1F EA B4 21 29 7C 79 B1 95 52 C5 C8 11 86 B3 75 0B 7C 13 1E F4 1D 73 3D
 
 
+## LibRetro Archive
+https://fdroid.libretro.com/archive
+
+* fingerprint: *
+3F 05 B2 4D 49 75 15 F3 1F EA B4 21 29 7C 79 B1 95 52 C5 C8 11 86 B3 75 0B 7C 13 1E F4 1D 73 3D
+
+
 ## KDE Android
 https://cdn.kde.org/android/stable-releases/fdroid/repo
 
@@ -1515,20 +1522,6 @@ https://app.rwth-aachen.de/fdroid/repo
 
 * fingerprint: *
 AC D7 C5 54 DE D6 B9 A8 0B F4 3F 7D 76 6E E7 5C 07 DE BB 89 E8 3A B5 57 99 B9 42 34 AC 05 04 4C
-
-
-## LibRetro Archive
-https://fdroid.libretro.com/archive
-
-* fingerprint: *
-3F 05 B2 4D 49 75 15 F3 1F EA B4 21 29 7C 79 B1 95 52 C5 C8 11 86 B3 75 0B 7C 13 1E F4 1D 73 3D
-
-
-## Haagch
-https://haagch.frickel.club/files/fdroid/repo
-
-* fingerprint: *
-38 7A C9 E5 8C 94 81 A6 B1 A8 DC E5 3A 16 E5 36 45 DA 69 48 22 A8 FE 50 C8 77 EF B5 F4 2E 69 33
 
 
 ## Monfluo
