@@ -2952,3 +2952,31 @@ http://fdroid.basso.com.au/fdroid/repo
 3B 2A D0 07 F2 D3 D0 A1 B2 B7 62 39 C4 75 87 1D D5 03 25 26 C8 2E C9 8C 9B FC BF C8 52 20 AC 96
 
 
+## Skeen PROD V2
+https://mws-repo-v2.fotofinderhub.de
+
+* fingerprint: *
+9F 11 1B 80 22 48 C9 3B F1 1B A6 50 50 97 84 9B 50 32 75 51 A3 A5 A8 45 E6 58 55 2C 9B 5F BF 3F
+
+
+## rfPro
+https://fdroid.rfpro.mx/repo
+
+* fingerprint: *
+FE 19 19 42 34 10 A8 55 0A 23 C2 1D 83 F3 37 61 93 35 A8 73 35 7C C3 EB 8A EB EC FF 70 DC B4 98
+
+
+## getting a true plant app
+https://fdroid.amatt.de/repo
+
+* fingerprint: *
+0A 5D 0A 84 D5 13 8D 9C 27 3F 0B A2 E6 C7 7D 13 B5 2F 1E 2B E5 E0 38 8C 33 E2 B1 C4 C7 73 39 6B
+
+
+## Local repo
+https://fdroid.absolut-tds.tk/repo
+
+* fingerprint: *
+EF B1 2A 38 D9 F0 90 9B 0C B6 79 12 96 7A BA A2 47 16 21 2D 69 4A 76 F0 59 83 D1 59 7E 26 40 C3
+
+
