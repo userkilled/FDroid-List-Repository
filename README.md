@@ -2973,3 +2973,24 @@ https://fdroid.absolut-tds.tk/repo
 EF B1 2A 38 D9 F0 90 9B 0C B6 79 12 96 7A BA A2 47 16 21 2D 69 4A 76 F0 59 83 D1 59 7E 26 40 C3
 
 
+## Bernd Reuther
+https://fdroid.berndreuther.de/repo
+
+* fingerprint: *
+89 C4 92 83 FA 32 02 D2 88 2B 87 76 A3 D5 64 1F 53 AC 40 5B 93 C1 EC 94 67 D1 E4 5C C1 D9 47 84
+
+
+## FloGa
+https://fdroid.floga.duckdns.org/fdroid/repo
+
+* fingerprint: *
+12 BB 74 68 6C 28 80 70 A7 E8 37 FB 17 DC 7D D8 C0 4C 0F 1D CD 22 0A 30 84 94 9A 42 C7 11 3F 17
+
+
+## thedevstack.de
+https://fdroid.tz.thedevstack.de/repo
+
+* fingerprint: *
+9C D3 C9 7A B1 DA BB 3A 0B C0 2E 54 9F D2 B4 9F AB A3 B5 DD F4 B6 17 31 43 F6 ED 59 4F D6 4B 8F
+
+
