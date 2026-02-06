@@ -2994,3 +2994,17 @@ https://fdroid.tz.thedevstack.de/repo
 9C D3 C9 7A B1 DA BB 3A 0B C0 2E 54 9F D2 B4 9F AB A3 B5 DD F4 B6 17 31 43 F6 ED 59 4F D6 4B 8F
 
 
+## Toto
+https://fdroid.totto.lt/repo
+
+* fingerprint: *
+FE F6 96 2F F7 85 15 DB 4C 9F 33 B0 A0 DD 9D 31 D1 C3 99 A8 D3 21 BE 2E 34 92 03 A6 36 14 59 69
+
+
+## Toto Archive
+https://fdroid.totto.lt/archive
+
+* fingerprint: *
+FE F6 96 2F F7 85 15 DB 4C 9F 33 B0 A0 DD 9D 31 D1 C3 99 A8 D3 21 BE 2E 34 92 03 A6 36 14 59 69
+
+
