@@ -857,13 +857,6 @@ https://raw.githubusercontent.com/parnikkapore/fdroid/master/fdroid/repo
 86 24 6B 29 F1 BC 18 A6 B4 C8 69 7F 54 0E 33 A8 2F 6A 4F E4 E9 C5 82 F0 DF 39 2A 2B C9 96 E3 92
 
 
-## LUKYMAS
-https://raw.githubusercontent.com/lksmasin/fdroidrepo/main/fdroid/repo
-
-* fingerprint: *
-DB 5F 78 48 F2 82 EA EB 2C 80 56 90 E2 95 5D F5 0E 3A 63 AA 51 36 0C 3A 89 08 F1 79 CB 43 5F E8
-
-
 ## ZeroNet
 https://raw.githubusercontent.com/mkg20001/zeronet-fdroid/master/fdroid/repo
 
