@@ -3015,3 +3015,10 @@ http://fdroid.tableair.com
 FE 4B 3E 69 B0 73 69 F4 04 28 BF B0 C9 D9 01 B7 E3 86 25 F7 D8 6F B2 54 CE 05 41 5F B4 EC ED FB
 
 
+## Billance
+https://fdroid.billance.maslo.dev/repo
+
+* fingerprint: *
+8B 95 9A C1 E9 A2 0F 5A 11 21 3A 9A A8 15 C6 E7 36 5E EF CB AA A6 11 97 20 0F 16 5A 84 F8 42 DA
+
+
