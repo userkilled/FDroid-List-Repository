@@ -3015,3 +3015,10 @@ https://fdroid.billance.maslo.dev/repo
 8B 95 9A C1 E9 A2 0F 5A 11 21 3A 9A A8 15 C6 E7 36 5E EF CB AA A6 11 97 20 0F 16 5A 84 F8 42 DA
 
 
+## archuser
+https://fdroid.archuser.org/fdroid/repo
+
+* fingerprint: *
+FC 28 5F A9 42 01 8A 0A A0 07 9A D8 2C 19 24 92 B2 AF 62 9E 67 29 68 D9 43 1A 63 FE 19 9C 67 F1
+
+
