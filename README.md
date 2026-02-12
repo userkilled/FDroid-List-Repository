@@ -3022,3 +3022,10 @@ https://fdroid.archuser.org/fdroid/repo
 FC 28 5F A9 42 01 8A 0A A0 07 9A D8 2C 19 24 92 B2 AF 62 9E 67 29 68 D9 43 1A 63 FE 19 9C 67 F1
 
 
+## FR.Style
+https://raw.githubusercontent.com/fr-style/fdroid/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+17 BD 7A 56 47 F7 3C 4B DA C0 B0 48 DF 7F DF 61 4A 3F F8 AF E4 54 E5 D2 41 0B 06 92 E8 B5 BD 3E
+
+
