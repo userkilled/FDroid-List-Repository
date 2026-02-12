@@ -3029,3 +3029,10 @@ https://raw.githubusercontent.com/fr-style/fdroid/refs/heads/main/fdroid/repo
 17 BD 7A 56 47 F7 3C 4B DA C0 B0 48 DF 7F DF 61 4A 3F F8 AF E4 54 E5 D2 41 0B 06 92 E8 B5 BD 3E
 
 
+## Hyperling Apps
+https://fdroid.hyperling.com
+
+* fingerprint: *
+DE 91 12 30 D6 76 97 2E C1 7B F2 52 B6 B6 17 C3 99 7A 8B 89 04 3A 35 3A 99 64 F9 EA FE D9 C3 1B
+
+
