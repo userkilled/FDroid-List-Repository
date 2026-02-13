@@ -3036,3 +3036,10 @@ https://fdroid.hyperling.com
 DE 91 12 30 D6 76 97 2E C1 7B F2 52 B6 B6 17 C3 99 7A 8B 89 04 3A 35 3A 99 64 F9 EA FE D9 C3 1B
 
 
+## fdroid.home.marcmorgan.ca
+https://fdroid.home.marcmorgan.ca
+
+* fingerprint: *
+21 5C 66 5A 95 56 6E 30 9B 27 3E A4 00 2E 4D 7B 82 3E 56 90 E6 D9 D4 B3 E1 C2 0F 75 B2 AC 9B 69
+
+
