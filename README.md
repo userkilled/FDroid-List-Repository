@@ -3043,3 +3043,10 @@ https://fdroid.home.marcmorgan.ca
 21 5C 66 5A 95 56 6E 30 9B 27 3E A4 00 2E 4D 7B 82 3E 56 90 E6 D9 D4 B3 E1 C2 0F 75 B2 AC 9B 69
 
 
+## JeroenHD
+https://fdroid.jeroenhd.nl/repo
+
+* fingerprint: *
+17 D1 F8 B0 2F 75 1C E7 D7 18 E8 EF 2D AA 93 85 D1 1C 42 AB 03 A6 C1 66 E7 45 27 FD BA BA FE B4
+
+
