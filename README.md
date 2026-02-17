@@ -3050,3 +3050,10 @@ https://fdroid.jeroenhd.nl/repo
 17 D1 F8 B0 2F 75 1C E7 D7 18 E8 EF 2D AA 93 85 D1 1C 42 AB 03 A6 C1 66 E7 45 27 FD BA BA FE B4
 
 
+## RootStore
+https://gangrene.click/repo
+
+* fingerprint: *
+55 AF D8 29 A2 9D 82 07 92 44 C4 90 29 92 EA F4 8F 11 FE 09 21 23 96 E9 E9 51 9C 2F 07 2E 5A F9
+
+
