@@ -3057,3 +3057,10 @@ https://gangrene.click/repo
 55 AF D8 29 A2 9D 82 07 92 44 C4 90 29 92 EA F4 8F 11 FE 09 21 23 96 E9 E9 51 9C 2F 07 2E 5A F9
 
 
+## Proctet
+https://fdroid.proctet.net/repo
+
+* fingerprint: *
+F9 CC 91 F7 94 35 F8 47 EC D0 C6 B4 53 8B 5D 0E 5F A7 6E 94 57 A1 80 BD 63 EC 9B 42 CA 07 26 F6
+
+
