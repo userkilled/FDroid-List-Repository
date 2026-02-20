@@ -3064,3 +3064,10 @@ https://fdroid.proctet.net/repo
 F9 CC 91 F7 94 35 F8 47 EC D0 C6 B4 53 8B 5D 0E 5F A7 6E 94 57 A1 80 BD 63 EC 9B 42 CA 07 26 F6
 
 
+## secureOS
+https://raw.githubusercontent.com/secure-OS/f-droid/master/fdroid/repo
+
+* fingerprint: *
+43 9D 25 B4 E7 53 A8 CE 06 99 32 21 4B D4 A9 23 76 6E 79 4C 52 5C CA 69 05 8B 98 94 4B 50 3D 9D
+
+
