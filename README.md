@@ -3071,3 +3071,10 @@ https://raw.githubusercontent.com/secure-OS/f-droid/master/fdroid/repo
 43 9D 25 B4 E7 53 A8 CE 06 99 32 21 4B D4 A9 23 76 6E 79 4C 52 5C CA 69 05 8B 98 94 4B 50 3D 9D
 
 
+## 990aa.github.io/kivixa/repo
+https://990aa.github.io/kivixa/repo
+
+* fingerprint: *
+A9 70 DB F2 72 34 81 5F 80 30 F5 0D 10 17 21 E6 5E BD E5 06 F0 BE C6 DA CE 47 6F 4D CF 5C DF 4A
+
+
