@@ -3078,3 +3078,10 @@ https://990aa.github.io/kivixa/repo
 A9 70 DB F2 72 34 81 5F 80 30 F5 0D 10 17 21 E6 5E BD E5 06 F0 BE C6 DA CE 47 6F 4D CF 5C DF 4A
 
 
+## dotscene
+https://f-droid.dotscene.com/fdroid/repo
+
+* fingerprint: *
+00 83 4B F5 80 08 04 73 5F E2 3C C3 4A 1A 2D 33 5B 1C 32 6A FE 44 72 B3 F9 A9 AA EB BD 33 DB AC
+
+
