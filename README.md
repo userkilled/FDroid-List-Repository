@@ -3085,3 +3085,10 @@ https://f-droid.dotscene.com/fdroid/repo
 00 83 4B F5 80 08 04 73 5F E2 3C C3 4A 1A 2D 33 5B 1C 32 6A FE 44 72 B3 F9 A9 AA EB BD 33 DB AC
 
 
+## Everyring ERX Blue
+https://erx-app.everyring.net/fdroid
+
+* fingerprint: *
+13 39 C6 C8 21 21 C3 C8 E0 31 AF F4 19 EC 9A 24 BC 45 FB 6D CA 14 A5 51 07 3B 63 2E 24 6E 8C DF
+
+
