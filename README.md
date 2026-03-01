@@ -3092,3 +3092,10 @@ https://erx-app.everyring.net/fdroid
 13 39 C6 C8 21 21 C3 C8 E0 31 AF F4 19 EC 9A 24 BC 45 FB 6D CA 14 A5 51 07 3B 63 2E 24 6E 8C DF
 
 
+## Bjoern
+https://apps.bjoern-kahl.de/fdroid/repo
+
+* fingerprint: *
+B9 AA B2 E3 3D A7 EC CA BF CF DF 37 AB 53 3B 2D 8D 6D 31 0C CF A2 E4 23 D6 C5 5A 6F C2 5E 1C AE
+
+
