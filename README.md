@@ -3099,3 +3099,10 @@ https://apps.bjoern-kahl.de/fdroid/repo
 B9 AA B2 E3 3D A7 EC CA BF CF DF 37 AB 53 3B 2D 8D 6D 31 0C CF A2 E4 23 D6 C5 5A 6F C2 5E 1C AE
 
 
+## Masko Chat
+http://www-hank.1984.is/fdroid/repo
+
+* fingerprint: *
+AC 13 6D BB 39 48 10 5F CC EA 13 52 F1 52 34 9D 54 FD F3 C1 6D B3 71 FA DB DA DF EC EB B8 F1 5F
+
+
