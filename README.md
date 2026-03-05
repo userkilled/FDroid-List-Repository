@@ -3106,3 +3106,10 @@ http://www-hank.1984.is/fdroid/repo
 AC 13 6D BB 39 48 10 5F CC EA 13 52 F1 52 34 9D 54 FD F3 C1 6D B3 71 FA DB DA DF EC EB B8 F1 5F
 
 
+## Ingo
+https://fdroid.der-ingo.de/repo
+
+* fingerprint: *
+5C 6A 86 1A D9 6E B4 E4 44 EB 19 B7 2B A2 5F 7A F0 0B 3E 1B CB 1D 00 62 4E 18 03 29 E6 82 6E B0
+
+
