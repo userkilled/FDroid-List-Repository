@@ -3113,3 +3113,17 @@ https://fdroid.der-ingo.de/repo
 5C 6A 86 1A D9 6E B4 E4 44 EB 19 B7 2B A2 5F 7A F0 0B 3E 1B CB 1D 00 62 4E 18 03 29 E6 82 6E B0
 
 
+## Sinyax
+https://fdroid.sinyax.net/fdroid/repo
+
+* fingerprint: *
+86 BF 9C 52 30 81 C3 BD CE 94 FE 38 E9 FE E1 1E B5 87 EF C5 E0 5C 27 34 DF 01 54 60 DA A1 FB 8D
+
+
+## SD FDroid Repo
+https://fdroid.saudigitus.org/repo
+
+* fingerprint: *
+2A D3 FB 0F 33 A2 E6 8A 55 1E 03 C7 76 7A B2 A4 7D D3 47 0D 11 24 69 2A AE 03 A1 B8 49 53 E5 4D
+
+
