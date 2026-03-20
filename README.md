@@ -3127,3 +3127,10 @@ https://fdroid.saudigitus.org/repo
 2A D3 FB 0F 33 A2 E6 8A 55 1E 03 C7 76 7A B2 A4 7D D3 47 0D 11 24 69 2A AE 03 A1 B8 49 53 E5 4D
 
 
+## Navit
+https://jkoan.github.io/fdroid-repo/fdroid/repo
+
+* fingerprint: *
+D5 F1 CB D3 52 9C 7A 24 2E E9 BF CD B8 FC AE AC BD 5C BC 61 10 18 5C 06 A6 19 3A 00 BA D0 65 3D
+
+
