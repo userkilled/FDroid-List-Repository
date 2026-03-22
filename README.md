@@ -3134,3 +3134,17 @@ https://jkoan.github.io/fdroid-repo/fdroid/repo
 D5 F1 CB D3 52 9C 7A 24 2E E9 BF CD B8 FC AE AC BD 5C BC 61 10 18 5C 06 A6 19 3A 00 BA D0 65 3D
 
 
+## Kevin Saukel
+https://fdroid.saukels.de/fdroid/repo
+
+* fingerprint: *
+D3 23 16 6F EA 49 29 C9 5D 90 F0 C5 69 1A 5E FF 56 04 CE 78 59 DA 70 88 55 7E 96 B2 00 38 95 E8
+
+
+## Kevin Saukel Archive
+https://fdroid.saukels.de/fdroid/archive
+
+* fingerprint: *
+D3 23 16 6F EA 49 29 C9 5D 90 F0 C5 69 1A 5E FF 56 04 CE 78 59 DA 70 88 55 7E 96 B2 00 38 95 E8
+
+
