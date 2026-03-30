@@ -3148,3 +3148,17 @@ https://fdroid.saukels.de/fdroid/archive
 D3 23 16 6F EA 49 29 C9 5D 90 F0 C5 69 1A 5E FF 56 04 CE 78 59 DA 70 88 55 7E 96 B2 00 38 95 E8
 
 
+## RJ
+https://li-ruijie.github.io/apk/repo
+
+* fingerprint: *
+6B 4B CF 73 C4 B9 17 62 20 E5 55 93 A7 3F 97 A2 BD A0 35 15 BE 07 4E D0 B4 BC 3C ED B9 4D 70 BE
+
+
+## CoinTech
+https://fdroid.cointech.net/repo
+
+* fingerprint: *
+7C 9A DF EB 97 40 FF 68 4C 3A F7 C4 9F 8B 4E 97 31 D5 27 00 A9 A6 F7 06 E4 1C C3 E4 EA A9 30 61
+
+
