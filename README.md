@@ -3162,3 +3162,10 @@ https://fdroid.cointech.net/repo
 7C 9A DF EB 97 40 FF 68 4C 3A F7 C4 9F 8B 4E 97 31 D5 27 00 A9 A6 F7 06 E4 1C C3 E4 EA A9 30 61
 
 
+## OOPetris
+https://fdroid.oopetris.totto.lt/repo
+
+* fingerprint: *
+8B 71 BD CF E9 48 55 B9 4B C7 C8 9E 87 81 50 A2 17 83 64 91 9E F2 85 6E 6C C9 97 B7 6B 66 07 5E
+
+
