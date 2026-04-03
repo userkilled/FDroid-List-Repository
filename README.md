@@ -3169,3 +3169,10 @@ https://fdroid.oopetris.totto.lt/repo
 8B 71 BD CF E9 48 55 B9 4B C7 C8 9E 87 81 50 A2 17 83 64 91 9E F2 85 6E 6C C9 97 B7 6B 66 07 5E
 
 
+## TheFischer
+https://fdroid.thefischer.org/fdroid/repo
+
+* fingerprint: *
+80 98 6F A9 92 4C 60 90 F5 92 5F 26 10 B0 D3 A9 C7 10 0C D2 3B A4 D0 09 8E 95 B2 F6 FB 7A 1E 34
+
+
