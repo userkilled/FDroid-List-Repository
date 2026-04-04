@@ -3176,3 +3176,10 @@ https://fdroid.thefischer.org/fdroid/repo
 80 98 6F A9 92 4C 60 90 F5 92 5F 26 10 B0 D3 A9 C7 10 0C D2 3B A4 D0 09 8E 95 B2 F6 FB 7A 1E 34
 
 
+## Marvin
+https://fdroid.marvinfeiter.de/repo
+
+* fingerprint: *
+A4 99 8E D1 67 B4 69 4A 07 D9 62 36 99 57 FD 9E EA 03 BA 2D 79 BD E3 8D 67 FE 41 7F 3C 19 51 45
+
+
