@@ -3190,3 +3190,10 @@ https://raw.githubusercontent.com/TroyJ/docker-overlays-fdroid-repo/refs/heads/m
 67 2F 7A 2F B0 8B 7E DF F8 08 A8 4F A3 75 E8 2E 46 05 6F 7F 2C 30 30 DC C6 22 00 4E 6D B5 00 49
 
 
+## ride.cat
+https://f-droid.ride.cat/repo
+
+* fingerprint: *
+1B 3B D8 FD A0 00 9C 67 06 FB A9 28 47 C5 5F D8 A5 B9 4D BC 5D 26 22 70 D9 CC A0 B1 88 0D 08 41
+
+
