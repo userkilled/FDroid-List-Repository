@@ -3183,3 +3183,10 @@ https://fdroid.marvinfeiter.de/repo
 A4 99 8E D1 67 B4 69 4A 07 D9 62 36 99 57 FD 9E EA 03 BA 2D 79 BD E3 8D 67 FE 41 7F 3C 19 51 45
 
 
+## Prado Overlays
+https://raw.githubusercontent.com/TroyJ/docker-overlays-fdroid-repo/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+67 2F 7A 2F B0 8B 7E DF F8 08 A8 4F A3 75 E8 2E 46 05 6F 7F 2C 30 30 DC C6 22 00 4E 6D B5 00 49
+
+
