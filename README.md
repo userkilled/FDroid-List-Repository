@@ -1066,7 +1066,7 @@ https://raw.githubusercontent.com/ohidurbappy/fdroid/main/fdroid/repo
 https://raw.githubusercontent.com/Ilingu/fdroid/main/repo
 
 * fingerprint: *
-B5 C0 C8 25 BB B9 C0 3A 81 19 16 9C D9 97 D0 03 F4 72 EA 5B 7E BA 19 E1 80 CD EE 0D 79 8A 17 25
+77 D7 EF A9 82 E2 D3 CA 51 92 75 93 C1 B2 40 92 D4 5D 89 D2 3E 1A 29 86 44 59 C4 25 F4 F5 C5 AA
 
 
 ## Huizengek's
