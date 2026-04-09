@@ -3197,3 +3197,10 @@ https://f-droid.ride.cat/repo
 1B 3B D8 FD A0 00 9C 67 06 FB A9 28 47 C5 5F D8 A5 B9 4D BC 5D 26 22 70 D9 CC A0 B1 88 0D 08 41
 
 
+## Zerion
+https://fdroid.zerion.chat/fdroid/repo
+
+* fingerprint: *
+D7 FD B1 11 25 89 0D 13 3A E8 9D 8B A4 F4 33 1D 90 45 E2 1E F0 1D 98 99 A7 CD EE 68 88 F7 04 C8
+
+
