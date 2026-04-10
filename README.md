@@ -3204,3 +3204,10 @@ https://fdroid.zerion.chat/fdroid/repo
 D7 FD B1 11 25 89 0D 13 3A E8 9D 8B A4 F4 33 1D 90 45 E2 1E F0 1D 98 99 A7 CD EE 68 88 F7 04 C8
 
 
+## Project Ghost
+https://f-droid.pyrosec.is/repo
+
+* fingerprint: *
+AD FD FA 12 09 6F 80 D2 30 18 27 88 34 F7 54 BD DA 36 8B DE 45 C4 40 A8 AF AD 9E B9 CD BF BB A1
+
+
