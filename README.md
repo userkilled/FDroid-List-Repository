@@ -3211,3 +3211,10 @@ https://f-droid.pyrosec.is/repo
 AD FD FA 12 09 6F 80 D2 30 18 27 88 34 F7 54 BD DA 36 8B DE 45 C4 40 A8 AF AD 9E B9 CD BF BB A1
 
 
+## xxanqw
+https://fdroid.xserv.pp.ua/fdroid/repo
+
+* fingerprint: *
+F8 D7 52 1B 01 AF 2C 10 7B F5 9F 5F 39 D3 4F 93 E9 EE 14 12 1F 7C BB 93 E3 4D 53 E8 87 0D E9 65
+
+
