@@ -3218,3 +3218,24 @@ https://fdroid.xserv.pp.ua/fdroid/repo
 F8 D7 52 1B 01 AF 2C 10 7B F5 9F 5F 39 D3 4F 93 E9 EE 14 12 1F 7C BB 93 E3 4D 53 E8 87 0D E9 65
 
 
+## Flinkanzeigen
+https://fdroid.flinkanzeigen.de/fdroid/repo
+
+* fingerprint: *
+44 AE 03 3D E7 93 1C 57 82 A2 BB BA 94 AD 1C 23 58 77 44 69 81 C8 E3 02 69 2C 38 AD B8 52 0F 0C
+
+
+## syk.sh
+https://fdroid.syk.sh/fdroid/repo
+
+* fingerprint: *
+76 67 56 50 BC 9A 1B FE 9A BF 9B 64 AF AF 6B C8 7C AC 4D 69 36 99 F7 7F 02 E6 C1 3A 1C 65 EF 2C
+
+
+## Voke
+https://fdroid.voke.dev/repo
+
+* fingerprint: *
+4D 25 D1 A1 21 2D 72 0B 3F F7 3D F5 E5 E8 95 A9 ED 89 B8 CE 3D DD BA 45 F5 62 39 98 6A 38 FB C8
+
+
