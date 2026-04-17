@@ -3239,3 +3239,10 @@ https://fdroid.voke.dev/repo
 4D 25 D1 A1 21 2D 72 0B 3F F7 3D F5 E5 E8 95 A9 ED 89 B8 CE 3D DD BA 45 F5 62 39 98 6A 38 FB C8
 
 
+## ElefantRadio
+https://fdroid.3ether.net/fdroid/repo
+
+* fingerprint: *
+AA C9 BE BE 0E 06 5E 56 7F 93 08 D1 0C 4C E2 68 E6 7E 08 11 94 F2 69 3B 88 F8 FF 1F 1D CC CF D2
+
+
