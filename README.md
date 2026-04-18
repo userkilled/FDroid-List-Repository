@@ -3246,3 +3246,10 @@ https://fdroid.3ether.net/fdroid/repo
 AA C9 BE BE 0E 06 5E 56 7F 93 08 D1 0C 4C E2 68 E6 7E 08 11 94 F2 69 3B 88 F8 FF 1F 1D CC CF D2
 
 
+## BlackPirateX Apps
+http://fdroid.blackpiratex.com/repo
+
+* fingerprint: *
+C9 C4 EB 54 3E 01 F6 31 B6 8F 2F 9F A8 7F E0 FF 9D 9C 95 20 33 4B 09 A3 9F 25 59 B4 C9 7E 92 EC
+
+
