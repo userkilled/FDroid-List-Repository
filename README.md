@@ -3253,3 +3253,10 @@ http://fdroid.blackpiratex.com/repo
 C9 C4 EB 54 3E 01 F6 31 B6 8F 2F 9F A8 7F E0 FF 9D 9C 95 20 33 4B 09 A3 9F 25 59 B4 C9 7E 92 EC
 
 
+## HydraMeshnet
+https://hydrameshnet.github.io/fdroid/repo
+
+* fingerprint: *
+49 22 FF 1D DA 9F BB 4B F2 F9 B1 11 4C 77 14 AD 65 C5 97 6F 10 CD 4F 86 4A B2 C8 BD 12 36 5A 75
+
+
