@@ -3260,3 +3260,10 @@ https://hydrameshnet.github.io/fdroid/repo
 49 22 FF 1D DA 9F BB 4B F2 F9 B1 11 4C 77 14 AD 65 C5 97 6F 10 CD 4F 86 4A B2 C8 BD 12 36 5A 75
 
 
+## Agroecology Map
+https://fdroid.agroecologymap.org/repo
+
+* fingerprint: *
+04 AF EA E1 B3 5C 93 CA 7A CD D8 AD F9 EC 75 12 6F B2 4F 5B 5E 34 9F 70 4C D7 68 23 AD 1F F8 F9
+
+
