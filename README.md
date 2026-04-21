@@ -3267,3 +3267,17 @@ https://fdroid.agroecologymap.org/repo
 04 AF EA E1 B3 5C 93 CA 7A CD D8 AD F9 EC 75 12 6F B2 4F 5B 5E 34 9F 70 4C D7 68 23 AD 1F F8 F9
 
 
+## Mon dépôt F-Droid
+https://fdroid.ritim.ovh/repo
+
+* fingerprint: *
+0F D8 BC 7A 83 30 A5 72 D2 C9 DE 8B BA FA E8 B7 F3 5A 92 73 9C 3F 0B 52 28 83 DA E0 97 D3 23 79
+
+
+## Mon dépôt F-Droid (archives)
+https://fdroid.ritim.ovh/archive
+
+* fingerprint: *
+0F D8 BC 7A 83 30 A5 72 D2 C9 DE 8B BA FA E8 B7 F3 5A 92 73 9C 3F 0B 52 28 83 DA E0 97 D3 23 79
+
+
