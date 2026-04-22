@@ -3281,3 +3281,8 @@ https://fdroid.ritim.ovh/archive
 0F D8 BC 7A 83 30 A5 72 D2 C9 DE 8B BA FA E8 B7 F3 5A 92 73 9C 3F 0B 52 28 83 DA E0 97 D3 23 79
 
 
+## huanhoahongso3-collab
+https://raw.githubusercontent.com/huanhoahongso3-collab/fdroid/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+B3 E9 2B 0D 71 33 99 FD EA 33 A8 38 A1 96 CF 8F AB D1 D3 F2 88 3A DD 9C 11 51 A1 9C B0 58 09 A8
