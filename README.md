@@ -3286,3 +3286,12 @@ https://raw.githubusercontent.com/huanhoahongso3-collab/fdroid/refs/heads/main/f
 
 * fingerprint: *
 B3 E9 2B 0D 71 33 99 FD EA 33 A8 38 A1 96 CF 8F AB D1 D3 F2 88 3A DD 9C 11 51 A1 9C B0 58 09 A8
+
+
+## RKLM-repo
+https://fdroid.rklm.dev/repo
+
+* fingerprint: *
+3F B9 F4 24 34 E9 D4 F1 2E 3F 42 71 0B B9 F6 73 6D 47 FE 73 4C 8C BA 3E 91 B1 64 DB 1E FD C8 27
+
+
