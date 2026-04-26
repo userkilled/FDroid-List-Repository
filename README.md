@@ -3295,3 +3295,10 @@ https://fdroid.rklm.dev/repo
 3F B9 F4 24 34 E9 D4 F1 2E 3F 42 71 0B B9 F6 73 6D 47 FE 73 4C 8C BA 3E 91 B1 64 DB 1E FD C8 27
 
 
+## NyxNord
+https://fdroid.nyxnord.de/fdroid/repo
+
+* fingerprint: *
+B8 74 9F F4 3B 4B B3 E1 CD FF E2 98 9A DE E5 2B A2 5D 40 EE 47 9E 36 24 DC 5F DA 19 20 2B 2B 9D
+
+
