@@ -3302,3 +3302,10 @@ https://fdroid.nyxnord.de/fdroid/repo
 B8 74 9F F4 3B 4B B3 E1 CD FF E2 98 9A DE E5 2B A2 5D 40 EE 47 9E 36 24 DC 5F DA 19 20 2B 2B 9D
 
 
+## Vending Machine Android 
+https://raw.githubusercontent.com/onkelennovending/fdroid-repo/refs/heads/main/repo
+
+* fingerprint: *
+E3 CB 74 7A 9C DA 33 64 BD 8D D2 0A 8B 75 66 A0 16 B5 6E BF 95 64 87 14 34 F3 66 00 73 B0 FB DF
+
+
