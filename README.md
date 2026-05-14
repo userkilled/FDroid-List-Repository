@@ -3309,3 +3309,10 @@ https://raw.githubusercontent.com/onkelennovending/fdroid-repo/refs/heads/main/r
 E3 CB 74 7A 9C DA 33 64 BD 8D D2 0A 8B 75 66 A0 16 B5 6E BF 95 64 87 14 34 F3 66 00 73 B0 FB DF
 
 
+## MC Android
+https://raw.githubusercontent.com/mmmmmmarcus/MC_AndroidApp_FDroid/refs/heads/main/repo
+
+* fingerprint: *
+C8 0D 42 2C F9 30 FD 42 FB 68 11 FF EB BE 6E 5C E1 36 ED 74 70 C2 24 7D 54 8C 7A D4 24 51 F4 A7
+
+
