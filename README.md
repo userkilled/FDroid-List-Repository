@@ -3316,3 +3316,31 @@ https://raw.githubusercontent.com/mmmmmmarcus/MC_AndroidApp_FDroid/refs/heads/ma
 C8 0D 42 2C F9 30 FD 42 FB 68 11 FF EB BE 6E 5C E1 36 ED 74 70 C2 24 7D 54 8C 7A D4 24 51 F4 A7
 
 
+## FL0777 (archive)
+https://raw.githubusercontent.com/FL0777/studienprojekt-fdroid/refs/heads/main/archive
+
+* fingerprint: *
+C6 C7 9B 0D A9 CE B1 74 16 9A 5B 3A 91 6D 1C D9 87 A4 7A 7C F2 73 BB 25 36 FD 75 DD 28 E4 99 B0
+
+
+## FL0777
+https://raw.githubusercontent.com/FL0777/studienprojekt-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+C6 C7 9B 0D A9 CE B1 74 16 9A 5B 3A 91 6D 1C D9 87 A4 7A 7C F2 73 BB 25 36 FD 75 DD 28 E4 99 B0
+
+
+## imjuzcy
+https://raw.githubusercontent.com/imjuzcy/fdroids/refs/heads/main/repo
+
+* fingerprint: *
+28 1D BD 0B F6 C2 0F 41 6A 11 9B EB 18 E6 02 B1 32 85 81 41 53 95 24 FF 43 FC 72 4F B7 E8 87 6C
+
+
+## ARCT Dev Apps
+https://fdroid.arctdev.com/repo
+
+* fingerprint: *
+A3 34 FB 80 65 33 5A F1 A7 D9 F3 3F 3E E3 6E F3 1A 7B 71 BB 81 D6 FA DF 1D BA 83 AA D4 4F 2E 32
+
+
