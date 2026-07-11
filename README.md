@@ -3344,3 +3344,38 @@ https://fdroid.arctdev.com/repo
 A3 34 FB 80 65 33 5A F1 A7 D9 F3 3F 3E E3 6E F3 1A 7B 71 BB 81 D6 FA DF 1D BA 83 AA D4 4F 2E 32
 
 
+## Bag
+https://raw.githubusercontent.com/UXAVIA/fdroid-repo/refs/heads/main/repo
+
+* fingerprint: *
+81 A0 E7 A7 8E 72 7A 39 FF B1 D8 8B 0E 74 E5 77 6A A6 5D BF 7A A7 23 A8 22 F4 AB 1B CD 29 AE 4D
+
+
+## Kharon Messenger
+https://raw.githubusercontent.com/webdotG/kharon-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+A6 4D 6C C5 7A 17 35 B4 38 15 B8 99 16 35 34 7B FC D0 EB A0 A3 23 F8 E1 A3 A7 72 B5 0A 97 28 FC
+
+
+## Lolo RSS Reader
+https://raw.githubusercontent.com/immerzu/lolo-rssreader-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+E2 8D B1 9F 26 29 84 19 98 91 FE 7B B9 8D 80 83 09 BB 4F 05 1E 8A 7E F5 B4 4D 9D 30 E5 D4 72 ED
+
+
+## funkypitt
+https://raw.githubusercontent.com/funkypitt/fdroid-repo/refs/heads/master/repo
+
+* fingerprint: *
+64 19 1E 58 C9 8A D1 97 1B CA 06 69 B6 BF AB 5C 71 35 D6 41 1A 8E AA 25 27 41 C2 D3 5F 16 10 7C
+
+
+## TroyJ
+https://troyj.github.io/fdroid/repo
+
+* fingerprint: *
+67 2F 7A 2F B0 8B 7E DF F8 08 A8 4F A3 75 E8 2E 46 05 6F 7F 2C 30 30 DC C6 22 00 4E 6D B5 00 49
+
+
