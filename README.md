@@ -3379,3 +3379,24 @@ https://troyj.github.io/fdroid/repo
 67 2F 7A 2F B0 8B 7E DF F8 08 A8 4F A3 75 E8 2E 46 05 6F 7F 2C 30 30 DC C6 22 00 4E 6D B5 00 49
 
 
+## CROWDio
+https://raw.githubusercontent.com/Crowdio-21/Publish-FDroid/refs/heads/gh-pages/fdroid/repo
+
+* fingerprint: *
+61 09 31 D0 D1 8A 72 A7 9D B5 08 62 68 E8 D3 26 8E 02 40 A0 C8 9F 07 65 49 5F A0 78 0A 80 E6 06
+
+
+## Dynag
+https://dynag1.github.io/Dynag1-Fdroid/fdroid/repo
+
+* fingerprint: *
+4C 6D 0C DF E4 4F BB 44 AE 34 06 8F ED F6 91 D6 09 A0 14 B8 C6 03 CA 84 B0 67 2C 98 64 DE D0 B3
+
+
+## Aalivexy
+https://aalivexy.cc/fdroid/repo
+
+* fingerprint: *
+FD 1F A1 A8 EB AB 0C E3 72 01 3A D5 02 E7 42 B3 83 40 27 EA F4 AC 65 C9 E2 25 19 BA 5E 1A BC ED
+
+
