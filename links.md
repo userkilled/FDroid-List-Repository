@@ -94,3 +94,7 @@ https://briarproject.org/fdroid/repo?fingerprint=1FB874BEE7276D28ECB2C9B06E8A122
 ```
 https://guardianproject-wind.s3.amazonaws.com/fdroid/repo?fingerprint=182CF464D219D340DA443C62155198E399FEC1BC4379309B775DD9FC97ED97E1
 ```
+# PikaSim
+```
+https://pikasim.com/fdroid/repo?fingerprint=A00DEFCFB5B914DBF40333707AAC5130F23C622318478C9D3D89CDE19F472826
+```
