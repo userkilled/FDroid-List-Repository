@@ -3407,3 +3407,38 @@ https://pikasim.com/fdroid/repo
 A0 0D EF CF B5 B9 14 DB F4 03 33 70 7A AC 51 30 F2 3C 62 23 18 47 8C 9D 3D 89 CD E1 9F 47 28 26
 
 
+## Draulisc
+https://fdroid.hydraulisc.net/repo
+
+* fingerprint: *
+1C 88 70 A7 2B 8D 76 21 8D CF A2 C3 8F BB 07 BA CB 69 52 D5 53 33 68 5C E9 0B B9 79 B1 21 4E 43
+
+
+## Bytedigit
+https://droid-repo.bytedigit.xyz/fdroid/repo
+
+* fingerprint: *
+8A DF F7 86 DC 71 22 EA C1 C0 E7 5D 24 71 78 73 82 9E DF 86 BD A9 CA F2 F7 82 C6 D5 E0 F7 A2 CF
+
+
+## dimasirginsyh
+https://raw.githubusercontent.com/dimasirginsyh/fdroid-repo/refs/heads/main/repo
+
+* fingerprint: *
+07 54 9C 7A A9 DC 47 11 CE 2B D6 68 43 CD EC 2B DF 6A 29 8C DE 62 32 18 02 F8 90 4C 8A C6 B8 2E
+
+
+## mazzz1y
+https://mazzz1y.github.io/fdroid/repo
+
+* fingerprint: *
+65 AB 65 29 6C 33 87 57 25 23 4F 8F E1 73 94 5E BD 04 78 CB A7 43 43 21 B3 A3 96 BE 07 47 6C 30
+
+
+## App Fair Project 
+https://api.appfair.net/fdroid/repo
+
+* fingerprint: *
+9A DA 4E FB CA 1C A1 58 8E 4B 86 65 53 BA 9C 6F 59 2E A7 2D 65 E2 04 05 EA 1F 69 F2 F5 4B D4 C8
+
+
