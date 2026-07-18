@@ -3400,3 +3400,10 @@ https://aalivexy.cc/fdroid/repo
 FD 1F A1 A8 EB AB 0C E3 72 01 3A D5 02 E7 42 B3 83 40 27 EA F4 AC 65 C9 E2 25 19 BA 5E 1A BC ED
 
 
+## PikaSim
+https://pikasim.com/fdroid/repo
+
+* fingerprint: *
+A0 0D EF CF B5 B9 14 DB F4 03 33 70 7A AC 51 30 F2 3C 62 23 18 47 8C 9D 3D 89 CD E1 9F 47 28 26
+
+
