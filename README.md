@@ -3442,3 +3442,11 @@ https://api.appfair.net/fdroid/repo
 9A DA 4E FB CA 1C A1 58 8E 4B 86 65 53 BA 9C 6F 59 2E A7 2D 65 E2 04 05 EA 1F 69 F2 F5 4B D4 C8
 
 
+## FMD (FindeMyDevice)
+https://packages.fmd-foss.org/fdroid/repo
+
+* fingerprint: *
+4E B0 31 80 02 FA E7 9A 0E 77 14 22 FF 07 46 80 87 E6 5A DB 23 F5 54 C1 19 63 6F 2F 0A 07 46 B2
+
+
+
