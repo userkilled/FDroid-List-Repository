@@ -3449,4 +3449,38 @@ https://packages.fmd-foss.org/fdroid/repo
 4E B0 31 80 02 FA E7 9A 0E 77 14 22 FF 07 46 80 87 E6 5A DB 23 F5 54 C1 19 63 6F 2F 0A 07 46 B2
 
 
+## Breeze Weather (free network only)
+https://breezy-weather.github.io/fdroid-repo/fdroid-version/fdroid/repo
+
+* fingerprint: *
+34 80 A7 BB 2A 29 6D 8F 98 CB 90 D2 30 91 99 B5 B9 51 9C 1B 31 97 8D BC D8 77 AD B1 02 AF 35 EE
+
+
+## FreetimeMaker
+https://raw.githubusercontent.com/FreetimeMaker/fdroid/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+52 5A AD 9B 34 6F 70 38 8D 96 E2 81 C0 61 BC 18 4B 5A FE C3 58 72 BF 1E 14 0A D8 06 3C C2 A1 C2
+
+
+## FreetimeMaker Archive 
+https://raw.githubusercontent.com/FreetimeMaker/fdroid/refs/heads/main/fdroid/archive
+
+* fingerprint: *
+52 5A AD 9B 34 6F 70 38 8D 96 E2 81 C0 61 BC 18 4B 5A FE C3 58 72 BF 1E 14 0A D8 06 3C C2 A1 C2
+
+
+## Mobile Approval
+http://repository.satu.solutions/hris.project/repo
+
+* fingerprint: *
+41 4F D8 DF C7 84 77 F0 68 7D E8 29 98 53 9A 5B C1 BD 33 D4 74 97 BF BA 31 AE 32 FD 79 93 D6 55
+
+
+## Travazap
+https://T-R-A-V-A-Z-A-P.github.io/fdroid/repo
+
+* fingerprint: *
+1D 9E 46 A0 EC 88 C8 5F 81 94 E1 F4 41 49 F5 9B D1 1D B0 73 91 68 7C 8C AF B3 8F 23 65 3C 85 47
+
 
