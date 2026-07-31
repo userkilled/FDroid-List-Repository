@@ -3484,3 +3484,24 @@ https://T-R-A-V-A-Z-A-P.github.io/fdroid/repo
 1D 9E 46 A0 EC 88 C8 5F 81 94 E1 F4 41 49 F5 9B D1 1D B0 73 91 68 7C 8C AF B3 8F 23 65 3C 85 47
 
 
+## Northstar Labs
+https://raw.githubusercontent.com/northstar-works/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+84 BB 8D DE CC EB 03 90 9D 40 97 C7 6B D5 92 7E 2F 2F 0B 7C C6 9B 94 5C 5C 25 CC BD 7B 69 49 D4
+
+
+## Northstar Labs Archive
+https://raw.githubusercontent.com/northstar-works/fdroid/refs/heads/main/archive
+
+* fingerprint: *
+84 BB 8D DE CC EB 03 90 9D 40 97 C7 6B D5 92 7E 2F 2F 0B 7C C6 9B 94 5C 5C 25 CC BD 7B 69 49 D4
+
+
+## Northstar Labs TV
+https://raw.githubusercontent.com/northstar-works/fdroid-tv/refs/heads/main/repo
+
+* fingerprint: *
+DE F9 A8 74 CA 77 27 DD F3 59 B9 AC 4F 55 C9 C8 07 70 49 37 98 D5 DF D2 9C 6E 16 A7 92 9B 3C 71
+
+
