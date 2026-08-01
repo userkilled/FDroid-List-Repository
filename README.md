@@ -3505,3 +3505,17 @@ https://raw.githubusercontent.com/northstar-works/fdroid-tv/refs/heads/main/repo
 DE F9 A8 74 CA 77 27 DD F3 59 B9 AC 4F 55 C9 C8 07 70 49 37 98 D5 DF D2 9C 6E 16 A7 92 9B 3C 71
 
 
+## coelhorb
+https://raw.githubusercontent.com/coelhorb/fdroid_repo/refs/heads/main/repo
+
+* fingerprint: *
+9E 04 36 C7 7F 09 71 B2 44 FB D4 FC 94 A6 84 63 D6 7F E8 85 23 D9 AE B9 E9 54 23 32 F2 9A 66 59
+
+
+## Karmic Gochara 
+https://raw.githubusercontent.com/tripesinn/karmic-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+9C 6C E5 9F B7 78 54 A1 26 45 0B C4 78 63 A5 FB 49 BC 36 7B 51 93 B8 C6 FF 7A 3C 34 37 DF F8 2C
+
+
