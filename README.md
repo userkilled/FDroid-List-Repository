@@ -3394,7 +3394,7 @@ https://dynag1.github.io/Dynag1-Fdroid/fdroid/repo
 
 
 ## Aalivexy
-https://aalivexy.cc/fdroid/repo
+https://cnb.cool/aalivexy/fdroid-repo/-/git/raw/fdroid/repo
 
 * fingerprint: *
 FD 1F A1 A8 EB AB 0C E3 72 01 3A D5 02 E7 42 B3 83 40 27 EA F4 AC 65 C9 E2 25 19 BA 5E 1A BC ED
