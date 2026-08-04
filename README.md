@@ -3519,3 +3519,18 @@ https://raw.githubusercontent.com/tripesinn/karmic-fdroid/refs/heads/main/repo
 9C 6C E5 9F B7 78 54 A1 26 45 0B C4 78 63 A5 FB 49 BC 36 7B 51 93 B8 C6 FF 7A 3C 34 37 DF F8 2C
 
 
+## VLC (Gamma)
+https://raw.githubusercontent.com/d33mobile/vlc-gamma-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+DE 81 29 94 CA 3F 92 55 62 6F D3 7C 89 DE C7 DA 90 16 A7 0C EA A2 22 12 C2 60 82 38 D7 28 3C 52
+
+
+## HeliBoard nopopup
+https://raw.githubusercontent.com/d33mobile/heliboard-nopopup-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+52 5E 51 6E 3A E7 76 3A 58 89 50 E9 69 21 61 02 9D E2 E3 73 A9 15 14 55 FF 6F 9C 17 17 9D 15 A7
+
+
+
