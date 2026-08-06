@@ -3533,4 +3533,59 @@ https://raw.githubusercontent.com/d33mobile/heliboard-nopopup-fdroid/refs/heads/
 52 5E 51 6E 3A E7 76 3A 58 89 50 E9 69 21 61 02 9D E2 E3 73 A9 15 14 55 FF 6F 9C 17 17 9D 15 A7
 
 
+## ConnectAll
+https://raw.githubusercontent.com/connectallapp26/connectall-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+C4 CC EE 46 07 6C 48 6E DD 1D 78 BB 0A AE 2D 72 32 A0 9F CB 7F F2 16 80 4C 6C 50 C0 55 2E BA 10
+
+
+## naiaddd
+https://raw.githubusercontent.com/naiaddd/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+44 29 6C 16 45 AF D6 AD 42 11 3A 56 0E B3 75 A3 18 7E 78 B2 72 F1 A9 1A 10 72 8D 49 58 FC FF A2
+
+
+## WinStar 3
+https://franckrichard01.github.io/WinStars3-FDroid/repo
+
+* fingerprint: *
+B5 D9 95 28 AA 0B 67 B3 03 61 D4 50 00 86 28 9C 15 F8 3F A5 0D 2E 1D 1A 4A BF B5 C5 7E 17 57 B4
+
+
+## awoo-co
+https://awoo-co.github.io/fdroid-repo/repo
+
+* fingerprint: *
+AC 5A E0 E2 0B CA 45 F5 9A A7 7F 9F D3 FB 3A 6F C1 AD CC 9F 72 EC B5 46 F0 20 C1 45 68 D3 3B 32
+
+
+## sewpersam
+https://raw.githubusercontent.com/sewpersam/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+07 A3 31 05 21 F1 E9 0C 83 6E 00 51 11 02 1C 04 C5 E9 7D 5B C1 E8 BC C4 6F B7 3F AF 2E 0B A6 5F
+
+
+## nihaltp
+https://raw.githubusercontent.com/nihaltp/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+07 AE 85 3D 08 61 D7 12 61 9E 8D C2 A3 50 B9 7D 1F 2B 61 F6 D3 C5 92 1A 32 71 7E BE 1A 94 D6 52
+
+
+## nihaltp archive
+https://raw.githubusercontent.com/nihaltp/fdroid/refs/heads/main/archive
+
+* fingerprint: *
+07 AE 85 3D 08 61 D7 12 61 9E 8D C2 A3 50 B9 7D 1F 2B 61 F6 D3 C5 92 1A 32 71 7E BE 1A 94 D6 52
+
+
+## Alisher
+https://raw.githubusercontent.com/xAlisher/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+92 83 C4 E3 DA B3 1E 68 67 5B 64 3A E3 82 22 35 85 41 43 1A D0 72 95 B6 DF 4A 4C 6D 2A CC CF 32
+
 
