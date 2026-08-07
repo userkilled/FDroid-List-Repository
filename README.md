@@ -3589,3 +3589,24 @@ https://raw.githubusercontent.com/xAlisher/fdroid/refs/heads/main/repo
 92 83 C4 E3 DA B3 1E 68 67 5B 64 3A E3 82 22 35 85 41 43 1A D0 72 95 B6 DF 4A 4C 6D 2A CC CF 32
 
 
+## plonhfg-dev
+https://raw.githubusercontent.com/plonhfg-dev/app-fdroid-repo/refs/heads/main/repo
+
+* fingerprint: *
+69 F2 23 F7 03 5C C1 CF 36 51 C7 9C AB 75 23 CF ED FB E2 07 67 1B FC 71 50 C7 E7 0D FB CE 7D 8A
+
+
+## PDX Potholes
+https://paulfrazier.github.io/pdxpotholes-fdroid/repo
+
+* fingerprint: *
+C4 A4 E7 9F 94 B0 0D 73 27 B0 92 91 FE 79 A7 83 1C 31 0E 3A AB 93 79 E2 03 8E 28 D5 54 A0 AC 08
+
+
+## Ddc Apps
+https://raw.githubusercontent.com/Glocus26/fdroid-repo/refs/heads/master/fdroid/repo
+
+* fingerprint: *
+41 9B 1F 20 24 2F BC 47 6F 96 6D 34 A1 74 7D FF 29 55 BC 01 85 8A BA 0C 49 86 F9 C5 D7 C2 ED 3B
+
+
