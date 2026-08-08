@@ -3610,3 +3610,24 @@ https://raw.githubusercontent.com/Glocus26/fdroid-repo/refs/heads/master/fdroid/
 41 9B 1F 20 24 2F BC 47 6F 96 6D 34 A1 74 7D FF 29 55 BC 01 85 8A BA 0C 49 86 F9 C5 D7 C2 ED 3B
 
 
+## Nutritor
+https://raw.githubusercontent.com/nouhailler/nutritor-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+58 50 D1 AE EF 21 50 39 71 DB 8F 59 E0 46 35 CC 9D 5F 98 55 B0 5E 43 4C 9A B2 D9 09 4A D3 33 33
+
+
+## Zodl
+https://foss.zodl.com/fdroid/repo
+
+* fingerprint: *
+7E 75 1A B7 10 15 9D FF 44 F5 56 31 F9 10 BA 40 33 F0 EB D2 F8 67 69 1A F6 33 CE CE 4D DB 62 E4
+
+
+## Zodl Archive
+https://foss.zodl.com/fdroid/archive
+
+* fingerprint: *
+7E 75 1A B7 10 15 9D FF 44 F5 56 31 F9 10 BA 40 33 F0 EB D2 F8 67 69 1A F6 33 CE CE 4D DB 62 E4
+
+
