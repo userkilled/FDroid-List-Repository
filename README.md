@@ -3631,3 +3631,17 @@ https://foss.zodl.com/fdroid/archive
 7E 75 1A B7 10 15 9D FF 44 F5 56 31 F9 10 BA 40 33 F0 EB D2 F8 67 69 1A F6 33 CE CE 4D DB 62 E4
 
 
+## binsky
+https://fdroid.binsky.org/fdroid/repo
+
+* fingerprint: *
+13 DA 59 0F F1 BE FE 1F 3B 8F 00 CF 95 06 2F D9 FB 53 57 7C 54 DA 2F F3 5D 39 94 72 F5 F3 39 19
+
+
+## siggsy
+https://siggsy.xyz/fdroid/repo
+
+* fingerprint: *
+8A 6C BD 3F CC 33 61 2B E8 CB F6 47 7C 2B 5C 50 2F 3B 39 CC FA 33 29 79 82 B2 FF FE 0A 4D 80 BF
+
+
