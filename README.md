@@ -3645,3 +3645,17 @@ https://siggsy.xyz/fdroid/repo
 8A 6C BD 3F CC 33 61 2B E8 CB F6 47 7C 2B 5C 50 2F 3B 39 CC FA 33 29 79 82 B2 FF FE 0A 4D 80 BF
 
 
+## zoop
+https://fdroid.zachy.cc/repo
+
+* fingerprint: *
+64 E3 BF 27 7C C4 8A 27 0B 54 3B 5D 8B 40 87 CB 3C BA 19 D3 50 94 74 64 77 60 79 A5 2E 56 C4 A3
+
+
+## DumberOS
+https://apps.dumbermini.com/repo
+
+* fingerprint: *
+E2 A0 26 CA B6 83 3A BB F8 32 9D FC FC 9E A0 0E CF ED 01 15 16 1A 28 77 F5 D9 A7 50 12 FF 93 D4
+
+
