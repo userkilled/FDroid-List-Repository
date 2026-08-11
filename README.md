@@ -3659,3 +3659,10 @@ https://apps.dumbermini.com/repo
 E2 A0 26 CA B6 83 3A BB F8 32 9D FC FC 9E A0 0E CF ED 01 15 16 1A 28 77 F5 D9 A7 50 12 FF 93 D4
 
 
+## Coords
+https://coord.is/fdroid/repo
+
+* fingerprint: *
+04 28 96 DE B1 90 DD 61 8E 0C FC C3 7A 2E D6 27 6A 34 1D 42 D2 76 25 F8 5A 74 37 D2 D9 0D 0D FE
+
+
