@@ -3666,3 +3666,31 @@ https://coord.is/fdroid/repo
 04 28 96 DE B1 90 DD 61 8E 0C FC C3 7A 2E D6 27 6A 34 1D 42 D2 76 25 F8 5A 74 37 D2 D9 0D 0D FE
 
 
+## Stephani-a11
+https://raw.githubusercontent.com/Stephani-a11/mi-repositorio-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+A9 D3 3E 02 A3 9D 61 1E 72 5E DB A3 91 0E DD F5 3C 9E 62 AE 10 6B 54 44 0F F9 DB 8C 83 31 95 B4
+
+
+## ximecastro1027-sketch
+https://raw.githubusercontent.com/ximecastro1027-sketch/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+11 8B 75 62 E7 15 60 9C 0B CB 9D A5 0C F0 E8 09 BD 39 38 83 61 43 BD 82 8A B0 C3 93 3C 7C AB CC
+
+
+## SafeTracks
+https://raw.githubusercontent.com/xavierlpro-coder/safetracks-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+F1 37 40 22 A3 7A BB FB F6 4C 7F 00 D8 9B AB 13 52 A6 98 B1 BE 62 EC 16 E0 D6 BB 14 49 DD D5 FF
+
+
+## OpenCode Mobile
+https://dzianisv.github.io/opencode-mobile/fdroid/repo
+
+* fingerprint: *
+71 98 12 56 E7 CA 70 9C 9F 0B C8 80 59 04 82 FA 10 B3 CB 1B 04 B6 40 33 F0 72 86 35 F1 48 E2 F2
+
+
