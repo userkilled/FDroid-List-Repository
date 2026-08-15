@@ -3722,4 +3722,11 @@ https://raw.githubusercontent.com/fdroid-revanced/fdroid-revanced.github.io/refs
 99 0A A5 15 64 4A 3F 15 28 C1 22 F2 CE 9C EB 19 F4 04 91 25 32 39 45 79 EB ED AE A3 2C 99 CD E9
 
 
+## Paseo Assembly
+https://raw.githubusercontent.com/colonelpanic8/paseo-assembly-fdroid/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+8D 22 9A 78 B0 D7 C2 20 86 E7 43 C9 ED C3 67 8B 5E D7 E9 C5 38 8A EB 18 01 37 29 56 81 39 B8 EE
+
+
 
