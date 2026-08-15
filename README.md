@@ -3694,3 +3694,32 @@ https://dzianisv.github.io/opencode-mobile/fdroid/repo
 71 98 12 56 E7 CA 70 9C 9F 0B C8 80 59 04 82 FA 10 B3 CB 1B 04 B6 40 33 F0 72 86 35 F1 48 E2 F2
 
 
+## Jeanhyv
+https://raw.githubusercontent.com/Jeanhyv/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+E8 9A EE 61 44 F1 9A DD BA 12 1F 0E F6 53 A7 00 19 43 47 2F 7D B8 AA DE 07 9E D5 6F 2C 73 9F 90
+
+
+## tizzenn
+https://raw.githubusercontent.com/tizzenn/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+63 D6 48 9D 8F C1 E7 D4 07 6E 52 B1 27 00 36 66 B7 80 5D 83 18 9A 4F 83 F4 93 3B B7 2F 8F B1 44
+
+
+## ArkHost
+https://fdroid.arkhost.com/fdroid/repo
+
+* fingerprint: *
+98 2A A0 B4 A9 98 28 C0 B9 F2 12 96 4F A1 6D 30 55 4A 74 A0 A2 F2 4C 9D C2 D1 C8 B8 D5 5A C9 72
+
+
+## ReVanced F-Droid
+https://raw.githubusercontent.com/fdroid-revanced/fdroid-revanced.github.io/refs/heads/main/repo
+
+* fingerprint: *
+99 0A A5 15 64 4A 3F 15 28 C1 22 F2 CE 9C EB 19 F4 04 91 25 32 39 45 79 EB ED AE A3 2C 99 CD E9
+
+
+
