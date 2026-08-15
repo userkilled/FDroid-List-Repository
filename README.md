@@ -688,7 +688,7 @@ EA 44 EF AE E0 B6 41 EE 7A 03 2D 39 7D 5D 97 6F 9C 4E 5E 1E D2 6E 11 C7 57 02 D0
 
 
 ## idoéOS
-https://raw.githubusercontent.com/iodeOS/fdroid/master/fdroid/repo
+https://gitlab.iode.tech/fdroid/fdroid/-/raw/master/fdroid/repo
 
 * fingerprint: *
 EC 43 61 0D 9A CC A5 D2 42 6E B2 D5 EB 74 33 19 30 01 4D E7 9D 3C 3A CB C1 7D FE 58 AA 12 60 5F
