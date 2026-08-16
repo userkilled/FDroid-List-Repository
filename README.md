@@ -3743,4 +3743,18 @@ https://fdroid.sidesuite.app/fdroid/repo
 61 FD 7A 8F 0D 32 92 5E E8 0C 7F 55 A6 69 0C 2A 02 C2 FC 3C A9 C6 78 37 0B F6 23 EA B2 98 70 A0
 
 
+## Vox Apps
+https://razvan-eduard.github.io/vox-fdroid-repo/fdroid/repo
+
+* fingerprint: *
+54 0B 09 CB 7A B8 75 05 57 C9 FB 71 45 F9 3D CE ED 85 3F BD 47 D4 60 26 CD 08 A6 8A E3 40 54 31
+
+
+## Simon's Apps
+https://raw.githubusercontent.com/simon-liesinger/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+9E 38 5C B3 2E C9 1A D8 D5 F9 BA 6D E9 9A 6A 63 6D 7F 8B CC 1D 99 F8 82 7C E8 AA 59 8D BB A0 27
+
+
 
