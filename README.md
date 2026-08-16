@@ -3729,4 +3729,18 @@ https://raw.githubusercontent.com/colonelpanic8/paseo-assembly-fdroid/refs/heads
 8D 22 9A 78 B0 D7 C2 20 86 E7 43 C9 ED C3 67 8B 5E D7 E9 C5 38 8A EB 18 01 37 29 56 81 39 B8 EE
 
 
+## ACMETEC
+https://raw.githubusercontent.com/acmetec/greenbot-fdroid/refs/heads/main/fdroid/repo
+
+* fingerprint: *
+7C A2 8C 9C 13 11 82 9C 0A 64 48 66 F9 18 09 AA BC A1 B2 53 53 9A B4 CD 7C 7A 84 73 1F 86 A2 28
+
+
+## SideSuite
+https://fdroid.sidesuite.app/fdroid/repo
+
+* fingerprint: *
+61 FD 7A 8F 0D 32 92 5E E8 0C 7F 55 A6 69 0C 2A 02 C2 FC 3C A9 C6 78 37 0B F6 23 EA B2 98 70 A0
+
+
 
