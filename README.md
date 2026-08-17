@@ -3757,4 +3757,17 @@ https://raw.githubusercontent.com/simon-liesinger/fdroid/refs/heads/main/repo
 9E 38 5C B3 2E C9 1A D8 D5 F9 BA 6D E9 9A 6A 63 6D 7F 8B CC 1D 99 F8 82 7C E8 AA 59 8D BB A0 27
 
 
+## deranjer's apps
+https://deranjer.github.io/fdroid/repo
+
+* fingerprint: *
+41 99 A0 A5 19 8B 7E C3 83 29 4E 18 AC 1D 18 97 7B 92 63 14 9D 39 EC 51 8C 8C 8E F9 9D 00 02 58
+
+
+## Railbird
+https://colonelpanic8.github.io/railbird-fdroid/fdroid/repo
+
+* fingerprint: *
+1B 04 9B 81 78 5F 05 09 C1 A4 C5 99 DB 6E B8 73 CB 90 2E 49 62 CE 78 52 8C 94 56 0F F9 7C 68 B0
+
 
