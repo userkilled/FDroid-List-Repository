@@ -3771,3 +3771,10 @@ https://colonelpanic8.github.io/railbird-fdroid/fdroid/repo
 1B 04 9B 81 78 5F 05 09 C1 A4 C5 99 DB 6E B8 73 CB 90 2E 49 62 CE 78 52 8C 94 56 0F F9 7C 68 B0
 
 
+## Plezy
+https://aldobarr.github.io/plezy-fdroid/fdroid/repo
+
+* fingerprint: *
+FC A8 51 A3 9C 7B 7F 7A CA A8 79 37 5E 3D BB B2 D5 C6 07 6E E2 14 C7 F9 53 11 40 73 A1 AC 9B B4
+
+
