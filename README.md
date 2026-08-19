@@ -3778,3 +3778,10 @@ https://aldobarr.github.io/plezy-fdroid/fdroid/repo
 FC A8 51 A3 9C 7B 7F 7A CA A8 79 37 5E 3D BB B2 D5 C6 07 6E E2 14 C7 F9 53 11 40 73 A1 AC 9B B4
 
 
+## SafeFridge
+https://raw.githubusercontent.com/xavierlpro-coder/safefridge-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+2B 8A 17 7C AA 6D D7 94 89 6A 92 01 C6 29 C0 68 E0 24 39 DE 34 72 1C DB 89 96 30 AE 5C E1 27 01
+
+
