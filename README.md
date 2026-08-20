@@ -3785,3 +3785,10 @@ https://raw.githubusercontent.com/xavierlpro-coder/safefridge-fdroid/refs/heads/
 2B 8A 17 7C AA 6D D7 94 89 6A 92 01 C6 29 C0 68 E0 24 39 DE 34 72 1C DB 89 96 30 AE 5C E1 27 01
 
 
+## lamggm
+https://raw.githubusercontent.com/lamggm/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+62 28 42 FD 5B 3C B8 0F 1E 96 FA 20 77 BC A0 63 6C 5D D4 F3 C0 2A AB 6E CA B3 9B E2 91 03 BD E8
+
+
