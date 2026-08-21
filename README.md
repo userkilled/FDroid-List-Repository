@@ -3792,3 +3792,10 @@ https://raw.githubusercontent.com/lamggm/fdroid/refs/heads/main/repo
 62 28 42 FD 5B 3C B8 0F 1E 96 FA 20 77 BC A0 63 6C 5D D4 F3 C0 2A AB 6E CA B3 9B E2 91 03 BD E8
 
 
+## Nova AI
+https://raw.githubusercontent.com/loak7993-code/nova-ai-fdroid/refs/heads/main/repo
+
+* fingerprint: *
+25 8D 52 57 73 44 FD 47 4C F3 8A B8 E0 86 4C FC B2 1B D4 64 DE AD 34 37 CD 2C 88 8A 20 83 D7 3D
+
+
