@@ -3799,3 +3799,10 @@ https://raw.githubusercontent.com/loak7993-code/nova-ai-fdroid/refs/heads/main/r
 25 8D 52 57 73 44 FD 47 4C F3 8A B8 E0 86 4C FC B2 1B D4 64 DE AD 34 37 CD 2C 88 8A 20 83 D7 3D
 
 
+## Homelab Store
+https://fdroid.uricio.me/repo
+
+* fingerprint: *
+49 02 74 BA 5C 82 F7 CD 0D BC ED 99 F0 7C 39 23 EA F3 93 74 1B 8C E0 58 0A B9 68 2A C6 21 CF 32
+
+
