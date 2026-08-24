@@ -3806,3 +3806,31 @@ https://fdroid.uricio.me/repo
 49 02 74 BA 5C 82 F7 CD 0D BC ED 99 F0 7C 39 23 EA F3 93 74 1B 8C E0 58 0A B9 68 2A C6 21 CF 32
 
 
+## Finder Parts
+https://raw.githubusercontent.com/Sarge2024/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+DF 62 DC 04 4A 3D 1B 77 BD 3A 07 DF 03 AA C4 45 B4 5A 07 5F DF 34 00 63 74 3B D7 FE 15 CE E8 CF
+
+
+## NativeNote
+https://raw.githubusercontent.com/atikulmunna/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+35 B0 23 55 05 86 C1 74 E6 4E CD EB 8A ED 1D 63 BC A0 D7 3D 2B 71 4F 60 AF 7E 45 47 87 B6 FD 89
+
+
+## Mason
+https://grldadrcks.github.io/fdroid-repo/fdroid/repo
+
+* fingerprint: *
+F3 07 2A 70 47 28 4D 72 C5 D2 D9 C2 8D 00 03 87 8B 7F D3 05 B9 48 A3 E1 DB 16 93 75 E7 7F EF 4D
+
+
+## Dmitnin
+https://dmitnin.github.io/fdroid/repo
+
+* fingerprint: *
+25 2C A1 15 4B 9F 20 C4 AF 70 BA 20 E5 9D EC 82 36 B5 3F 6A 76 94 D8 5C A7 71 59 2A B7 D9 78 D6
+
+
