@@ -3834,3 +3834,10 @@ https://dmitnin.github.io/fdroid/repo
 25 2C A1 15 4B 9F 20 C4 AF 70 BA 20 E5 9D EC 82 36 B5 3F 6A 76 94 D8 5C A7 71 59 2A B7 D9 78 D6
 
 
+## lorenz15
+https://ilorenz00.github.io/fdroid-lorenzl5/repo
+
+* fingerprint: *
+74 53 E1 FB 81 1E 43 16 D8 FD AF 12 79 F5 FD FF F5 0A 2E 91 71 45 41 11 06 3A 26 5E 27 D3 56 68
+
+
