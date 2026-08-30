@@ -3841,3 +3841,10 @@ https://ilorenz00.github.io/fdroid-lorenzl5/repo
 74 53 E1 FB 81 1E 43 16 D8 FD AF 12 79 F5 FD FF F5 0A 2E 91 71 45 41 11 06 3A 26 5E 27 D3 56 68
 
 
+## Privacy Guides
+https://fdroid.privacyguides.org/fdroid/repo
+
+* fingerprint: *
+14 E8 1B 3E B0 D5 68 2C 6E 82 2D 28 40 E8 96 85 B2 41 9E 91 88 FC 64 3C 07 24 33 DC FA 5C 69 B7
+
+
