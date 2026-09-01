@@ -3848,3 +3848,31 @@ https://fdroid.privacyguides.org/fdroid/repo
 14 E8 1B 3E B0 D5 68 2C 6E 82 2D 28 40 E8 96 85 B2 41 9E 91 88 FC 64 3C 07 24 33 DC FA 5C 69 B7
 
 
+## Redface2
+https://forumhfr.github.io/redface2-fdroid/repo
+
+* fingerprint: *
+B0 D2 65 D6 78 35 96 83 47 15 E6 AB 8C 54 C4 A9 4A 26 42 F6 AD 15 E2 79 F9 48 A5 8D F1 74 C8 AB
+
+
+## Danixu
+https://raw.githubusercontent.com/Danixu/sonoff-nspanel-pro-fdroid-custom/refs/heads/master/repo
+
+* fingerprint: *
+B1 36 BF B1 CA 00 E5 E0 C2 4C D1 C5 6C 07 FD 86 FA 0E 7C 31 52 35 52 6C CA 23 90 0D 57 35 42 47
+
+
+## Danixu archive
+https://raw.githubusercontent.com/Danixu/sonoff-nspanel-pro-fdroid-custom/refs/heads/master/archive
+
+* fingerprint: *
+B1 36 BF B1 CA 00 E5 E0 C2 4C D1 C5 6C 07 FD 86 FA 0E 7C 31 52 35 52 6C CA 23 90 0D 57 35 42 47
+
+
+## livrasand
+https://raw.githubusercontent.com/livrasand/fdroid/refs/heads/main/repo
+
+* fingerprint: *
+4F C1 23 51 F0 4F B9 91 CD 68 A6 81 A1 59 56 27 AD AB FA 02 11 9A AA 36 06 DE AB A1 DA B1 3A D2
+
+
