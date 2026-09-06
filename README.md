@@ -3876,3 +3876,17 @@ https://raw.githubusercontent.com/livrasand/fdroid/refs/heads/main/repo
 4F C1 23 51 F0 4F B9 91 CD 68 A6 81 A1 59 56 27 AD AB FA 02 11 9A AA 36 06 DE AB A1 DA B1 3A D2
 
 
+## Game Booster Repo
+https://raw.githubusercontent.com/superuser200/gamebooster-fdroid/refs/heads/master/repo
+
+* fingerprint: *
+2C 73 E9 EF 87 61 67 3F 23 1A C8 20 45 79 57 BA 93 48 55 5B 5A 9D BA F7 46 B4 EA 47 25 91 36 C9
+
+
+## burtrum.org
+https://fdroid.burtrum.org/repo
+
+* fingerprint: *
+96 3B 26 7A E7 84 09 E7 70 81 F5 35 FD 81 33 87 C7 22 DC 2C 58 70 43 F2 14 E7 88 5D 75 02 D1 0D
+
+
