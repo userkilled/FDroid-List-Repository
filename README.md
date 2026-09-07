@@ -3897,3 +3897,11 @@ https://firedown.app/fdroid/repo
 93 8F F0 2D 89 E9 F3 C9 D8 DD FE A8 85 E7 AE 5E 02 12 F8 29 11 58 7C E6 60 BC 9B 8F 6E DC 15 71
 
 
+## Jarachmeel Store
+https://f-droid.jerachmeel.keenetic.pro/fdroid/repo
+
+* fingerprint: *
+11 D2 8F 94 F6 24 D5 35 0C 59 75 AF 31 58 18 64 43 CA EE 74 CD 7B 49 90 A5 13 96 3C 69 7F 7B C2
+
+
+
