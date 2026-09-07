@@ -3890,3 +3890,10 @@ https://fdroid.burtrum.org/repo
 96 3B 26 7A E7 84 09 E7 70 81 F5 35 FD 81 33 87 C7 22 DC 2C 58 70 43 F2 14 E7 88 5D 75 02 D1 0D
 
 
+## Firedown
+https://firedown.app/fdroid/repo
+
+* fingerprint: *
+93 8F F0 2D 89 E9 F3 C9 D8 DD FE A8 85 E7 AE 5E 02 12 F8 29 11 58 7C E6 60 BC 9B 8F 6E DC 15 71
+
+
