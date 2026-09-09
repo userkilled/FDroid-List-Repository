@@ -3904,4 +3904,17 @@ https://f-droid.jerachmeel.keenetic.pro/fdroid/repo
 11 D2 8F 94 F6 24 D5 35 0C 59 75 AF 31 58 18 64 43 CA EE 74 CD 7B 49 90 A5 13 96 3C 69 7F 7B C2
 
 
+## Pastiera Nightly
+https://pastiera.eu/fdroid/nightly/repo
+
+* fingerprint: *
+4B 92 E8 B9 29 7A CE 1E EE 0D 2B AC 0F 80 D0 EF B2 F8 42 82 01 01 57 38 1E 94 79 AD 38 5D 5B 3E
+
+
+## HawkFranklin AURA
+https://www.hawkfranklin.in/fdroid/repo
+
+* fingerprint: *
+33 7E 15 85 67 88 87 8A A7 AD C9 34 75 34 20 FE 8E EC 33 F7 E4 E3 22 57 B6 FC 23 60 24 48 C6 2C
+
 
