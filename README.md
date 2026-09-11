@@ -3918,3 +3918,10 @@ https://www.hawkfranklin.in/fdroid/repo
 33 7E 15 85 67 88 87 8A A7 AD C9 34 75 34 20 FE 8E EC 33 F7 E4 E3 22 57 B6 FC 23 60 24 48 C6 2C
 
 
+## DVPN - NORSE Labs
+https://update.norselabs.io/dvpn/android/fdroid/repo
+
+* fingerprint: *
+3C 15 FF C6 F9 EA 13 EB 40 38 71 74 A5 94 D0 16 A6 D3 42 00 44 FD 43 4F 99 A4 F2 14 A1 64 96 A8
+
+
