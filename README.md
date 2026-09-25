@@ -3925,3 +3925,31 @@ https://update.norselabs.io/dvpn/android/fdroid/repo
 3C 15 FF C6 F9 EA 13 EB 40 38 71 74 A5 94 D0 16 A6 D3 42 00 44 FD 43 4F 99 A4 F2 14 A1 64 96 A8
 
 
+## SmarterTube
+https://codesculptor.github.io/SmarterTube/fdroid/repo
+
+* fingerprint: *
+C7 AE 86 B0 A3 29 1B 5D 73 96 41 1B E1 85 C6 0B 29 8C 9D 25 01 21 72 DD FC 85 9B 25 B5 40 A4 6B
+
+
+## Light
+https://fdroid.lig.ht/repo
+
+* fingerprint: *
+F0 E3 0F 38 2B 8C 78 E5 5B 48 89 3D EB 3C 3E 7D 64 67 37 97 81 D2 B1 65 C6 19 8C E6 1C 99 80 59
+
+
+## Mullvad VPN
+https://fdroid.devmole.eu/fdroid/repo
+
+* fingerprint: *
+7B E2 19 30 C3 B4 D7 39 06 B0 89 30 45 0A 1D 3A FB D2 2C 98 D9 D8 E9 87 DF 8C 1F BC 2D 0C 90 BB
+
+
+## zxc2
+https://fdroid.zxczxc.org/repo
+
+* fingerprint: *
+A5 C5 B8 FA 5A C0 22 1E D3 AF 1F 72 0B 05 32 C2 E9 16 6C 93 9B FF C7 F4 31 E3 38 E3 FB 78 29 70
+
+
