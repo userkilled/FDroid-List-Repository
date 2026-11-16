@@ -3953,3 +3953,38 @@ https://fdroid.zxczxc.org/repo
 A5 C5 B8 FA 5A C0 22 1E D3 AF 1F 72 0B 05 32 C2 E9 16 6C 93 9B FF C7 F4 31 E3 38 E3 FB 78 29 70
 
 
+## Arphonis Mobile Store
+https://mobilestore.arphonis.fr/repo
+
+* fingerprint: *
+2F 3D 7F 0F 53 B5 F2 7F E6 68 D3 1E 3E A5 70 F1 26 69 C8 E7 30 6A 3E 95 48 36 5F EC AA 4A 6F FB
+
+
+## HZN F-DROID
+https://1.hzn001.kdns.fr/repo
+
+* fingerprint: *
+72 1E BC E6 9F 24 72 F2 1A 52 9D 38 18 89 A5 4D 62 49 85 89 20 2B 23 C4 E6 2B 1A 2C 06 24 D6 D6
+
+
+## MISTR Apps
+https://fdroid.mistr.com.pe/fdroid/repo
+
+* fingerprint: *
+FD 39 49 CF F0 2B 44 E5 34 70 FE B2 BA 92 9D AE D0 82 25 DC DA B3 71 41 12 0C B3 37 76 2B 7B 8A
+
+
+## key.store
+https://fdroid.key.store/repo
+
+* fingerprint: *
+00 5F 4A 68 EF 1C B6 69 34 EF D8 45 B0 4A AC 26 53 79 9E F0 0B 09 48 13 D5 C4 7B B2 12 EA 6B E6
+
+
+## SolvyPay Repo
+https://store.solvypay.app/repo
+
+* fingerprint: *
+BF C4 0F 99 C3 E5 32 47 FE 82 35 C5 18 A0 70 11 22 B4 C4 B9 40 33 6D D1 72 13 EA 7C B2 C8 45 5D
+
+
